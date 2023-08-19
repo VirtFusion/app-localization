@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netmaske",
     "235": "Opløsere",
-    "236": "IPv6-undernet",
-    "237": "Undernet",
-    "238": "Adresser",
     "239": "Tildel adresse",
     "240": "Sekundært netværk",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistik",
     "307": "Skjul",
     "308": "HDD",
-    "309": "Sovende"
+    "309": "Sovende",
+    "310": "IPv6-adresse aktiveret med succes. En genstart er påkrævet for at anvende ændringerne på serveren.",
+    "311": "IPv6-adresse deaktiveret med succes. En genstart er påkrævet for at anvende ændringerne på serveren.",
+    "312": "Er du sikker på, at du vil ændre servernetværket?",
+    "313": "Gem",
+    "314": "Afhængigt af det installerede operativsystem, og hvordan netværket er konfigureret på serveren, er det muligvis ikke muligt at anvende disse ændringer."
 }

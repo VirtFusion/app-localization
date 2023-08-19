@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netmask",
     "235": "Resolvers",
-    "236": "IPv6-subnetten",
-    "237": "Subnet",
-    "238": "Adressen",
     "239": "Adres toewijzen",
     "240": "Secundair netwerk",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistieken",
     "307": "Verberg",
     "308": "HDD",
-    "309": "Slapen"
+    "309": "Slapen",
+    "310": "IPv6-adres met succes ingeschakeld. Er is een herstart nodig om de wijzigingen toe te passen op de server.",
+    "311": "IPv6-adres met succes uitgeschakeld. Er is een herstart nodig om de wijzigingen op de server toe te passen.",
+    "312": "Weet je zeker dat je het servernetwerk wilt aanpassen?",
+    "313": "Sla",
+    "314": "Afhankelijk van het geïnstalleerde besturingssysteem en hoe netwerken zijn geconfigureerd op de server, is het mogelijk dat deze wijzigingen niet kunnen worden toegepast."
 }

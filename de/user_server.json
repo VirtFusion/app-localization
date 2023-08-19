@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netzmaske",
     "235": "Auflöser",
-    "236": "IPv6 Subnets",
-    "237": "Subnet",
-    "238": "Adressen",
     "239": "Adresse zuweisen",
     "240": "Sekundäres Netz",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistik",
     "307": "Hide",
     "308": "HDD",
-    "309": "Schlafen"
+    "309": "Schlafen",
+    "310": "IPv6-Adresse erfolgreich aktiviert. Ein Neustart ist erforderlich, um die Änderungen auf dem Server zu übernehmen.",
+    "311": "IPv6-Adresse erfolgreich deaktiviert. Ein Neustart ist erforderlich, um die Änderungen auf dem Server zu übernehmen.",
+    "312": "Sind Sie sicher, dass Sie das Servernetzwerk ändern wollen?",
+    "313": "Speichern Sie",
+    "314": "Abhängig vom installierten Betriebssystem und der Netzwerkkonfiguration des Servers können diese Änderungen möglicherweise nicht übernommen werden."
 }

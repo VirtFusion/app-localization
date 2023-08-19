@@ -235,9 +235,6 @@
     "233": "Bramka",
     "234": "Maska sieci",
     "235": "Resolwery",
-    "236": "Podsieci IPv6",
-    "237": "Podsieć",
-    "238": "Adresy",
     "239": "Przypisz adres",
     "240": "Sieć drugorzędna",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statystyki",
     "307": "Ukryj",
     "308": "HDD",
-    "309": "Spanie"
+    "309": "Spanie",
+    "310": "Adres IPv6 został pomyślnie włączony. Do zastosowania zmian na serwerze wymagane jest ponowne uruchomienie.",
+    "311": "Pomyślnie wyłączono adres IPv6. Do zastosowania zmian na serwerze wymagane jest ponowne uruchomienie.",
+    "312": "Czy na pewno chcesz zmodyfikować sieć serwerów?",
+    "313": "Zapisz",
+    "314": "W zależności od zainstalowanego systemu operacyjnego i sposobu skonfigurowania sieci na serwerze, zastosowanie tych zmian może nie być możliwe."
 }

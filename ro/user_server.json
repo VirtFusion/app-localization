@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netmask",
     "235": "Rezolvatori",
-    "236": "Subrețele IPv6",
-    "237": "Subrețea",
-    "238": "Adrese",
     "239": "Alocați adresa",
     "240": "Rețea secundară",
     "241": "ID-UL:",
@@ -308,5 +305,10 @@
     "306": "Statistici",
     "307": "Ascunde",
     "308": "HDD",
-    "309": "Dormit"
+    "309": "Dormit",
+    "310": "Adresa IPv6 a fost activată cu succes. Este necesară o repornire pentru a aplica modificările pe server.",
+    "311": "Adresa IPv6 a fost dezactivată cu succes. Este necesară o repornire pentru a aplica modificările pe server.",
+    "312": "Sigur doriți să modificați rețeaua serverului?",
+    "313": "Salvați",
+    "314": "În funcție de sistemul de operare instalat și de modul în care a fost configurată rețeaua pe server, este posibil să nu fie posibilă aplicarea acestor modificări."
 }

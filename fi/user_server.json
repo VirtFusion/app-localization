@@ -235,9 +235,6 @@
     "233": "Portti",
     "234": "Verkonaamio",
     "235": "Resolverit",
-    "236": "IPv6-aliverkot",
-    "237": "Aliverkko",
-    "238": "Osoitteet",
     "239": "Määritä osoite",
     "240": "Toissijainen verkko",
     "241": "TUNNUS:",
@@ -308,5 +305,10 @@
     "306": "Tilastot",
     "307": "Piilota",
     "308": "HDD",
-    "309": "Nukkuminen"
+    "309": "Nukkuminen",
+    "310": "IPv6-osoite on otettu käyttöön onnistuneesti. Uudelleenkäynnistys vaaditaan muutosten tekemiseksi palvelimeen.",
+    "311": "IPv6-osoite poistettu käytöstä onnistuneesti. Uudelleenkäynnistys vaaditaan muutosten tekemiseksi palvelimeen.",
+    "312": "Oletko varma, että haluat muokata palvelinverkkoa?",
+    "313": "Tallentaa",
+    "314": "Riippuen asennetusta käyttöjärjestelmästä ja siitä, miten verkottuminen on määritetty palvelimessa, näitä muutoksia ei ehkä voida soveltaa."
 }

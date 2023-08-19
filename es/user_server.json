@@ -235,9 +235,6 @@
     "233": "Pasarela",
     "234": "Máscara de red",
     "235": "Resolvedores",
-    "236": "Subredes IPv6",
-    "237": "Subred",
-    "238": "Direcciones",
     "239": "Asignar dirección",
     "240": "Red secundaria",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Estadísticas",
     "307": "Ocultar",
     "308": "HDD",
-    "309": "Para dormir"
+    "309": "Para dormir",
+    "310": "La dirección IPv6 se ha habilitado correctamente. Es necesario reiniciar el servidor para aplicar los cambios.",
+    "311": "Dirección IPv6 desactivada correctamente. Es necesario reiniciar el servidor para aplicar los cambios.",
+    "312": "¿Estás seguro de que quieres modificar la red de servidores?",
+    "313": "Guardar",
+    "314": "Dependiendo del sistema operativo instalado y de cómo se haya configurado la red en el servidor, puede que no sea posible aplicar estos cambios."
 }

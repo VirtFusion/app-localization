@@ -235,9 +235,6 @@
     "233": "Passerelle",
     "234": "Masque de réseau",
     "235": "Résolveurs",
-    "236": "IPv6 Subnets",
-    "237": "Subnet",
-    "238": "Adresses",
     "239": "Attribuer une adresse",
     "240": "Réseau secondaire",
     "241": "ID :",
@@ -308,5 +305,10 @@
     "306": "Statistiques",
     "307": "Hide",
     "308": "DISQUE DUR",
-    "309": "Dormir"
+    "309": "Dormir",
+    "310": "L'adresse IPv6 a été activée avec succès. Un redémarrage est nécessaire pour appliquer les modifications au serveur.",
+    "311": "L'adresse IPv6 a été désactivée avec succès. Un redémarrage est nécessaire pour appliquer les modifications au serveur.",
+    "312": "Êtes-vous sûr de vouloir modifier le réseau du serveur ?",
+    "313": "Économiser",
+    "314": "En fonction du système d'exploitation installé et de la manière dont le réseau a été configuré sur le serveur, il peut être impossible d'appliquer ces changements."
 }

@@ -235,9 +235,6 @@
     "233": "Gatevai",
     "234": "Netmask",
     "235": "Resolvers",
-    "236": "IPv6 Subnets",
-    "237": "Subnet",
-    "238": "Adrese",
     "239": "Dodeli adresu",
     "240": "Sekundarna mreža",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistika",
     "307": "Sakrij",
     "308": "HDD",
-    "309": "Spavanje"
+    "309": "Spavanje",
+    "310": "IPv6 adresa uspešno omogućena. Za primenu promena na serveru potrebno je ponovno pokretanje.",
+    "311": "IPv6 adresa je uspešno onemogućena. Za primenu promena na serveru potrebno je ponovno pokretanje.",
+    "312": "Da li ste sigurni da želite da izmenite serversku mrežu?",
+    "313": "Sačuvaj",
+    "314": "Zavisno od instaliranog operativnog sistema i načina na koji je umrežavanje konfigurisano na serveru, možda neće biti moguće primeniti ove promene."
 }

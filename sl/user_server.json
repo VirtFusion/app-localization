@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netmaska",
     "235": "Reševalniki",
-    "236": "Podomrežja IPv6",
-    "237": "Podomrežje",
-    "238": "Naslovi",
     "239": "Dodelitev naslova",
     "240": "Sekundarno omrežje",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistika",
     "307": "Skrij",
     "308": "HDD",
-    "309": "Spanje"
+    "309": "Spanje",
+    "310": "Naslov IPv6 je bil uspešno omogočen. Za uporabo sprememb v strežniku je potreben ponovni zagon.",
+    "311": "Naslov IPv6 je bil uspešno onemogočen. Za uporabo sprememb v strežniku je potreben ponovni zagon.",
+    "312": "Ali ste prepričani, da želite spremeniti omrežje strežnika?",
+    "313": "Shrani",
+    "314": "Odvisno od nameščenega operacijskega sistema in konfiguracije omrežja v strežniku teh sprememb morda ne bo mogoče uporabiti."
 }

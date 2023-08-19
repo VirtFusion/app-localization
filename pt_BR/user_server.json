@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Máscara de rede",
     "235": "Resolvedores",
-    "236": "Sub-redes IPv6",
-    "237": "Sub-rede",
-    "238": "Endereços",
     "239": "Atribuir endereço",
     "240": "Rede secundária",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Estatísticas",
     "307": "Esconder",
     "308": "HDD",
-    "309": "Dormir"
+    "309": "Dormir",
+    "310": "O endereço IPv6 foi ativado com êxito. É necessário reiniciar o sistema para aplicar as alterações ao servidor.",
+    "311": "Endereço IPv6 desativado com êxito. É necessário reiniciar o sistema para aplicar as alterações no servidor.",
+    "312": "Tem certeza de que deseja modificar a rede do servidor?",
+    "313": "Salvar",
+    "314": "Dependendo do sistema operacional instalado e de como a rede foi configurada no servidor, talvez não seja possível aplicar essas alterações."
 }

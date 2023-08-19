@@ -235,9 +235,6 @@
     "233": "Gerbang",
     "234": "Netmask",
     "235": "Penyelesai",
-    "236": "Subnet IPv6",
-    "237": "Subnet",
-    "238": "Alamat",
     "239": "Tetapkan Alamat",
     "240": "Jaringan Sekunder",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistik",
     "307": "Sembunyikan",
     "308": "HDD",
-    "309": "Tidur"
+    "309": "Tidur",
+    "310": "Alamat IPv6 berhasil diaktifkan. Diperlukan pengaktifan ulang untuk menerapkan perubahan pada server.",
+    "311": "Alamat IPv6 berhasil dinonaktifkan. Diperlukan pengaktifan ulang untuk menerapkan perubahan pada server.",
+    "312": "Apakah Anda yakin ingin memodifikasi jaringan server?",
+    "313": "Simpan",
+    "314": "Tergantung pada sistem operasi yang diinstal dan bagaimana jaringan telah dikonfigurasi pada server, perubahan ini mungkin tidak dapat diterapkan."
 }

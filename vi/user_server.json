@@ -235,9 +235,6 @@
     "233": "Cổng",
     "234": "Mặt nạ mạng",
     "235": "Người phân giải",
-    "236": "Mạng con IPv6",
-    "237": "Mạng con",
-    "238": "Địa chỉ",
     "239": "Gán địa chỉ",
     "240": "Mạng thứ cấp",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Thống kê",
     "307": "Ẩn",
     "308": "Ổ CỨNG",
-    "309": "Ngủ"
+    "309": "Ngủ",
+    "310": "Địa chỉ IPv6 được bật thành công. Cần phải khởi động lại để áp dụng các thay đổi cho máy chủ.",
+    "311": "Địa chỉ IPv6 bị vô hiệu hóa thành công. Cần phải khởi động lại để áp dụng các thay đổi cho máy chủ.",
+    "312": "Bạn có chắc chắn muốn sửa đổi mạng máy chủ không?",
+    "313": "Lưu",
+    "314": "Tùy thuộc vào hệ điều hành được cài đặt và cách mạng đã được cấu hình trên máy chủ, có thể không áp dụng được những thay đổi này."
 }

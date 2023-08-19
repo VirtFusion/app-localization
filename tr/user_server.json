@@ -235,9 +235,6 @@
     "233": "Ağ Geçidi",
     "234": "Netmask",
     "235": "Çözümleyiciler",
-    "236": "IPv6 Alt Ağları",
-    "237": "Alt ağ",
-    "238": "Adresler",
     "239": "Adres Atama",
     "240": "İkincil Ağ",
     "241": "KIMLIK:",
@@ -308,5 +305,10 @@
     "306": "İstatistikler",
     "307": "Gizle",
     "308": "HDD",
-    "309": "Uyumak"
+    "309": "Uyumak",
+    "310": "IPv6 adresi başarıyla etkinleştirildi. Değişikliklerin sunucuya uygulanması için yeniden başlatma gerekir.",
+    "311": "IPv6 adresi başarıyla devre dışı bırakıldı. Değişikliklerin sunucuya uygulanması için yeniden başlatma gerekir.",
+    "312": "Sunucu ağını değiştirmek istediğinizden emin misiniz?",
+    "313": "Kaydet",
+    "314": "Yüklü işletim sistemine ve sunucuda ağın nasıl yapılandırıldığına bağlı olarak, bu değişiklikleri uygulamak mümkün olmayabilir."
 }

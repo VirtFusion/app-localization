@@ -235,9 +235,6 @@
     "233": "Porta d'ingresso",
     "234": "Netmask",
     "235": "Risolutori",
-    "236": "Sottoreti IPv6",
-    "237": "Sottorete",
-    "238": "Indirizzi",
     "239": "Assegnazione dell'indirizzo",
     "240": "Rete secondaria",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistiche",
     "307": "Nascondere",
     "308": "HDD",
-    "309": "Dormire"
+    "309": "Dormire",
+    "310": "L'indirizzo IPv6 è stato abilitato con successo. È necessario un riavvio per applicare le modifiche al server.",
+    "311": "Indirizzo IPv6 disabilitato con successo. È necessario un riavvio per applicare le modifiche al server.",
+    "312": "Siete sicuri di voler modificare la rete del server?",
+    "313": "Risparmiare",
+    "314": "A seconda del sistema operativo installato e della configurazione di rete del server, potrebbe non essere possibile applicare queste modifiche."
 }

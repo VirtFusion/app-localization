@@ -235,9 +235,6 @@
     "233": "Gateway",
     "234": "Netmask",
     "235": "Resolvers",
-    "236": "IPv6 Subnets",
-    "237": "Subnet",
-    "238": "Addresses",
     "239": "Assign Address",
     "240": "Secondary Network",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistics",
     "307": "Hide",
     "308": "HDD",
-    "309": "Sleeping"
+    "309": "Sleeping",
+    "310": "IPv6 address enabled successfully. A restart is required to apply the changes to the server.",
+    "311": "IPv6 address disabled successfully. A restart is required to apply the changes to the server.",
+    "312": "Are you sure you want to modify the server network?",
+    "313": "Save",
+    "314": "Dependent on the operating system installed and how networking has been configured on the server, it may not be possible to apply these changes."
 }

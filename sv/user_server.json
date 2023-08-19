@@ -235,9 +235,6 @@
     "233": "Inkörsport",
     "234": "Nätmask",
     "235": "Resolvrar",
-    "236": "IPv6-undernät",
-    "237": "Subnät",
-    "238": "Adresser",
     "239": "Tilldela adress",
     "240": "Sekundärt nätverk",
     "241": "ID:",
@@ -308,5 +305,10 @@
     "306": "Statistik",
     "307": "Dölj",
     "308": "HDD",
-    "309": "Sova"
+    "309": "Sova",
+    "310": "IPv6-adress aktiverad framgångsrikt. En omstart krävs för att tillämpa ändringarna på servern.",
+    "311": "IPv6-adress inaktiverad framgångsrikt. En omstart krävs för att tillämpa ändringarna på servern.",
+    "312": "Är du säker på att du vill ändra servernätverket?",
+    "313": "Spara",
+    "314": "Beroende på vilket operativsystem som är installerat och hur nätverket har konfigurerats på servern kanske det inte går att tillämpa dessa ändringar."
 }
