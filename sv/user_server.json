@@ -362,5 +362,17 @@
     "363": "Ingen",
     "364": "Byt utrymme",
     "365": "Växlingsutrymme fungerar som säkerhetskopieringsminne och förhindrar kraschar när ditt system tar slut på fysiskt minne. Även om växlingsutrymmet är långsammare än fysiskt minne, hjälper det till att upprätthålla systemstabilitet och smidig drift. Tänk på att mängden bytutrymme du väljer kommer att reserveras på din lagringsdisk.",
-    "366": "Visa alla alternativ"
+    "366": "Visa alla alternativ",
+    "367": "Åtgärden är inte tillgänglig. Försök igen senare.",
+    "368": "Rescue Mode startar upp ett minimalt operativsystem oberoende av serverns huvuddisk. Den är utformad för att hjälpa dig att felsöka och åtgärda problem som startfel, felkonfigurationer eller skadade filsystem. När problemet är löst kan du inaktivera räddningsläget och servern återgår till sin vanliga operativmiljö.",
+    "369": "Välj ett räddningssystem från listan nedan. Om du skapar en session startas servern automatiskt om.",
+    "370": "En räddningssession är för närvarande aktiv. Du kan avsluta sessionen när som helst genom att klicka på knappen Avsluta session. Detta kommer att starta om servern till sin normala driftsmiljö.",
+    "371": "Skapa räddningssession",
+    "372": "Är du säker på att du vill skapa en räddningssession för den här servern? Servern startas om automatiskt och anslutningsinformation skickas till din e-post när sessionen är aktiv.",
+    "373": "Avsluta räddningssessionen",
+    "374": "Är du säker på att du vill avsluta räddningssessionen? Servern startas om automatiskt och startar tillbaka till sin normala driftsmiljö.",
+    "375": "Räddningssession aktiv",
+    "376": "Räddning",
+    "377": "Lösenord",
+    "378": "Alternativet är för närvarande inte tillgängligt"
 }

@@ -362,5 +362,17 @@
     "363": "Ninguno",
     "364": "Espacio de intercambio",
     "365": "El espacio de intercambio actúa como memoria de reserva, evitando fallos cuando el sistema se queda sin memoria física. Aunque el espacio de intercambio es más lento que la memoria física, ayuda a mantener la estabilidad y el buen funcionamiento del sistema. Tenga en cuenta que la cantidad de espacio de intercambio que elija se reservará en su disco de almacenamiento.",
-    "366": "Ver todas las opciones"
+    "366": "Ver todas las opciones",
+    "367": "Acción no disponible. Inténtelo más tarde.",
+    "368": "El modo de rescate arranca un sistema operativo mínimo independiente del disco principal del servidor. Está diseñado para ayudarle a solucionar problemas como fallos de arranque, configuraciones erróneas o sistemas de archivos dañados. Una vez resuelto el problema, puede desactivar el modo de rescate y el servidor volverá a su entorno operativo estándar.",
+    "369": "La creación de una sesión reiniciará automáticamente el servidor.",
+    "370": "En este momento hay una sesión de rescate activa. Puede finalizar la sesión en cualquier momento pulsando el botón Finalizar sesión. Esto reiniciará el servidor en su entorno operativo normal.",
+    "371": "Crear sesión de rescate",
+    "372": "¿Está seguro de que desea crear una sesión de rescate para este servidor? El servidor se reiniciará automáticamente y los detalles de la conexión se enviarán a su correo electrónico una vez que la sesión esté activa.",
+    "373": "Fin de la sesión de rescate",
+    "374": "¿Está seguro de que desea finalizar la sesión de rescate? El servidor se reiniciará automáticamente y volverá a su entorno operativo normal.",
+    "375": "Sesión de rescate activa",
+    "376": "Rescue",
+    "377": "Contraseña",
+    "378": "Opción actualmente no disponible"
 }

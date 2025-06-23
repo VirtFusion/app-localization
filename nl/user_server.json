@@ -362,5 +362,17 @@
     "363": "Geen",
     "364": "Swap Space",
     "365": "Swapruimte fungeert als back-upgeheugen en voorkomt crashes wanneer je systeem geen fysiek geheugen meer heeft. Hoewel swapruimte langzamer is dan fysiek geheugen, helpt het om de stabiliteit van het systeem en een soepele werking te behouden. Houd er rekening mee dat de hoeveelheid swapruimte die je kiest, wordt gereserveerd op je opslagschijf.",
-    "366": "Alle opties bekijken"
+    "366": "Alle opties bekijken",
+    "367": "Actie niet beschikbaar. Probeer het later opnieuw.",
+    "368": "Rescue Mode start een minimaal besturingssysteem onafhankelijk van de hoofdschijf van de server. Het is ontworpen om je te helpen bij het oplossen van problemen zoals mislukte opstart, verkeerde configuraties of beschadigde bestandssystemen. Zodra het probleem is opgelost, kun je de rescue mode uitschakelen en keert de server terug naar de standaard besturingsomgeving.",
+    "369": "Kies een reddingssysteem uit de onderstaande lijst. Als je een sessie aanmaakt, wordt de server automatisch opnieuw opgestart.",
+    "370": "Er is momenteel een reddingsessie actief. Je kunt de sessie op elk moment beëindigen door op de knop Sessie beëindigen te klikken. Hierdoor wordt de server opnieuw opgestart in zijn normale werkomgeving.",
+    "371": "Reddingssessie maken",
+    "372": "Weet je zeker dat je een reddingsessie wilt aanmaken voor deze server? De server wordt automatisch opnieuw opgestart en de verbindingsgegevens worden naar je e-mail gestuurd zodra de sessie actief is.",
+    "373": "Reddingssessie beëindigen",
+    "374": "Weet je zeker dat je de rescue sessie wilt beëindigen? De server wordt automatisch opnieuw opgestart en zal weer opstarten in zijn normale werkomgeving.",
+    "375": "Reddingssessie Actief",
+    "376": "Redding",
+    "377": "Wachtwoord",
+    "378": "Optie momenteel niet beschikbaar"
 }

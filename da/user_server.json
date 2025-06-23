@@ -362,5 +362,17 @@
     "363": "Ingen",
     "364": "Byt plads",
     "365": "Swap-plads fungerer som backup-hukommelse og forhindrer nedbrud, når dit system løber tør for fysisk hukommelse. Selvom swap-plads er langsommere end fysisk hukommelse, hjælper det med at opretholde systemets stabilitet og smidige drift. Husk, at den mængde swap-plads, du vælger, vil blive reserveret på din lagerdisk.",
-    "366": "Se alle muligheder"
+    "366": "Se alle muligheder",
+    "367": "Handling ikke tilgængelig. Prøv igen senere.",
+    "368": "Rescue Mode starter et minimalt operativsystem uafhængigt af serverens hoveddisk. Det er designet til at hjælpe dig med at fejlfinde og løse problemer som f.eks. opstartsfejl, fejlkonfigurationer eller beskadigede filsystemer. Når dit problem er løst, kan du deaktivere rescue mode, og serveren vender tilbage til sit standard driftsmiljø.",
+    "369": "Vælg et redningssystem fra listen nedenfor. Når du opretter en session, genstarter du automatisk serveren.",
+    "370": "En redningssession er i øjeblikket aktiv. Du kan afslutte sessionen når som helst ved at klikke på knappen Afslut session. Dette vil genstarte serveren i dens normale driftsmiljø.",
+    "371": "Opret redningssession",
+    "372": "Er du sikker på, at du vil oprette en redningssession for denne server? Serveren genstartes automatisk, og forbindelsesoplysninger sendes til din e-mail, når sessionen er aktiv.",
+    "373": "Afslut rednings-sessionen",
+    "374": "Er du sikker på, at du vil afslutte redningssessionen? Serveren genstartes automatisk og kommer tilbage til sit normale driftsmiljø.",
+    "375": "Redningssession aktiv",
+    "376": "Redning",
+    "377": "Adgangskode",
+    "378": "Mulighed ikke tilgængelig i øjeblikket"
 }

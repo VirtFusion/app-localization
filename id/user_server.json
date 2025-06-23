@@ -362,5 +362,17 @@
     "363": "Tidak ada",
     "364": "Tukar Ruang",
     "365": "Ruang swap berfungsi sebagai memori cadangan, mencegah kerusakan saat sistem kehabisan memori fisik. Meskipun ruang swap lebih lambat daripada memori fisik, ruang swap membantu menjaga stabilitas sistem dan kelancaran operasi. Ingatlah bahwa jumlah ruang swap yang Anda pilih akan dicadangkan di disk penyimpanan.",
-    "366": "Lihat semua Opsi"
+    "366": "Lihat semua Opsi",
+    "367": "Tindakan tidak tersedia. Coba lagi nanti.",
+    "368": "Mode Penyelamatan mem-boot sistem operasi minimal yang tidak bergantung pada disk utama server. Mode ini dirancang untuk membantu Anda memecahkan masalah dan memperbaiki masalah seperti kegagalan booting, kesalahan konfigurasi, atau sistem berkas yang rusak. Setelah masalah Anda teratasi, Anda bisa menonaktifkan mode penyelamatan dan server akan kembali ke lingkungan operasi standar.",
+    "369": "Pilih sistem penyelamatan dari daftar di bawah ini. Membuat sesi akan secara otomatis memulai ulang server.",
+    "370": "Sesi penyelamatan saat ini sedang aktif. Anda dapat mengakhiri sesi kapan saja dengan mengeklik tombol Akhiri Sesi. Ini akan memulai ulang server ke dalam lingkungan operasi normal.",
+    "371": "Buat Sesi Penyelamatan",
+    "372": "Apakah Anda yakin ingin membuat sesi penyelamatan untuk server ini? Server akan dimulai ulang secara otomatis, dan detail koneksi akan dikirim ke email Anda setelah sesi aktif.",
+    "373": "Akhiri Sesi Penyelamatan",
+    "374": "Apakah Anda yakin ingin mengakhiri sesi penyelamatan? Server akan dimulai ulang secara otomatis dan akan boot kembali ke lingkungan operasi normalnya.",
+    "375": "Sesi Penyelamatan Aktif",
+    "376": "Penyelamatan",
+    "377": "Kata sandi",
+    "378": "Opsi Saat Ini Tidak Tersedia"
 }

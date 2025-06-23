@@ -362,5 +362,17 @@
     "363": "Không",
     "364": "Hoán đổi không gian",
     "365": "Không gian hoán đổi hoạt động như bộ nhớ sao lưu, ngăn chặn sự cố khi hệ thống của bạn hết bộ nhớ vật lý. Mặc dù không gian swap chậm hơn bộ nhớ vật lý, nhưng nó giúp duy trì sự ổn định của hệ thống và hoạt động trơn tru. Hãy nhớ rằng dung lượng hoán đổi bạn chọn sẽ được dành riêng trên đĩa lưu trữ của bạn.",
-    "366": "Xem tất cả các tùy chọn"
+    "366": "Xem tất cả các tùy chọn",
+    "367": "Hành động không khả dụng. Thử lại sau.",
+    "368": "Rescue Mode khởi động một hệ điều hành tối thiểu độc lập với đĩa chính của máy chủ. Nó được thiết kế để giúp bạn khắc phục sự cố và khắc phục các vấn đề như lỗi khởi động, cấu hình sai hoặc hệ thống tệp bị hỏng. Khi vấn đề của bạn được giải quyết, bạn có thể tắt chế độ cứu hộ và máy chủ sẽ trở lại môi trường hoạt động tiêu chuẩn của nó.",
+    "369": "Chọn một hệ thống cứu hộ từ danh sách dưới đây. Tạo một phiên sẽ tự động khởi động lại máy chủ.",
+    "370": "Một phiên cứu hộ hiện đang hoạt động. Bạn có thể kết thúc phiên bất cứ lúc nào bằng cách nhấp vào nút Kết thúc phiên. Điều này sẽ khởi động lại máy chủ vào môi trường hoạt động bình thường của nó.",
+    "371": "Tạo phiên cứu hộ",
+    "372": "Bạn có chắc chắn muốn tạo một phiên cứu hộ cho máy chủ này không? Máy chủ sẽ được khởi động lại tự động và chi tiết kết nối sẽ được gửi đến email của bạn sau khi phiên hoạt động.",
+    "373": "Kết thúc phiên cứu hộ",
+    "374": "Bạn có chắc chắn muốn kết thúc phiên cứu hộ không? Máy chủ sẽ được khởi động lại tự động và sẽ khởi động trở lại môi trường hoạt động bình thường của nó.",
+    "375": "Phiên cứu hộ đang hoạt động",
+    "376": "Cứu hộ",
+    "377": "Mật khẩu",
+    "378": "Tùy chọn hiện không khả dụng"
 }

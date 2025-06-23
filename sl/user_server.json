@@ -362,5 +362,17 @@
     "363": "Ni",
     "364": "Prostor za zamenjavo",
     "365": "Prostor za zamenjavo deluje kot rezervni pomnilnik in preprečuje okvare, ko sistemu zmanjka fizičnega pomnilnika. Čeprav je prostor za zamenjavo počasnejši od fizičnega pomnilnika, pomaga ohranjati stabilnost in nemoteno delovanje sistema. Ne pozabite, da bo izbrana količina prostora za zamenjavo rezervirana na vašem pomnilniškem disku.",
-    "366": "Oglejte si vse možnosti"
+    "366": "Oglejte si vse možnosti",
+    "367": "Ukrep ni na voljo. Poskusite pozneje.",
+    "368": "Reševalni način zažene minimalni operacijski sistem, ki je neodvisen od glavnega diska strežnika. Zasnovan je za pomoč pri odpravljanju težav in težav, kot so napake pri zagonu, napačne konfiguracije ali poškodovani datotečni sistemi. Ko je težava odpravljena, lahko reševalni način onemogočite in strežnik se bo vrnil v standardno operacijsko okolje.",
+    "369": "S spodnjega seznama izberite reševalni sistem. Ob ustvarjanju seje se strežnik samodejno znova zažene.",
+    "370": "Trenutno je aktivna reševalna seja. Sejo lahko kadar koli končate s klikom na gumb Končaj sejo. S tem se strežnik ponovno zažene v normalno delovno okolje.",
+    "371": "Ustvarjanje reševalne seje",
+    "372": "Ali ste prepričani, da želite ustvariti reševalno sejo za ta strežnik? Strežnik se bo samodejno ponovno zagnal, ko bo seja aktivna, pa vam bomo v e-pošto poslali podrobnosti o povezavi.",
+    "373": "Konec reševalne seje",
+    "374": "Ali ste prepričani, da želite končati sejo reševanja? Strežnik se bo samodejno ponovno zagnal in se bo zagnal v normalno delovno okolje.",
+    "375": "Aktivna reševalna seja",
+    "376": "Reševanje",
+    "377": "Geslo",
+    "378": "Možnost trenutno ni na voljo"
 }

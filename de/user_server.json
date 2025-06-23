@@ -362,5 +362,17 @@
     "363": "Keine",
     "364": "Platz tauschen",
     "365": "Der Swap-Speicher dient als Backup-Speicher und verhindert Systemabstürze, wenn der physische Speicher nicht mehr ausreicht. Obwohl der Swap-Speicher langsamer ist als der physische Speicher, trägt er zur Systemstabilität und zum reibungslosen Betrieb bei. Beachten Sie, dass die von Ihnen gewählte Menge an Swap-Speicher auf Ihrer Festplatte reserviert wird.",
-    "366": "Alle Optionen anzeigen"
+    "366": "Alle Optionen anzeigen",
+    "367": "Aktion nicht verfügbar. Versuchen Sie es später noch einmal.",
+    "368": "Der Rettungsmodus bootet ein minimales Betriebssystem, das unabhängig von der Hauptfestplatte des Servers ist. Er soll Ihnen bei der Fehlersuche und -behebung helfen, z. B. bei Bootfehlern, Fehlkonfigurationen oder beschädigten Dateisystemen. Sobald das Problem behoben ist, können Sie den Rettungsmodus deaktivieren und der Server kehrt zu seiner Standardbetriebsumgebung zurück.",
+    "369": "Wählen Sie ein Rettungssystem aus der Liste unten aus. Wenn Sie eine Sitzung erstellen, wird der Server automatisch neu gestartet.",
+    "370": "Derzeit ist eine Rettungssitzung aktiv. Sie können die Sitzung jederzeit beenden, indem Sie auf die Schaltfläche Sitzung beenden klicken. Dadurch wird der Server in seiner normalen Betriebsumgebung neu gestartet.",
+    "371": "Rettungssitzung erstellen",
+    "372": "Sind Sie sicher, dass Sie eine Rettungssitzung für diesen Server erstellen möchten? Der Server wird automatisch neu gestartet, und die Verbindungsdaten werden an Ihre E-Mail geschickt, sobald die Sitzung aktiv ist.",
+    "373": "Rettungssitzung beenden",
+    "374": "Sind Sie sicher, dass Sie die Rettungssitzung beenden wollen? Der Server wird automatisch neu gestartet und kehrt in seine normale Betriebsumgebung zurück.",
+    "375": "Rettungssitzung aktiv",
+    "376": "Rettung",
+    "377": "Passwort",
+    "378": "Option derzeit nicht verfügbar"
 }

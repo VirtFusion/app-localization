@@ -362,5 +362,17 @@
     "363": "Aucun",
     "364": "Espace d'échange",
     "365": "L'espace de pagination agit comme une mémoire de secours, évitant les pannes lorsque votre système est à court de mémoire physique. Bien que l'espace de pagination soit plus lent que la mémoire physique, il contribue à maintenir la stabilité et le bon fonctionnement du système. Gardez à l'esprit que la quantité d'espace de pagination que vous choisissez sera réservée sur votre disque de stockage.",
-    "366": "Voir toutes les options"
+    "366": "Voir toutes les options",
+    "367": "L'action n'est pas disponible. Réessayez plus tard.",
+    "368": "Le mode secours démarre un système d'exploitation minimal indépendant du disque principal du serveur. Il est conçu pour vous aider à dépanner et à résoudre des problèmes tels que les échecs de démarrage, les mauvaises configurations ou les systèmes de fichiers corrompus. Une fois le problème résolu, vous pouvez désactiver le mode secours et le serveur reviendra à son environnement d'exploitation standard.",
+    "369": "Choisissez un système de secours dans la liste ci-dessous. La création d'une session redémarre automatiquement le serveur.",
+    "370": "Une session de sauvetage est actuellement en cours. Vous pouvez mettre fin à la session à tout moment en cliquant sur le bouton Fin de la session. Le serveur sera alors redémarré dans son environnement de fonctionnement normal.",
+    "371": "Créer une session de sauvetage",
+    "372": "Le serveur sera redémarré automatiquement et les détails de la connexion vous seront envoyés par courrier électronique une fois que la session sera active.",
+    "373": "Fin de la session de sauvetage",
+    "374": "Le serveur sera redémarré automatiquement et retrouvera son environnement d'exploitation normal.",
+    "375": "Session de sauvetage active",
+    "376": "Sauvetage",
+    "377": "Mot de passe",
+    "378": "Option non disponible actuellement"
 }

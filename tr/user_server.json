@@ -362,5 +362,17 @@
     "363": "Hiçbiri",
     "364": "Takas Alanı",
     "365": "Takas alanı yedek bellek görevi görerek sisteminizde fiziksel bellek kalmadığında çökmeleri önler. Takas alanı fiziksel bellekten daha yavaş olsa da sistem kararlılığının korunmasına ve sorunsuz çalışmasına yardımcı olur. Seçtiğiniz takas alanı miktarının depolama diskinizde ayrılacağını unutmayın.",
-    "366": "Tüm Seçenekleri Görüntüle"
+    "366": "Tüm Seçenekleri Görüntüle",
+    "367": "Eylem kullanılamıyor. Daha sonra tekrar deneyin.",
+    "368": "Kurtarma Modu, sunucunun ana diskinden bağımsız minimal bir işletim sistemini önyükler. Önyükleme hataları, yanlış yapılandırmalar veya bozuk dosya sistemleri gibi sorunları gidermenize ve düzeltmenize yardımcı olmak için tasarlanmıştır. Sorununuz çözüldüğünde, kurtarma modunu devre dışı bırakabilirsiniz ve sunucu standart işletim ortamına geri döner.",
+    "369": "Aşağıdaki listeden bir kurtarma sistemi seçin. Bir oturum oluşturmak sunucuyu otomatik olarak yeniden başlatacaktır.",
+    "370": "Şu anda bir kurtarma oturumu aktiftir. Oturumu Sonlandır düğmesine tıklayarak oturumu istediğiniz zaman sonlandırabilirsiniz. Bu, sunucuyu normal çalışma ortamına yeniden başlatacaktır.",
+    "371": "Kurtarma Oturumu Oluşturun",
+    "372": "Bu sunucu için bir kurtarma oturumu oluşturmak istediğinizden emin misiniz? Sunucu otomatik olarak yeniden başlatılacak ve oturum etkin olduğunda bağlantı ayrıntıları e-postanıza gönderilecektir.",
+    "373": "Kurtarma Oturumunu Sonlandırın",
+    "374": "Kurtarma oturumunu sonlandırmak istediğinizden emin misiniz? Sunucu otomatik olarak yeniden başlatılacak ve normal çalışma ortamına geri dönecektir.",
+    "375": "Kurtarma Oturumu Aktif",
+    "376": "Kurtarma",
+    "377": "Şifre",
+    "378": "Seçenek Şu Anda Kullanılamıyor"
 }

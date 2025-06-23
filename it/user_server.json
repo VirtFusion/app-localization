@@ -362,5 +362,17 @@
     "363": "Nessuno",
     "364": "Spazio di scambio",
     "365": "Lo spazio di swap funge da memoria di backup e previene i crash quando il sistema esaurisce la memoria fisica. Sebbene lo spazio di swap sia più lento della memoria fisica, contribuisce a mantenere la stabilità del sistema e il suo funzionamento regolare. Tenete presente che la quantità di spazio di swap scelta sarà riservata sul disco di archiviazione.",
-    "366": "Visualizza tutte le opzioni"
+    "366": "Visualizza tutte le opzioni",
+    "367": "Azione non disponibile. Riprovare più tardi.",
+    "368": "La modalità di salvataggio avvia un sistema operativo minimo indipendente dal disco principale del server. È progettata per aiutare l'utente a risolvere problemi quali errori di avvio, configurazioni errate o file system danneggiati. Una volta risolto il problema, è possibile disattivare la modalità di salvataggio e il server tornerà al suo ambiente operativo standard.",
+    "369": "Scegliere un sistema di salvataggio dall'elenco sottostante. La creazione di una sessione riavvia automaticamente il server.",
+    "370": "È attiva una sessione di salvataggio che può essere interrotta in qualsiasi momento facendo clic sul pulsante Termina sessione, per riavviare il server nel suo ambiente operativo normale.",
+    "371": "Creare una sessione di salvataggio",
+    "372": "Siete sicuri di voler creare una sessione di salvataggio per questo server? Il server verrà riavviato automaticamente e i dettagli della connessione verranno inviati al vostro indirizzo e-mail una volta che la sessione sarà attiva.",
+    "373": "Fine della sessione di salvataggio",
+    "374": "Il server verrà riavviato automaticamente e tornerà al suo normale ambiente operativo.",
+    "375": "Sessione di salvataggio attiva",
+    "376": "Salvataggio",
+    "377": "Password",
+    "378": "Opzione attualmente non disponibile"
 }

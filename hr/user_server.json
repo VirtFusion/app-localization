@@ -362,5 +362,17 @@
     "363": "Ništa",
     "364": "Zamijenite prostor",
     "365": "Zamjenski prostor djeluje kao sigurnosna memorija, sprječavajući padove kada vašem sustavu ponestane fizičke memorije. Iako je zamjenski prostor sporiji od fizičke memorije, pomaže u održavanju stabilnosti sustava i nesmetanom radu. Imajte na umu da će količina zamjenskog prostora koju odaberete biti rezervirana na vašem disku za pohranu.",
-    "366": "Pogledaj sve opcije"
+    "366": "Pogledaj sve opcije",
+    "367": "Radnja nedostupna. Pokušajte ponovo kasnije.",
+    "368": "Način spašavanja pokreće minimalni operativni sustav neovisan o glavnom disku poslužitelja. Dizajniran je da vam pomogne u rješavanju problema kao što su kvarovi u pokretanju, pogrešne konfiguracije ili oštećeni datotečni sustavi. Nakon što se problem riješi, možete onemogućiti način spašavanja i poslužitelj će se vratiti u svoje standardno radno okruženje.",
+    "369": "Odaberite sustav spašavanja s donjeg popisa. Stvaranje sesije automatski će ponovno pokrenuti poslužitelj.",
+    "370": "Trenutno je aktivna sjednica spašavanja. Sesiju možete završiti u bilo kojem trenutku klikom na gumb Završi sesiju. Ovo će ponovno pokrenuti poslužitelj u njegovo normalno radno okruženje.",
+    "371": "Stvorite sesiju spašavanja",
+    "372": "Jeste li sigurni da želite stvoriti sesiju spašavanja za ovaj poslužitelj? Poslužitelj će se automatski ponovno pokrenuti, a detalji veze bit će poslani na vašu e-poštu nakon što je sesija aktivna.",
+    "373": "Završite sesiju spašavanja",
+    "374": "Jeste li sigurni da želite završiti spašavanje? Poslužitelj će se automatski ponovno pokrenuti i ponovo će se pokrenuti u normalno radno okruženje.",
+    "375": "Sesija spašavanja aktivna",
+    "376": "spašavanje",
+    "377": "Lozinka",
+    "378": "Opcija trenutno nedostupna"
 }

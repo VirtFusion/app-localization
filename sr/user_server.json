@@ -362,5 +362,17 @@
     "363": "Nijedan",
     "364": "Zamenite prostor",
     "365": "Zamjenski prostor deluje kao rezervna memorija, sprečavajući padove kada vašem sistemu ponestane fizičke memorije. Iako je svap prostor sporiji od fizičke memorije, pomaže u održavanju stabilnosti sistema i nesmetanom radu. Imajte na umu da će količina zamenskog prostora koju odaberete biti rezervisana na vašem disku za skladištenje.",
-    "366": "Pogledaj sve opcije"
+    "366": "Pogledaj sve opcije",
+    "367": "Akcija nedostupna. Pokušajte ponovo kasnije.",
+    "368": "Rescue Mode pokreće minimalni operativni sistem nezavisno od glavnog diska servera. Dizajniran je da vam pomogne da rešite i rešite probleme kao što su kvarovi pri pokretanju, pogrešne konfiguracije ili oštećeni sistemi datoteka. Kada se problem reši, možete onemogućiti režim spašavanja i server će se vratiti u svoje standardno radno okruženje.",
+    "369": "Izaberite sistem spasavanja sa liste ispod. Kreiranje sesije automatski će ponovo pokrenuti server.",
+    "370": "Trenutno je aktivna sesija spasavanja. Sesiju možete završiti u bilo kom trenutku klikom na dugme Završi sesiju. Ovo će ponovo pokrenuti server u njegovo normalno radno okruženje.",
+    "371": "Kreirajte sesiju spašavanja",
+    "372": "Da li ste sigurni da želite da napravite sesiju spašavanja za ovaj server? Server će se automatski ponovo pokrenuti, a detalji veze biće poslati na vašu e-poštu kada sesija bude aktivna.",
+    "373": "Završite sesiju spašavanja",
+    "374": "Da li ste sigurni da želite da završite sesiju spasavanja? Server će se automatski ponovo pokrenuti i ponovo će se pokrenuti u normalno radno okruženje.",
+    "375": "Sesija spasavanja aktivna",
+    "376": "Spasavanje",
+    "377": "Lozinka",
+    "378": "Opcija trenutno nedostupna"
 }

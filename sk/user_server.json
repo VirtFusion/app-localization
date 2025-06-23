@@ -362,5 +362,17 @@
     "363": "Žiadne",
     "364": "Vymeniť priestor",
     "365": "Odkladací priestor slúži ako záložná pamäť a zabraňuje pádom, keď sa systému vyčerpá fyzická pamäť. Hoci je odkladací priestor pomalší ako fyzická pamäť, pomáha udržiavať stabilitu a plynulý chod systému. Nezabudnite, že množstvo odkladacieho priestoru, ktoré si vyberiete, bude rezervované na vašom úložnom disku.",
-    "366": "Zobraziť všetky možnosti"
+    "366": "Zobraziť všetky možnosti",
+    "367": "Akcia nie je k dispozícii. Skúste to neskôr.",
+    "368": "V záchrannom režime sa spustí minimálny operačný systém nezávislý od hlavného disku servera. Je určený na pomoc pri riešení problémov a odstraňovaní problémov, ako sú zlyhania pri spúšťaní systému, nesprávne konfigurácie alebo poškodené systémy súborov. Po vyriešení problému môžete záchranný režim vypnúť a server sa vráti do štandardného operačného prostredia.",
+    "369": "Vyberte záchranný systém z nižšie uvedeného zoznamu. Vytvorenie relácie automaticky reštartuje server.",
+    "370": "Aktuálne je aktívna relácia záchrany. Reláciu môžete kedykoľvek ukončiť kliknutím na tlačidlo Ukončiť reláciu. Tým sa server reštartuje do normálneho pracovného prostredia.",
+    "371": "Vytvorenie záchrannej relácie",
+    "372": "Ste si istí, že chcete vytvoriť záchrannú reláciu pre tento server? Server sa automaticky reštartuje a po aktivovaní relácie vám budú na e-mail odoslané podrobnosti o pripojení.",
+    "373": "Ukončenie záchrannej relácie",
+    "374": "Ste si istí, že chcete ukončiť reláciu záchrany? Server sa automaticky reštartuje a zavedie sa späť do normálneho prevádzkového prostredia.",
+    "375": "Záchranná relácia aktívna",
+    "376": "Záchrana",
+    "377": "Heslo",
+    "378": "Momentálne nedostupná možnosť"
 }

@@ -362,5 +362,17 @@
     "363": "Ei mitään",
     "364": "Vaihda tilaa",
     "365": "Vaihtotila toimii varmuuskopiomuistina ja estää kaatumisia, kun järjestelmästä loppuu fyysinen muisti. Vaikka vaihtotila on hitaampi kuin fyysinen muisti, se auttaa ylläpitämään järjestelmän vakautta ja sujuvaa toimintaa. Muista, että valitsemasi vaihtotilan määrä varataan tallennuslevyllesi.",
-    "366": "Näytä kaikki vaihtoehdot"
+    "366": "Näytä kaikki vaihtoehdot",
+    "367": "Toiminta ei ole käytettävissä. Yritä myöhemmin uudelleen.",
+    "368": "Rescue Mode käynnistää minimaalisen käyttöjärjestelmän, joka on riippumaton palvelimen päälevystä. Se on suunniteltu auttamaan vianmäärityksessä ja korjaamaan ongelmia, kuten käynnistysvirheitä, virheellisiä kokoonpanoja tai vioittuneita tiedostojärjestelmiä. Kun ongelma on ratkaistu, voit poistaa pelastustilan käytöstä ja palvelin palaa tavalliseen käyttöympäristöönsä.",
+    "369": "Valitse pelastusjärjestelmä alla olevasta luettelosta. Istunnon luominen käynnistää palvelimen automaattisesti uudelleen.",
+    "370": "Pelastustilaisuus on tällä hetkellä käynnissä. Voit lopettaa istunnon milloin tahansa napsauttamalla Lopeta istunto -painiketta. Tämä käynnistää palvelimen uudelleen normaaliin käyttöympäristöönsä.",
+    "371": "Luo pelastusistunto",
+    "372": "Haluatko varmasti luoda pelastusistunnon tälle palvelimelle? Palvelin käynnistetään automaattisesti uudelleen, ja yhteystiedot lähetetään sähköpostiisi, kun istunto on aktiivinen.",
+    "373": "Lopeta pelastusistunto",
+    "374": "Oletko varma, että haluat lopettaa pelastusistunnon? Palvelin käynnistetään automaattisesti uudelleen ja käynnistyy takaisin normaaliin käyttöympäristöönsä.",
+    "375": "Pelastusistunto aktiivinen",
+    "376": "Pelastus",
+    "377": "Salasana",
+    "378": "Vaihtoehto ei ole tällä hetkellä käytettävissä"
 }

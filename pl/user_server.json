@@ -362,5 +362,17 @@
     "363": "Brak",
     "364": "Swap Space",
     "365": "Przestrzeń wymiany działa jako pamięć zapasowa, zapobiegając awariom, gdy w systemie zabraknie pamięci fizycznej. Chociaż przestrzeń wymiany jest wolniejsza niż pamięć fizyczna, pomaga utrzymać stabilność systemu i płynne działanie. Należy pamiętać, że wybrana ilość przestrzeni wymiany zostanie zarezerwowana na dysku.",
-    "366": "Wyświetl wszystkie opcje"
+    "366": "Wyświetl wszystkie opcje",
+    "367": "Akcja niedostępna, spróbuj ponownie później.",
+    "368": "Tryb ratunkowy uruchamia minimalny system operacyjny niezależnie od głównego dysku serwera. Został zaprojektowany, aby pomóc w rozwiązywaniu problemów, takich jak awarie rozruchu, błędne konfiguracje lub uszkodzone systemy plików. Po rozwiązaniu problemu można wyłączyć tryb ratunkowy, a serwer powróci do standardowego środowiska operacyjnego.",
+    "369": "Wybierz system ratunkowy z poniższej listy. Utworzenie sesji spowoduje automatyczne ponowne uruchomienie serwera.",
+    "370": "Aktualnie aktywna jest sesja ratunkowa, którą można zakończyć w dowolnym momencie, klikając przycisk Zakończ sesję. Spowoduje to ponowne uruchomienie serwera w jego normalnym środowisku operacyjnym.",
+    "371": "Utwórz sesję ratunkową",
+    "372": "Czy na pewno chcesz utworzyć sesję ratunkową dla tego serwera? Serwer zostanie automatycznie uruchomiony ponownie, a szczegóły połączenia zostaną wysłane na Twój adres e-mail, gdy sesja będzie aktywna.",
+    "373": "Koniec sesji ratunkowej",
+    "374": "Czy na pewno chcesz zakończyć sesję ratunkową? Serwer zostanie automatycznie uruchomiony ponownie i powróci do normalnego środowiska operacyjnego.",
+    "375": "Aktywna sesja ratunkowa",
+    "376": "Ratunek",
+    "377": "Hasło",
+    "378": "Opcja obecnie niedostępna"
 }

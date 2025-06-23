@@ -362,5 +362,17 @@
     "363": "Nincs",
     "364": "Swap Space",
     "365": "A swapterület tartalék memóriaként működik, és megakadályozza a rendszer összeomlását, amikor a fizikai memória elfogy. Bár a swapterület lassabb, mint a fizikai memória, segít fenntartani a rendszer stabilitását és zökkenőmentes működését. Ne feledje, hogy a választott swapterület mennyisége a tárolólemezen lesz lefoglalva.",
-    "366": "Minden opció megtekintése"
+    "366": "Minden opció megtekintése",
+    "367": "Művelet nem elérhető. Próbálja meg később újra.",
+    "368": "A mentési mód a kiszolgáló főlemezétől független minimális operációs rendszert indít el. Arra szolgál, hogy segítsen a hibaelhárításban és az olyan problémák megoldásában, mint például a rendszerindítási hibák, hibás konfigurációk vagy sérült fájlrendszerek. A probléma megoldása után kikapcsolhatja a mentési módot, és a kiszolgáló visszatér a normál működési környezetbe.",
+    "369": "Válasszon egy mentőrendszert az alábbi listából. A munkamenet létrehozása automatikusan újraindítja a kiszolgálót.",
+    "370": "Jelenleg egy mentési munkamenet aktív. A munkamenet bármikor befejezhető a Munkamenet befejezése gombra kattintva. Ezáltal a kiszolgáló újraindul a normál működési környezetbe.",
+    "371": "Mentési munkamenet létrehozása",
+    "372": "Biztos, hogy mentési munkamenetet szeretne létrehozni ehhez a kiszolgálóhoz? A kiszolgáló automatikusan újraindul, és a munkamenet aktiválása után a kapcsolat részletei elküldésre kerülnek az e-mail címére.",
+    "373": "Mentési munkamenet vége",
+    "374": "Biztos, hogy be akarja fejezni a mentési munkamenetet? A kiszolgáló automatikusan újraindul, és újraindul a normál működési környezetbe.",
+    "375": "Mentési munkamenet aktív",
+    "376": "Rescue",
+    "377": "Jelszó",
+    "378": "Jelenleg nem elérhető opció"
 }

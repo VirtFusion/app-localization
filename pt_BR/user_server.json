@@ -362,5 +362,17 @@
     "363": "Nenhum",
     "364": "Espaço de troca",
     "365": "O espaço de swap funciona como memória de backup, evitando falhas quando o sistema fica sem memória física. Embora o espaço de swap seja mais lento do que a memória física, ele ajuda a manter a estabilidade do sistema e a operação suave. Lembre-se de que a quantidade de espaço de swap escolhida será reservada no disco de armazenamento.",
-    "366": "Exibir todas as opções"
+    "366": "Exibir todas as opções",
+    "367": "Ação indisponível, tente novamente mais tarde.",
+    "368": "O modo de recuperação inicializa um sistema operacional mínimo independente do disco principal do servidor. Ele foi projetado para ajudá-lo a solucionar problemas, como falhas na inicialização, configurações incorretas ou sistemas de arquivos corrompidos. Quando o problema for resolvido, você poderá desativar o modo de recuperação e o servidor voltará ao ambiente operacional padrão.",
+    "369": "Escolha um sistema de recuperação na lista abaixo. A criação de uma sessão reiniciará automaticamente o servidor.",
+    "370": "Uma sessão de recuperação está ativa no momento. Você pode encerrar a sessão a qualquer momento clicando no botão End Session (Encerrar sessão). Isso reiniciará o servidor em seu ambiente operacional normal.",
+    "371": "Criar sessão de resgate",
+    "372": "Tem certeza de que deseja criar uma sessão de recuperação para este servidor? O servidor será reiniciado automaticamente e os detalhes da conexão serão enviados para o seu e-mail quando a sessão estiver ativa.",
+    "373": "Encerrar a sessão de resgate",
+    "374": "Tem certeza de que deseja encerrar a sessão de recuperação? O servidor será reiniciado automaticamente e voltará ao seu ambiente operacional normal.",
+    "375": "Sessão de resgate ativa",
+    "376": "Resgate",
+    "377": "Senha",
+    "378": "Opção atualmente indisponível"
 }

@@ -362,5 +362,17 @@
     "363": "Niciuna",
     "364": "Spațiu de schimb",
     "365": "Spațiul swap acționează ca memorie de rezervă, prevenind blocările atunci când sistemul dvs. rămâne fără memorie fizică. Deși spațiul swap este mai lent decât memoria fizică, ajută la menținerea stabilității sistemului și a funcționării fără probleme. Rețineți că cantitatea de spațiu swap pe care o alegeți va fi rezervată pe discul dvs. de stocare.",
-    "366": "Vezi toate Opțiunile"
+    "366": "Vezi toate Opțiunile",
+    "367": "Acțiune indisponibilă. Încercați din nou mai târziu.",
+    "368": "Modul de salvare pornește un sistem de operare minim independent de discul principal al serverului. Este conceput pentru a vă ajuta să depanați și să remediați probleme cum ar fi eșecurile de pornire, configurările greșite sau sistemele de fișiere corupte. Odată ce problema dvs. este rezolvată, puteți dezactiva modul de salvare și serverul va reveni la mediul său de operare standard.",
+    "369": "Alegeți un sistem de salvare din lista de mai jos. Crearea unei sesiuni va reporni automat serverul.",
+    "370": "O sesiune de salvare este activă în prezent. Puteți încheia sesiunea în orice moment făcând clic pe butonul Încheiere sesiune. Aceasta va reporni serverul în mediul său normal de operare.",
+    "371": "Creați sesiunea de salvare",
+    "372": "Sigur doriți să creați o sesiune de salvare pentru acest server? Serverul va fi repornit automat, iar detaliile conexiunii vor fi trimise la adresa dvs. de e-mail odată ce sesiunea este activă.",
+    "373": "Încheiați sesiunea de salvare",
+    "374": "Sunteți sigur că doriți să încheiați sesiunea de salvare? Serverul va fi repornit automat și va porni înapoi în mediul său normal de operare.",
+    "375": "Sesiune de salvare activă",
+    "376": "Salvare",
+    "377": "Parola",
+    "378": "Opțiunea momentan indisponibilă"
 }
