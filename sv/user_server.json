@@ -374,5 +374,7 @@
     "375": "Räddningssession aktiv",
     "376": "Räddning",
     "377": "Lösenord",
-    "378": "Alternativet är för närvarande inte tillgängligt"
+    "378": "Alternativet är för närvarande inte tillgängligt",
+    "379": "CPU-information är inte tillgänglig",
+    "380": "Beroende på vilket operativsystem som är installerat och serverns aktiva tillstånd kanske det inte är möjligt att se CPU-användningen."
 }

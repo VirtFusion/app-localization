@@ -374,5 +374,7 @@
     "375": "Aktivna reševalna seja",
     "376": "Reševanje",
     "377": "Geslo",
-    "378": "Možnost trenutno ni na voljo"
+    "378": "Možnost trenutno ni na voljo",
+    "379": "Informacije o CPU niso na voljo",
+    "380": "Glede na nameščeni operacijski sistem in aktivno stanje strežnika morda ne bo mogoče prikazati izkoriščenosti procesorja."
 }

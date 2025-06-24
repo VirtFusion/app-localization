@@ -374,5 +374,7 @@
     "375": "Sesija spasavanja aktivna",
     "376": "Spasavanje",
     "377": "Lozinka",
-    "378": "Opcija trenutno nedostupna"
+    "378": "Opcija trenutno nedostupna",
+    "379": "Informacije o procesoru nedostupne",
+    "380": "U zavisnosti od instaliranog operativnog sistema i aktivnog stanja servera, možda neće biti moguće videti upotrebu CPU-a."
 }

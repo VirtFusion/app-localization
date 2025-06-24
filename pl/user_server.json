@@ -374,5 +374,7 @@
     "375": "Aktywna sesja ratunkowa",
     "376": "Ratunek",
     "377": "Hasło",
-    "378": "Opcja obecnie niedostępna"
+    "378": "Opcja obecnie niedostępna",
+    "379": "Informacje o procesorze są niedostępne",
+    "380": "W zależności od zainstalowanego systemu operacyjnego i aktywnego stanu serwera, wyświetlenie wykorzystania procesora może nie być możliwe."
 }

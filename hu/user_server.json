@@ -374,5 +374,7 @@
     "375": "Mentési munkamenet aktív",
     "376": "Rescue",
     "377": "Jelszó",
-    "378": "Jelenleg nem elérhető opció"
+    "378": "Jelenleg nem elérhető opció",
+    "379": "CPU információ nem elérhető",
+    "380": "A telepített operációs rendszertől és a kiszolgáló aktív állapotától függően előfordulhat, hogy a CPU-kihasználtságot nem lehet megtekinteni."
 }

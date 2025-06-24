@@ -374,5 +374,7 @@
     "375": "Záchranná relácia aktívna",
     "376": "Záchrana",
     "377": "Heslo",
-    "378": "Momentálne nedostupná možnosť"
+    "378": "Momentálne nedostupná možnosť",
+    "379": "Informácie o CPU nedostupné",
+    "380": "V závislosti od nainštalovaného operačného systému a aktívneho stavu servera nemusí byť možné zobraziť využitie CPU."
 }

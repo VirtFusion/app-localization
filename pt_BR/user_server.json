@@ -374,5 +374,7 @@
     "375": "Sessão de resgate ativa",
     "376": "Resgate",
     "377": "Senha",
-    "378": "Opção atualmente indisponível"
+    "378": "Opção atualmente indisponível",
+    "379": "Informações da CPU indisponíveis",
+    "380": "Dependendo do sistema operacional instalado e do estado ativo do servidor, talvez não seja possível visualizar a utilização da CPU."
 }

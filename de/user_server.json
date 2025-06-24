@@ -374,5 +374,7 @@
     "375": "Rettungssitzung aktiv",
     "376": "Rettung",
     "377": "Passwort",
-    "378": "Option derzeit nicht verfügbar"
+    "378": "Option derzeit nicht verfügbar",
+    "379": "CPU-Informationen nicht verfügbar",
+    "380": "Je nach installiertem Betriebssystem und aktivem Zustand des Servers ist es möglicherweise nicht möglich, die CPU-Auslastung anzuzeigen."
 }

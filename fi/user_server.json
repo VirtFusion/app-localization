@@ -374,5 +374,7 @@
     "375": "Pelastusistunto aktiivinen",
     "376": "Pelastus",
     "377": "Salasana",
-    "378": "Vaihtoehto ei ole tällä hetkellä käytettävissä"
+    "378": "Vaihtoehto ei ole tällä hetkellä käytettävissä",
+    "379": "Suorittimen tiedot eivät ole käytettävissä",
+    "380": "Asennetusta käyttöjärjestelmästä ja palvelimen aktiivisesta tilasta riippuen suorittimen käyttöä ei ehkä voida tarkastella."
 }

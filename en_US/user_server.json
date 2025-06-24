@@ -374,5 +374,7 @@
     "375": "Rescue Session Active",
     "376": "Rescue",
     "377": "Password",
-    "378": "Option Currently Unavailable"
+    "378": "Option Currently Unavailable",
+    "379": "CPU Information Unavailable",
+    "380": "Dependent on the operating system installed and active state of the server, it may not be possible to view the CPU utilization."
 }

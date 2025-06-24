@@ -374,5 +374,7 @@
     "375": "Session de sauvetage active",
     "376": "Sauvetage",
     "377": "Mot de passe",
-    "378": "Option non disponible actuellement"
+    "378": "Option non disponible actuellement",
+    "379": "Informations sur l'unité centrale indisponibles",
+    "380": "En fonction du système d'exploitation installé et de l'état actif du serveur, il peut être impossible d'afficher l'utilisation du processeur."
 }

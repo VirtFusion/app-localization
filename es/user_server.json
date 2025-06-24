@@ -374,5 +374,7 @@
     "375": "Sesión de rescate activa",
     "376": "Rescue",
     "377": "Contraseña",
-    "378": "Opción actualmente no disponible"
+    "378": "Opción actualmente no disponible",
+    "379": "Información de la CPU no disponible",
+    "380": "Dependiendo del sistema operativo instalado y del estado activo del servidor, puede que no sea posible ver la utilización de la CPU."
 }

@@ -374,5 +374,7 @@
     "375": "Sesiune de salvare activă",
     "376": "Salvare",
     "377": "Parola",
-    "378": "Opțiunea momentan indisponibilă"
+    "378": "Opțiunea momentan indisponibilă",
+    "379": "Informații despre CPU indisponibile",
+    "380": "În funcție de sistemul de operare instalat și de starea activă a serverului, este posibil să nu fie posibilă vizualizarea utilizării procesorului."
 }

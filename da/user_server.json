@@ -374,5 +374,7 @@
     "375": "Redningssession aktiv",
     "376": "Redning",
     "377": "Adgangskode",
-    "378": "Mulighed ikke tilgængelig i øjeblikket"
+    "378": "Mulighed ikke tilgængelig i øjeblikket",
+    "379": "CPU-information utilgængelig",
+    "380": "Afhængigt af det installerede operativsystem og serverens aktive tilstand er det muligvis ikke muligt at se CPU-udnyttelsen."
 }

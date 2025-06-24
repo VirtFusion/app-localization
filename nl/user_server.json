@@ -374,5 +374,7 @@
     "375": "Reddingssessie Actief",
     "376": "Redding",
     "377": "Wachtwoord",
-    "378": "Optie momenteel niet beschikbaar"
+    "378": "Optie momenteel niet beschikbaar",
+    "379": "CPU informatie niet beschikbaar",
+    "380": "Afhankelijk van het geïnstalleerde besturingssysteem en de actieve status van de server, is het misschien niet mogelijk om het CPU-gebruik te bekijken."
 }

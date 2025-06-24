@@ -374,5 +374,7 @@
     "375": "Sessione di salvataggio attiva",
     "376": "Salvataggio",
     "377": "Password",
-    "378": "Opzione attualmente non disponibile"
+    "378": "Opzione attualmente non disponibile",
+    "379": "Informazioni sulla CPU non disponibili",
+    "380": "A seconda del sistema operativo installato e dello stato attivo del server, potrebbe non essere possibile visualizzare l'utilizzo della CPU."
 }

@@ -374,5 +374,7 @@
     "375": "Sesi Penyelamatan Aktif",
     "376": "Penyelamatan",
     "377": "Kata sandi",
-    "378": "Opsi Saat Ini Tidak Tersedia"
+    "378": "Opsi Saat Ini Tidak Tersedia",
+    "379": "Informasi CPU Tidak Tersedia",
+    "380": "Tergantung pada sistem operasi yang diinstal dan status aktif server, mungkin tidak dapat melihat penggunaan CPU."
 }
