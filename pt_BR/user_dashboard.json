@@ -55,8 +55,8 @@
     "53": "Notificações",
     "54": "Nenhuma notificação não lida",
     "55": "Consumo de tráfego",
-    "56": "Em",
-    "57": "Fora",
+    "56": "Entrada",
+    "57": "Saída",
     "58": "Total",
     "59": "O código fornecido é inválido.",
     "60": "A senha de uso único está incorreta ou expirou.",
@@ -69,7 +69,7 @@
     "67": "Recarregar a página.",
     "68": "Tráfego usado até o momento nesta semana. Todos os horários são baseados em",
     "69": "Tráfego usado até o momento neste mês. Todos os horários baseados em",
-    "70": "Semana",
-    "71": "Mo",
+    "70": "Semanal",
+    "71": "Mensal",
     "72": "Conta"
 }
