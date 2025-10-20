@@ -62,5 +62,19 @@
     "60": "V spodnje polje vnesite šestmestno kodo, ki jo generira aplikacija.",
     "61": "Pomembno je, da naredite kopijo svojih enkratnih varnostnih kod. Te kode so bistvene za dostop do računa, če izgubite dostop do naprave za dvostopenjsko preverjanje pristnosti. Shranite jih na varnem mestu.",
     "62": "Prekliči",
-    "63": "Ali ste prepričani, da želite deaktivirati dvofaktorsko preverjanje pristnosti? Ta varnostna funkcija zagotavlja dodatno raven zaščite vašega računa. Če jo deaktivirate, bo vaš račun manj varen."
+    "63": "Ali ste prepričani, da želite deaktivirati dvofaktorsko preverjanje pristnosti? Ta varnostna funkcija zagotavlja dodatno raven zaščite vašega računa. Če jo deaktivirate, bo vaš račun manj varen.",
+    "64": "Ime mora obsegati od 3 do 60 znakov in je obvezno polje.",
+    "65": "Ustvarjanje",
+    "66": "Spodaj je bil ustvarjen žeton API. Kopirajte ga in shranite na varno. Zaradi varnostnih razlogov ne bo več prikazan.",
+    "67": "Končano",
+    "68": "API",
+    "69": "V nadaljevanju konfigurirajte in upravljajte svoje žetone API. Ti žetoni omogočajo varen dostop do API, ki ga lahko uporabite za upravljanje svojega računa, avtomatizacijo strežniških operacij in povezovanje z zunanjimi sistemi. Žetoni naj bodo zasebni in varno shranjeni - vsakdo, ki ima dostop do njih, lahko v vašem imenu izvaja dejanja. Za podrobna navodila, primere in najboljše prakse si oglejte",
+    "70": "Nazadnje uporabljeno",
+    "71": "Ustvarjeno",
+    "72": "Žeton je bil uspešno posodobljen.",
+    "73": "Omogočeno",
+    "74": "Brisanje žetona",
+    "75": "Ali ste prepričani, da želite izbrisati izbrani žeton API?",
+    "76": "Ni bilo najdenih žetonov API",
+    "77": "Dokumentacija API"
 }

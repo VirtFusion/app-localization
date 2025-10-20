@@ -62,5 +62,19 @@
     "60": "Do nižšie uvedeného poľa zadajte šesťmiestny kód vygenerovaný aplikáciou.",
     "61": "Je dôležité, aby ste si vytvorili kópiu svojich jednorazových záložných kódov. Tieto kódy sú nevyhnutné na prístup k vášmu účtu v prípade, že stratíte prístup k svojmu zariadeniu na dvojfaktorové overovanie. Uložte ich na bezpečné miesto.",
     "62": "Zrušiť",
-    "63": "Ste si istí, že chcete deaktivovať dvojfaktorové overovanie? Táto bezpečnostná funkcia poskytuje ďalšiu úroveň ochrany vášho konta. Ak pristúpite k deaktivácii, vaše konto bude menej bezpečné."
+    "63": "Ste si istí, že chcete deaktivovať dvojfaktorové overovanie? Táto bezpečnostná funkcia poskytuje ďalšiu úroveň ochrany vášho konta. Ak pristúpite k deaktivácii, vaše konto bude menej bezpečné.",
+    "64": "Názov musí mať od 3 do 60 znakov a je to povinné pole.",
+    "65": "Generovať",
+    "66": "Nižšie bol vygenerovaný token API. Skopírujte si ho a uložte na bezpečné miesto. Z bezpečnostných dôvodov sa už nebude zobrazovať.",
+    "67": "Hotovo",
+    "68": "API",
+    "69": "Konfigurujte a spravujte svoje tokeny API nižšie. Tieto tokeny umožňujú bezpečný prístup k API, ktorý môžete použiť na správu svojho účtu, automatizáciu operácií na serveri a integráciu s externými systémami. Tokeny sú súkromné a bezpečne uložené - ktokoľvek s prístupom k nim môže vykonávať akcie vo vašom mene. Podrobné pokyny, príklady a osvedčené postupy nájdete v",
+    "70": "Naposledy použité",
+    "71": "Vytvorené",
+    "72": "Token bol úspešne aktualizovaný.",
+    "73": "Povolené",
+    "74": "Odstránenie tokenu",
+    "75": "Ste si istí, že chcete odstrániť vybraný token API?",
+    "76": "Nenašli sa žiadne tokeny API",
+    "77": "Dokumentácia API"
 }

@@ -62,5 +62,19 @@
     "60": "Introduceți codul din șase cifre generat de aplicație în câmpul de mai jos.",
     "61": "Este important să faceți o copie a codurilor de rezervă unice. Aceste coduri sunt esențiale pentru accesarea contului dvs. în cazul în care pierdeți accesul la dispozitivul dvs. de autentificare cu doi factori. Vă rugăm să le depozitați într-un loc sigur.",
     "62": "Anulează",
-    "63": "Sigur doriți să dezactivați autentificarea cu doi factori? Această caracteristică de securitate oferă un nivel suplimentar de protecție pentru contul dvs. Dacă continuați cu dezactivarea, contul dvs. va fi mai puțin sigur."
+    "63": "Sigur doriți să dezactivați autentificarea cu doi factori? Această caracteristică de securitate oferă un nivel suplimentar de protecție pentru contul dvs. Dacă continuați cu dezactivarea, contul dvs. va fi mai puțin sigur.",
+    "64": "Numele trebuie să conțină între 3 și 60 de caractere și este un câmp obligatoriu.",
+    "65": "Genera",
+    "66": "Un token API a fost generat mai jos. Vă rugăm să îl copiați și să îl păstrați într-un loc sigur. Din motive de securitate, acesta nu va fi afișat din nou.",
+    "67": "Terminat",
+    "68": "API-UL",
+    "69": "Configurați și gestionați tokenurile API de mai jos. Aceste jetoane permit accesul securizat la API, care poate fi utilizat pentru a vă gestiona contul, a automatiza operațiunile serverului și a se integra cu sisteme externe. Păstrați-vă jetoanele private și stocate în siguranță - oricine are acces la ele poate efectua acțiuni în numele dvs. Pentru instrucțiuni detaliate, exemple și bune practici, consultați",
+    "70": "Ultima utilizare",
+    "71": "Creat",
+    "72": "Tokenul a fost actualizat cu succes.",
+    "73": "Activat",
+    "74": "Ștergeți jetonul",
+    "75": "Sigur doriți să ștergeți tokenul API selectat?",
+    "76": "Nu au fost găsite jetoane API",
+    "77": "Documentație API"
 }

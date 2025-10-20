@@ -62,5 +62,19 @@
     "60": "Indtast den sekscifrede kode, der genereres af appen, i feltet nedenfor.",
     "61": "Det er vigtigt at tage en kopi af dine engangsbackupkoder. Disse koder er vigtige for at få adgang til din konto, hvis du mister adgangen til din to-faktor-godkendelsesenhed. Opbevar dem venligst et sikkert sted.",
     "62": "Annuller",
-    "63": "Er du sikker på, at du vil deaktivere tofaktorgodkendelse? Denne sikkerhedsfunktion giver et ekstra lag af beskyttelse til din konto. Hvis du fortsætter med at deaktivere, vil din konto være mindre sikker."
+    "63": "Er du sikker på, at du vil deaktivere tofaktorgodkendelse? Denne sikkerhedsfunktion giver et ekstra lag af beskyttelse til din konto. Hvis du fortsætter med at deaktivere, vil din konto være mindre sikker.",
+    "64": "Navnet skal bestå af mellem 3 og 60 tegn og er et obligatorisk felt.",
+    "65": "Generer",
+    "66": "Der er genereret et API-token nedenfor. Kopier det venligst og gem det et sikkert sted. Af sikkerhedsmæssige årsager vil det ikke blive vist igen.",
+    "67": "Færdig",
+    "68": "API",
+    "69": "Konfigurer og administrer dine API-tokens nedenfor. Disse tokens giver sikker adgang til API'en, som kan bruges til at administrere din konto, automatisere serveroperationer og integrere med eksterne systemer. Hold dine tokens private og sikkert opbevaret - alle med adgang til dem kan udføre handlinger på dine vegne. For detaljerede instruktioner, eksempler og bedste praksis, konsulter da",
+    "70": "Sidst brugt",
+    "71": "Oprettet",
+    "72": "Token opdateret med succes.",
+    "73": "Aktiveret",
+    "74": "Slet token",
+    "75": "Er du sikker på, at du vil slette det valgte API-token?",
+    "76": "Ingen API-tokens fundet",
+    "77": "API-dokumentation"
 }

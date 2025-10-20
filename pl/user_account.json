@@ -62,5 +62,19 @@
     "60": "Wprowadź sześciocyfrowy kod wygenerowany przez aplikację w polu poniżej.",
     "61": "Ważne jest, aby wykonać kopię jednorazowych kodów zapasowych. Kody te są niezbędne do uzyskania dostępu do konta w przypadku utraty dostępu do urządzenia do uwierzytelniania dwuskładnikowego. Przechowuj je w bezpiecznym miejscu.",
     "62": "Anuluj",
-    "63": "Czy na pewno chcesz wyłączyć uwierzytelnianie dwuskładnikowe? Ta funkcja zabezpieczeń zapewnia dodatkową warstwę ochrony konta. Jeśli przejdziesz do dezaktywacji, Twoje konto będzie mniej bezpieczne."
+    "63": "Czy na pewno chcesz wyłączyć uwierzytelnianie dwuskładnikowe? Ta funkcja zabezpieczeń zapewnia dodatkową warstwę ochrony konta. Jeśli przejdziesz do dezaktywacji, Twoje konto będzie mniej bezpieczne.",
+    "64": "Nazwa musi zawierać od 3 do 60 znaków i jest polem wymaganym.",
+    "65": "Generowanie",
+    "66": "Poniżej został wygenerowany token API, który należy skopiować i przechowywać w bezpiecznym miejscu. Ze względów bezpieczeństwa nie zostanie on ponownie wyświetlony.",
+    "67": "Gotowe",
+    "68": "API",
+    "69": "Skonfiguruj tokeny API i zarządzaj nimi poniżej. Tokeny te umożliwiają bezpieczny dostęp do interfejsu API, który może być używany do zarządzania kontem, automatyzacji operacji na serwerze i integracji z systemami zewnętrznymi. Przechowuj tokeny prywatnie i bezpiecznie - każdy, kto ma do nich dostęp, może wykonywać działania w Twoim imieniu. Aby uzyskać szczegółowe instrukcje, przykłady i najlepsze praktyki, zapoznaj się z dokumentem",
+    "70": "Ostatnio używany",
+    "71": "Utworzony",
+    "72": "Token został pomyślnie zaktualizowany.",
+    "73": "Włączone",
+    "74": "Usuń token",
+    "75": "Czy na pewno chcesz usunąć wybrany token API?",
+    "76": "Nie znaleziono tokenów API",
+    "77": "Dokumentacja API"
 }

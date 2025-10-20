@@ -62,5 +62,19 @@
     "60": "Unesite šestocifreni kod koji generiše aplikacija u polje ispod.",
     "61": "Važno je napraviti kopiju jednokratnih rezervnih kodova. Ovi kodovi su neophodni za pristup vašem nalogu u slučaju da izgubite pristup svom dvofaktorskom uređaju za autentifikaciju. Molimo vas da ih čuvate na sigurnom mestu.",
     "62": "Otkaži",
-    "63": "Da li ste sigurni da želite da deaktivirate dvofaktorsku autentifikaciju? Ova bezbednosna funkcija pruža dodatni sloj zaštite za vaš nalog. Ako nastavite sa deaktivacijom, vaš nalog će biti manje siguran."
+    "63": "Da li ste sigurni da želite da deaktivirate dvofaktorsku autentifikaciju? Ova bezbednosna funkcija pruža dodatni sloj zaštite za vaš nalog. Ako nastavite sa deaktivacijom, vaš nalog će biti manje siguran.",
+    "64": "Ime mora biti između 3 i 60 znakova i obavezno je polje.",
+    "65": "Generisati",
+    "66": "U nastavku je generisan API token. Kopirajte ga i čuvajte na sigurnom mestu. Iz bezbednosnih razloga, neće se ponovo prikazivati.",
+    "67": "Gotovo",
+    "68": "API",
+    "69": "Konfigurišite i upravljajte svojim API tokenima ispod. Ovi tokeni omogućavaju siguran pristup API-ju, koji se može koristiti za upravljanje vašim nalogom, automatizaciju operacija servera i integraciju sa spoljnim sistemima. Držite svoje tokene privatnim i bezbedno čuvajte - svako ko ima pristup njima može izvršiti radnje u vaše ime. Za detaljna uputstva, primere i najbolje prakse, konsultujte",
+    "70": "Poslednji put korišćen",
+    "71": "Stvoreno",
+    "72": "Token je uspešno ažuriran.",
+    "73": "Omogućeno",
+    "74": "Izbriši žeton",
+    "75": "Da li ste sigurni da želite da izbrišete izabrani API token?",
+    "76": "Nisu pronađeni API tokeni",
+    "77": "API dokumentacija"
 }

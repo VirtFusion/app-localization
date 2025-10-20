@@ -62,5 +62,19 @@
     "60": "Syötä sovelluksen luoma kuusinumeroinen koodi alla olevaan kenttään.",
     "61": "On tärkeää tehdä kopio kertaluonteisista varmuuskopiokoodeistasi. Nämä koodit ovat välttämättömiä tilisi käyttämiseksi, jos menetät pääsyn kaksivaiheiseen todennuslaitteeseesi. Säilytä ne turvallisessa paikassa.",
     "62": "Peruuta",
-    "63": "Haluatko varmasti poistaa kaksivaiheisen todennuksen käytöstä? Tämä suojausominaisuus tarjoaa ylimääräisen suojaustason tilillesi. Jos jatkat deaktivointia, tilisi on vähemmän turvallinen."
+    "63": "Haluatko varmasti poistaa kaksivaiheisen todennuksen käytöstä? Tämä suojausominaisuus tarjoaa ylimääräisen suojaustason tilillesi. Jos jatkat deaktivointia, tilisi on vähemmän turvallinen.",
+    "64": "Nimen tulee olla 3—60 merkkiä ja se on pakollinen kenttä.",
+    "65": "Luo",
+    "66": "Alla on luotu API-tunnus. Kopioi se ja säilytä se turvallisessa paikassa. Turvallisuussyistä sitä ei näytetä uudelleen.",
+    "67": "Valmis",
+    "68": "API",
+    "69": "Määritä ja hallitse API-tunnuksia alla. Nämä tunnukset mahdollistavat turvallisen pääsyn sovellusliittymään, jota voidaan käyttää tilin hallintaan, palvelintoimintojen automatisointiin ja integrointiin ulkoisiin järjestelmiin. Pidä rahakkeet yksityisinä ja tallennettuina turvallisesti — kuka tahansa, jolla on pääsy niihin, voi suorittaa toimintoja puolestasi. Yksityiskohtaisia ohjeita, esimerkkejä ja parhaita käytäntöjä on",
+    "70": "Viimeksi käytetty",
+    "71": "Luotu",
+    "72": "Token päivitettiin onnistuneesti.",
+    "73": "Käytössä",
+    "74": "Poista tunnus",
+    "75": "Haluatko varmasti poistaa valitun API-tunnuksen?",
+    "76": "API-tunnuksia ei löytynyt",
+    "77": "API-dokumentaatio"
 }

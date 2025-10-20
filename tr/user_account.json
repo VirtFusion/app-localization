@@ -62,5 +62,19 @@
     "60": "Uygulama tarafından oluşturulan altı haneli kodu aşağıdaki alana girin.",
     "61": "Tek seferlik yedekleme kodlarınızın bir kopyasını almanız önemlidir. Bu kodlar, iki faktörlü kimlik doğrulama cihazınıza erişiminizi kaybetmeniz durumunda hesabınıza erişmek için gereklidir. Lütfen bunları güvenli bir yerde saklayın.",
     "62": "İptal",
-    "63": "İki faktörlü kimlik doğrulamayı devre dışı bırakmak istediğinizden emin misiniz? Bu güvenlik özelliği, hesabınız için ek bir koruma katmanı sağlar. Devre dışı bırakma işlemine devam ederseniz, hesabınız daha az güvenli olacaktır."
+    "63": "İki faktörlü kimlik doğrulamayı devre dışı bırakmak istediğinizden emin misiniz? Bu güvenlik özelliği, hesabınız için ek bir koruma katmanı sağlar. Devre dışı bırakma işlemine devam ederseniz, hesabınız daha az güvenli olacaktır.",
+    "64": "Ad 3 ila 60 karakter arasında olmalıdır ve zorunlu bir alandır.",
+    "65": "Oluşturmak",
+    "66": "Aşağıda bir API belirteci oluşturulmuştur. Lütfen kopyalayın ve güvenli bir yerde saklayın. Güvenlik nedeniyle, tekrar gösterilmeyecektir.",
+    "67": "Bitti",
+    "68": "API",
+    "69": "Bu belirteçler, hesabınızı yönetmek, sunucu işlemlerini otomatikleştirmek ve harici sistemlerle entegre etmek için kullanılabilecek API'ye güvenli erişim sağlar. Belirteçlerinizi gizli tutun ve güvenli bir şekilde saklayın - bunlara erişimi olan herkes sizin adınıza eylemler gerçekleştirebilir. Ayrıntılı talimatlar, örnekler ve en iyi uygulamalar için",
+    "70": "Son Kullanılan",
+    "71": "Oluşturuldu",
+    "72": "Token başarıyla güncellendi.",
+    "73": "Etkin",
+    "74": "Belirteci Sil",
+    "75": "Seçili API belirtecini silmek istediğinizden emin misiniz?",
+    "76": "API Belirteçleri Bulunamadı",
+    "77": "API Dokümantasyonu"
 }

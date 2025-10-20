@@ -62,5 +62,19 @@
     "60": "Masukkan kode enam digit yang dihasilkan oleh aplikasi pada kolom di bawah ini.",
     "61": "Penting untuk membuat salinan kode cadangan satu kali Anda. Kode-kode ini sangat penting untuk mengakses akun Anda jika Anda kehilangan akses ke perangkat autentikasi dua faktor Anda. Simpanlah kode-kode tersebut di tempat yang aman.",
     "62": "Batal",
-    "63": "Apakah Anda yakin ingin menonaktifkan autentikasi dua faktor? Fitur keamanan ini memberikan lapisan perlindungan tambahan untuk akun Anda. Jika Anda melanjutkan penonaktifan, akun Anda akan menjadi kurang aman."
+    "63": "Apakah Anda yakin ingin menonaktifkan autentikasi dua faktor? Fitur keamanan ini memberikan lapisan perlindungan tambahan untuk akun Anda. Jika Anda melanjutkan penonaktifan, akun Anda akan menjadi kurang aman.",
+    "64": "Nama harus terdiri dari 3 hingga 60 karakter dan merupakan bidang yang wajib diisi.",
+    "65": "Menghasilkan",
+    "66": "Token API telah dibuat di bawah ini, silakan salin dan simpan di tempat yang aman. Untuk alasan keamanan, token ini tidak akan ditampilkan lagi.",
+    "67": "Selesai",
+    "68": "API",
+    "69": "Konfigurasikan dan kelola token API Anda di bawah ini. Token ini memungkinkan akses aman ke API, yang dapat digunakan untuk mengelola akun Anda, mengotomatiskan operasi server, dan mengintegrasikan dengan sistem eksternal. Jaga agar token Anda tetap privat dan tersimpan dengan aman - siapa pun yang memiliki akses ke token tersebut dapat melakukan tindakan atas nama Anda. Untuk instruksi terperinci, contoh, dan praktik terbaik, baca",
+    "70": "Terakhir Digunakan",
+    "71": "Dibuat",
+    "72": "Token berhasil diperbarui.",
+    "73": "Diaktifkan",
+    "74": "Hapus Token",
+    "75": "Apakah Anda yakin ingin menghapus token API yang dipilih?",
+    "76": "Token API Tidak Ditemukan",
+    "77": "Dokumentasi API"
 }

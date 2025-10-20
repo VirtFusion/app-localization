@@ -62,5 +62,18 @@
     "60": "Inserite il codice a sei cifre generato dall'applicazione nel campo sottostante.",
     "61": "È importante fare una copia dei codici di backup una tantum. Questi codici sono essenziali per accedere al proprio account in caso di perdita dell'accesso al dispositivo di autenticazione a due fattori. Conservarli in un luogo sicuro.",
     "62": "Annullamento",
-    "63": "Siete sicuri di voler disattivare l'autenticazione a due fattori? Questa funzione di sicurezza fornisce un ulteriore livello di protezione al vostro account. Se procedete alla disattivazione, il vostro account sarà meno sicuro."
+    "63": "Siete sicuri di voler disattivare l'autenticazione a due fattori? Questa funzione di sicurezza fornisce un ulteriore livello di protezione al vostro account. Se procedete alla disattivazione, il vostro account sarà meno sicuro.",
+    "64": "Il nome deve essere compreso tra 3 e 60 caratteri ed è un campo obbligatorio.",
+    "65": "Generare",
+    "66": "Qui di seguito è stato generato un token API. Si prega di copiarlo e conservarlo in un luogo sicuro. Per motivi di sicurezza, non verrà più visualizzato.",
+    "67": "Fatto",
+    "68": "API",
+    "69": "Configurate e gestite qui di seguito i vostri token API, che consentono un accesso sicuro all'API, che può essere utilizzato per gestire il vostro account, automatizzare le operazioni sul server e integrarsi con sistemi esterni. Mantenete i vostri token privati e conservati in modo sicuro: chiunque vi abbia accesso può eseguire azioni a vostro nome. Per istruzioni dettagliate, esempi e best practice, consultate la sezione",
+    "70": "Ultimo usato",
+    "71": "Creato",
+    "72": "Il token è stato aggiornato con successo.",
+    "73": "Abilitato",
+    "74": "Cancellare il gettone",
+    "76": "Nessun token API trovato",
+    "77": "Documentazione API"
 }

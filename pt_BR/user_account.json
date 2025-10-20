@@ -62,5 +62,19 @@
     "60": "Insira o código de seis dígitos gerado pelo aplicativo no campo abaixo.",
     "61": "É importante fazer uma cópia dos seus códigos de backup de uso único. Esses códigos são essenciais para acessar sua conta caso você perca o acesso ao dispositivo de autenticação de dois fatores. Guarde-os em um local seguro.",
     "62": "Cancel",
-    "63": "Tem certeza de que deseja desativar a autenticação de dois fatores? Esse recurso de segurança fornece uma camada adicional de proteção para sua conta. Se você prosseguir com a desativação, sua conta ficará menos segura."
+    "63": "Tem certeza de que deseja desativar a autenticação de dois fatores? Esse recurso de segurança fornece uma camada adicional de proteção para sua conta. Se você prosseguir com a desativação, sua conta ficará menos segura.",
+    "64": "O nome deve ter entre 3 e 60 caracteres e é um campo obrigatório.",
+    "65": "Gerar",
+    "66": "Um token de API foi gerado abaixo. Copie-o e guarde-o em um local seguro. Por motivos de segurança, ele não será exibido novamente.",
+    "67": "Feito",
+    "68": "API",
+    "69": "Configure e gerencie seus tokens de API abaixo. Esses tokens permitem o acesso seguro à API, que pode ser usada para gerenciar sua conta, automatizar operações de servidor e integrar-se a sistemas externos. Mantenha seus tokens privados e armazenados com segurança - qualquer pessoa com acesso a eles pode executar ações em seu nome. Para obter instruções detalhadas, exemplos e práticas recomendadas, consulte o",
+    "70": "Última utilização",
+    "71": "Criado",
+    "72": "Token atualizado com sucesso.",
+    "73": "Ativado",
+    "74": "Excluir token",
+    "75": "Tem certeza de que deseja excluir o token de API selecionado?",
+    "76": "Nenhum token de API encontrado",
+    "77": "Documentação da API"
 }

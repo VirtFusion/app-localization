@@ -62,5 +62,19 @@
     "60": "Nhập mã gồm sáu chữ số được tạo bởi ứng dụng vào trường bên dưới.",
     "61": "Điều quan trọng là tạo một bản sao của mã dự phòng một lần của bạn. Những mã này rất cần thiết để truy cập tài khoản của bạn trong trường hợp bạn mất quyền truy cập vào thiết bị xác thực hai yếu tố của mình. Vui lòng lưu trữ chúng ở một nơi an toàn.",
     "62": "Hủy",
-    "63": "Bạn có chắc chắn muốn hủy kích hoạt xác thực hai yếu tố không? Tính năng bảo mật này cung cấp một lớp bảo vệ bổ sung cho tài khoản của bạn. Nếu bạn tiến hành hủy kích hoạt, tài khoản của bạn sẽ kém an toàn hơn."
+    "63": "Bạn có chắc chắn muốn hủy kích hoạt xác thực hai yếu tố không? Tính năng bảo mật này cung cấp một lớp bảo vệ bổ sung cho tài khoản của bạn. Nếu bạn tiến hành hủy kích hoạt, tài khoản của bạn sẽ kém an toàn hơn.",
+    "64": "Tên phải từ 3 đến 60 ký tự và là một trường bắt buộc.",
+    "65": "Tạo ra",
+    "66": "Một mã thông báo API đã được tạo bên dưới. Vui lòng sao chép nó và lưu trữ nó ở một nơi an toàn. Vì lý do bảo mật, nó sẽ không được hiển thị lại.",
+    "67": "Xong",
+    "68": "API",
+    "69": "Định cấu hình và quản lý mã thông báo API của bạn bên dưới. Các mã thông báo này cho phép truy cập an toàn vào API, có thể được sử dụng để quản lý tài khoản của bạn, tự động hóa các hoạt động của máy chủ và tích hợp với các hệ thống bên ngoài. Giữ mã thông báo của bạn ở chế độ riêng tư và lưu trữ an toàn - bất kỳ ai có quyền truy cập vào chúng đều có thể thực hiện các hành động thay mặt bạn. Để biết hướng dẫn chi tiết, ví dụ và các phương pháp hay nhất, hãy tham khảo",
+    "70": "Lần sử dụng lần cuối",
+    "71": "Đã tạo",
+    "72": "Token được cập nhật thành công.",
+    "73": "Đã kích hoạt",
+    "74": "Xóa mã thông báo",
+    "75": "Bạn có chắc chắn muốn xóa mã thông báo API đã chọn không?",
+    "76": "Không tìm thấy mã thông báo API",
+    "77": "Tài liệu API"
 }

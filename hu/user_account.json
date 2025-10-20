@@ -62,5 +62,19 @@
     "60": "Írja be az alkalmazás által generált hatjegyű kódot az alábbi mezőbe.",
     "61": "Fontos, hogy készítsen másolatot az egyszeri biztonsági kódokról. Ezek a kódok elengedhetetlenek a fiókjához való hozzáféréshez, ha elveszíti a kétfaktoros hitelesítési eszközéhez való hozzáférést. Kérjük, tárolja őket biztonságos helyen.",
     "62": "Törölje",
-    "63": "Biztos, hogy ki akarja kapcsolni a kétfaktoros hitelesítést? Ez a biztonsági funkció egy további védelmi szintet biztosít a fiókja számára. Ha folytatja a deaktiválást, a fiókja kevésbé lesz biztonságos."
+    "63": "Biztos, hogy ki akarja kapcsolni a kétfaktoros hitelesítést? Ez a biztonsági funkció egy további védelmi szintet biztosít a fiókja számára. Ha folytatja a deaktiválást, a fiókja kevésbé lesz biztonságos.",
+    "64": "A névnek 3 és 60 karakter között kell lennie, és kötelezően kitöltendő mező.",
+    "65": "Generálja",
+    "66": "Az alábbiakban generáltunk egy API tokent, amelyet másoljon le és tárolja biztonságos helyen, mert biztonsági okokból nem jelenik meg többé.",
+    "67": "Kész",
+    "68": "API",
+    "69": "Az alábbiakban konfigurálja és kezelje API tokenjeit. Ezek a tokenek biztonságos hozzáférést biztosítanak az API-hoz, amelyet fiókja kezelésére, szerver műveletek automatizálására és külső rendszerekkel való integrálásra használhat. Tartsa tokenjeit bizalmasan és biztonságosan tárolva - bárki, aki hozzáférhet hozzájuk, műveleteket hajthat végre az Ön nevében. Részletes utasításokat, példákat és legjobb gyakorlatokat talál a",
+    "70": "Utoljára használt",
+    "71": "Létrehozva",
+    "72": "A token sikeresen frissült.",
+    "73": "Engedélyezve",
+    "74": "Token törlése",
+    "75": "Biztos, hogy törölni szeretné a kiválasztott API-tokent?",
+    "76": "Nem találtak API tokeneket",
+    "77": "API dokumentáció"
 }

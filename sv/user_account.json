@@ -62,5 +62,19 @@
     "60": "Ange den sexsiffriga koden som genereras av appen i fältet nedan.",
     "61": "Det är viktigt att göra en kopia av dina engångskoder för säkerhetskopiering. Dessa koder är viktiga för att komma åt ditt konto om du tappar åtkomst till din tvåfaktorsautentiseringsenhet. Förvara dem på ett säkert ställe.",
     "62": "Avbryt",
-    "63": "Är du säker på att du vill inaktivera tvåfaktorsautentisering? Den här säkerhetsfunktionen ger ett extra lager av skydd för ditt konto. Om du fortsätter med inaktivering kommer ditt konto att vara mindre säkert."
+    "63": "Är du säker på att du vill inaktivera tvåfaktorsautentisering? Den här säkerhetsfunktionen ger ett extra lager av skydd för ditt konto. Om du fortsätter med inaktivering kommer ditt konto att vara mindre säkert.",
+    "64": "Namnet måste vara mellan 3 och 60 tecken och är ett obligatoriskt fält.",
+    "65": "Generera",
+    "66": "En API-token har genererats nedan. Kopiera den och förvara den på ett säkert ställe. Av säkerhetsskäl kommer den inte att visas igen.",
+    "67": "Utfört",
+    "68": "API",
+    "69": "Konfigurera och hantera dina API-tokens nedan. Dessa tokens ger säker åtkomst till API, som kan användas för att hantera ditt konto, automatisera serveroperationer och integrera med externa system. Håll dina tokens privata och lagrade säkert - alla som har tillgång till dem kan utföra åtgärder för dina räkning. För detaljerade instruktioner, exempel och bästa praxis, se",
+    "70": "Senast använd",
+    "71": "Skapat",
+    "72": "Token uppdaterades framgångsrikt.",
+    "73": "Aktiverad",
+    "74": "Ta bort token",
+    "75": "Är du säker på att du vill ta bort den valda API-token?",
+    "76": "Inga API-tokens hittades",
+    "77": "API-dokumentation"
 }

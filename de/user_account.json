@@ -62,5 +62,19 @@
     "60": "Geben Sie den von der App generierten sechsstelligen Code in das unten stehende Feld ein.",
     "61": "Es ist wichtig, dass Sie eine Kopie Ihrer Einmal-Backup-Codes anfertigen. Diese Codes sind für den Zugriff auf Ihr Konto unerlässlich, falls Sie den Zugang zu Ihrem Gerät für die Zwei-Faktor-Authentifizierung verlieren. Bitte bewahren Sie sie an einem sicheren Ort auf.",
     "62": "Abbrechen",
-    "63": "Sind Sie sicher, dass Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten? Diese Sicherheitsfunktion bietet einen zusätzlichen Schutz für Ihr Konto. Wenn Sie mit der Deaktivierung fortfahren, wird Ihr Konto weniger sicher sein."
+    "63": "Sind Sie sicher, dass Sie die Zwei-Faktor-Authentifizierung deaktivieren möchten? Diese Sicherheitsfunktion bietet einen zusätzlichen Schutz für Ihr Konto. Wenn Sie mit der Deaktivierung fortfahren, wird Ihr Konto weniger sicher sein.",
+    "64": "Der Name muss zwischen 3 und 60 Zeichen lang sein und ist ein Pflichtfeld.",
+    "65": "Erzeugen Sie",
+    "66": "Unten wurde ein API-Token generiert. Bitte kopieren Sie ihn und bewahren Sie ihn an einem sicheren Ort auf. Aus Sicherheitsgründen wird er nicht mehr angezeigt.",
+    "67": "Erledigt",
+    "68": "API",
+    "69": "Konfigurieren und verwalten Sie unten Ihre API-Tokens. Diese Tokens ermöglichen einen sicheren Zugriff auf die API, die zur Verwaltung Ihres Kontos, zur Automatisierung von Servervorgängen und zur Integration mit externen Systemen verwendet werden kann. Bewahren Sie Ihre Tokens privat und sicher auf - jeder, der Zugriff darauf hat, kann Aktionen in Ihrem Namen durchführen. Ausführliche Anweisungen, Beispiele und bewährte Verfahren finden Sie in der",
+    "70": "Zuletzt verwendet",
+    "71": "Erstellt",
+    "72": "Token erfolgreich aktualisiert.",
+    "73": "Aktiviert",
+    "74": "Token löschen",
+    "75": "Sind Sie sicher, dass Sie das ausgewählte API-Token löschen möchten?",
+    "76": "Keine API-Tokens gefunden",
+    "77": "API-Dokumentation"
 }

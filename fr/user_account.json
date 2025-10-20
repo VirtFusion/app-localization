@@ -62,5 +62,19 @@
     "60": "Saisissez le code à six chiffres généré par l'application dans le champ ci-dessous.",
     "61": "Il est important de faire une copie de vos codes de sauvegarde à usage unique. Ces codes sont essentiels pour accéder à votre compte au cas où vous perdriez l'accès à votre dispositif d'authentification à deux facteurs. Veuillez les conserver en lieu sûr.",
     "62": "Annuler",
-    "63": "Êtes-vous sûr de vouloir désactiver l'authentification à deux facteurs ? Cette fonction de sécurité fournit une couche supplémentaire de protection pour votre compte. Si vous procédez à la désactivation, votre compte sera moins sécurisé."
+    "63": "Êtes-vous sûr de vouloir désactiver l'authentification à deux facteurs ? Cette fonction de sécurité fournit une couche supplémentaire de protection pour votre compte. Si vous procédez à la désactivation, votre compte sera moins sécurisé.",
+    "64": "Le nom doit comporter entre 3 et 60 caractères et est un champ obligatoire.",
+    "65": "Générer",
+    "66": "Un jeton API a été généré ci-dessous. Veuillez le copier et le conserver en lieu sûr. Pour des raisons de sécurité, il ne sera plus affiché.",
+    "67": "Terminé",
+    "68": "API",
+    "69": "Configurez et gérez vos jetons d'API ci-dessous. Ces jetons permettent un accès sécurisé à l'API, qui peut être utilisé pour gérer votre compte, automatiser les opérations du serveur et intégrer des systèmes externes. Gardez vos jetons privés et stockés en toute sécurité - toute personne y ayant accès peut effectuer des actions en votre nom. Pour des instructions détaillées, des exemples et des bonnes pratiques, consultez le site Web de l",
+    "70": "Dernière utilisation",
+    "71": "Créée",
+    "72": "Le jeton a été mis à jour avec succès.",
+    "73": "Activé",
+    "74": "Supprimer le jeton",
+    "75": "Êtes-vous sûr de vouloir supprimer le jeton API sélectionné ?",
+    "76": "Aucun jeton API n'a été trouvé",
+    "77": "Documentation de l'API"
 }

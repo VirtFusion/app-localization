@@ -62,5 +62,19 @@
     "60": "Voer in het onderstaande veld de zescijferige code in die door de app wordt gegenereerd.",
     "61": "Het is belangrijk om een kopie te maken van je eenmalige back-upcodes. Deze codes zijn essentieel voor toegang tot je account in het geval je de toegang tot je tweefactorauthenticatie-apparaat verliest. Bewaar ze op een veilige plaats.",
     "62": "Annuleren",
-    "63": "Weet je zeker dat je de authenticatie met twee factoren wilt uitschakelen? Deze beveiligingsfunctie biedt een extra beschermingslaag voor je account. Als je doorgaat met deactiveren, zal je account minder goed beveiligd zijn."
+    "63": "Weet je zeker dat je de authenticatie met twee factoren wilt uitschakelen? Deze beveiligingsfunctie biedt een extra beschermingslaag voor je account. Als je doorgaat met deactiveren, zal je account minder goed beveiligd zijn.",
+    "64": "De naam moet tussen 3 en 60 tekens lang zijn en is een verplicht veld.",
+    "65": "Genereren",
+    "66": "Hieronder is een API-token gegenereerd. Kopieer het en bewaar het op een veilige plaats. Om veiligheidsredenen zal het niet meer worden getoond.",
+    "67": "Gedaan",
+    "68": "API",
+    "69": "Configureer en beheer uw API-tokens hieronder. Deze tokens geven veilige toegang tot de API, die kan worden gebruikt om uw account te beheren, serverbewerkingen te automatiseren en te integreren met externe systemen. Houd uw tokens privé en bewaar ze veilig - iedereen met toegang tot deze tokens kan acties namens u uitvoeren. Voor gedetailleerde instructies, voorbeelden en best practices raadpleegt u de",
+    "70": "Laatst gebruikt",
+    "71": "Gemaakt",
+    "72": "Token succesvol bijgewerkt.",
+    "73": "Ingeschakeld",
+    "74": "Token verwijderen",
+    "75": "Weet je zeker dat je het geselecteerde API-token wilt verwijderen?",
+    "76": "Geen API-tokens gevonden",
+    "77": "API-documentatie"
 }
