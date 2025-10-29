@@ -21,5 +21,10 @@
     "19": "Core della CPU.",
     "20": "allocazione massima del traffico della rete pubblica.",
     "21": "Il pacchetto di risorse è stato aggiornato con successo.",
-    "22": "Il campo Nome deve essere vuoto o compreso tra 3 e 50 caratteri."
+    "22": "Il campo Nome deve essere vuoto o compreso tra 3 e 50 caratteri.",
+    "23": "Disponibile",
+    "24": "Usato",
+    "25": "di",
+    "26": "Utilizzo del traffico per il periodo",
+    "27": "a"
 }

@@ -21,5 +21,10 @@
     "19": "CPU cores.",
     "20": "maximum public network traffic allocation.",
     "21": "Resource pack updated successfully.",
-    "22": "Name field must either be empty or between 3 and 50 characters."
+    "22": "Name field must either be empty or between 3 and 50 characters.",
+    "23": "Available",
+    "24": "Used",
+    "25": "of",
+    "26": "Traffic usage for the period",
+    "27": "to"
 }

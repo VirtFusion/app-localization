@@ -21,5 +21,10 @@
     "19": "CPU-kerner.",
     "20": "maksimal tildeling af trafik til det offentlige netværk.",
     "21": "Ressourcepakken er opdateret med succes.",
-    "22": "Navnefeltet skal enten være tomt eller bestå af mellem 3 og 50 tegn."
+    "22": "Navnefeltet skal enten være tomt eller bestå af mellem 3 og 50 tegn.",
+    "23": "Tilgængelig",
+    "24": "Brugt",
+    "25": "af",
+    "26": "Trafikforbrug for perioden",
+    "27": "til"
 }

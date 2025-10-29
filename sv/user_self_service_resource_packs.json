@@ -21,5 +21,10 @@
     "19": "CPU-kärnor.",
     "20": "Maximal tilldelning av allmän nätverkstrafik.",
     "21": "Resurspaket har uppdaterats.",
-    "22": "Namnfältet måste antingen vara tomt eller mellan 3 och 50 tecken."
+    "22": "Namnfältet måste antingen vara tomt eller mellan 3 och 50 tecken.",
+    "23": "Tillgängliga",
+    "24": "Begagnade",
+    "25": "av",
+    "26": "Trafikanvändning för perioden",
+    "27": "till"
 }

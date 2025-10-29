@@ -21,5 +21,10 @@
     "19": "CPU jezgre.",
     "20": "maksimalna raspodjela prometa javne mreže.",
     "21": "Paket resursa uspješno se ažurira.",
-    "22": "Polje imena mora biti prazno ili između 3 i 50 znakova."
+    "22": "Polje imena mora biti prazno ili između 3 i 50 znakova.",
+    "23": "Dostupan",
+    "24": "Korišteno",
+    "25": "od",
+    "26": "Korištenje prometa za razdoblje",
+    "27": "do"
 }

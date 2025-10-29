@@ -21,5 +21,10 @@
     "19": "CPU-Kerne.",
     "20": "maximale Zuteilung des öffentlichen Netzverkehrs.",
     "21": "Ressourcenpaket erfolgreich aktualisiert.",
-    "22": "Das Feld Name muss entweder leer sein oder zwischen 3 und 50 Zeichen enthalten."
+    "22": "Das Feld Name muss entweder leer sein oder zwischen 3 und 50 Zeichen enthalten.",
+    "23": "Verfügbar",
+    "24": "Gebraucht",
+    "25": "von",
+    "26": "Verkehrsaufkommen im Berichtszeitraum",
+    "27": "zu"
 }

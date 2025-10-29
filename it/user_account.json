@@ -75,5 +75,6 @@
     "73": "Abilitato",
     "74": "Cancellare il gettone",
     "76": "Nessun token API trovato",
-    "77": "Documentazione API"
+    "77": "Documentazione API",
+    "75": "Si è sicuri di voler eliminare il token API selezionato?"
 }

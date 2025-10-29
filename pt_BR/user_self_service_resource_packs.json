@@ -21,5 +21,10 @@
     "19": "Núcleos de CPU.",
     "20": "alocação máxima de tráfego de rede pública.",
     "21": "Pacote de recursos atualizado com sucesso.",
-    "22": "O campo Nome deve estar vazio ou ter entre 3 e 50 caracteres."
+    "22": "O campo Nome deve estar vazio ou ter entre 3 e 50 caracteres.",
+    "23": "Disponível",
+    "24": "Usado",
+    "25": "de",
+    "26": "Uso do tráfego no período",
+    "27": "para"
 }
