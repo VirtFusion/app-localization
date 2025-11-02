@@ -39,5 +39,10 @@
     "37": "La limite de ressources a été atteinte. Veuillez contacter le support pour discuter de vos options de limite.",
     "38": "Votre solde de crédit est trop bas. Vous devez d'abord recharger pour créer un serveur.",
     "39": "Le serveur n'a pas pu être créé. Veuillez essayer un autre emplacement ou un autre paquet.",
-    "40": "Localisation"
+    "40": "Localisation",
+    "41": "Sélectionnez la quantité de mémoire dont vous avez besoin parmi les options ci-dessous. La quantité de mémoire que vous choisissez déterminera les performances de votre serveur et sa capacité à gérer les applications et les charges de travail. Choisissez l'option qui correspond le mieux à l'utilisation que vous souhaitez en faire.",
+    "42": "Sélectionnez le nombre de cœurs de CPU dont vous avez besoin parmi les options ci-dessous. Le nombre de cœurs détermine le nombre de tâches que votre serveur peut traiter simultanément et influe directement sur les performances globales. Choisissez l'option qui convient le mieux à la charge de travail et aux applications que vous prévoyez d'exécuter.",
+    "43": "Sélectionnez la quantité de stockage dont vous avez besoin parmi les options ci-dessous. La taille du stockage détermine la quantité de données, de fichiers et d'applications que votre serveur peut contenir. Choisissez une option qui offre suffisamment d'espace pour répondre à vos besoins actuels et qui vous permet de vous développer à l'avenir.",
+    "44": "Ces options déterminent les performances et la capacité de votre serveur et vous aident à créer une configuration adaptée à vos besoins et à l'utilisation que vous souhaitez en faire.",
+    "45": "L'allocation de trafic pour ce serveur est incluse dans le pack de ressources sélectionné, aucune configuration supplémentaire n'est donc nécessaire."
 }

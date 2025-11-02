@@ -39,5 +39,10 @@
     "37": "Osiągnięto limit zasobów. Skontaktuj się z pomocą techniczną, aby omówić opcje limitu.",
     "38": "Twoje saldo kredytowe jest zbyt niskie. Musisz najpierw doładować konto, aby utworzyć serwer.",
     "39": "Nie można utworzyć serwera. Spróbuj użyć innej lokalizacji lub pakietu.",
-    "40": "Lokalizacja"
+    "40": "Lokalizacja",
+    "41": "Wybierz wymaganą ilość pamięci z poniższych opcji. Wybrana ilość pamięci określi wydajność serwera i jego zdolność do obsługi aplikacji i obciążeń. Wybierz opcję, która najlepiej pasuje do zamierzonego zastosowania.",
+    "42": "Wybierz liczbę rdzeni procesora z poniższych opcji. Liczba rdzeni określa, ile zadań serwer może przetwarzać jednocześnie i bezpośrednio wpływa na ogólną wydajność. Wybierz opcję, która najlepiej pasuje do obciążenia i aplikacji, które planujesz uruchomić.",
+    "43": "Wybierz wymaganą ilość pamięci masowej z poniższych opcji. Rozmiar pamięci masowej określa, ile danych, plików i aplikacji może pomieścić serwer. Wybierz opcję, która zapewnia wystarczającą ilość miejsca na bieżące potrzeby i zapewnia miejsce na przyszły rozwój.",
+    "44": "Skonfiguruj serwer, wybierając ilość potrzebnych zasobów. Opcje te określają wydajność i pojemność serwera, pomagając stworzyć konfigurację, która odpowiada Twoim potrzebom i zamierzonemu zastosowaniu.",
+    "45": "Limit ruchu dla tego serwera jest zawarty w wybranym pakiecie zasobów, więc nie jest wymagana dodatkowa konfiguracja."
 }

@@ -376,5 +376,7 @@
     "377": "Kata sandi",
     "378": "Opsi Saat Ini Tidak Tersedia",
     "379": "Informasi CPU Tidak Tersedia",
-    "380": "Tergantung pada sistem operasi yang diinstal dan status aktif server, mungkin tidak dapat melihat penggunaan CPU."
+    "380": "Tergantung pada sistem operasi yang diinstal dan status aktif server, mungkin tidak dapat melihat penggunaan CPU.",
+    "381": "Lalu lintas jaringan yang dihasilkan oleh server ini tercakup dalam",
+    "382": "jatah lalu lintas paket sumber daya."
 }

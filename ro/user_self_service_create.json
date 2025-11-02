@@ -39,5 +39,10 @@
     "37": "Limita de resurse atinsă. Vă rugăm să contactați asistența pentru a discuta opțiunile limită.",
     "38": "Soldul dvs. de credit este prea mic. Mai întâi trebuie să completați pentru a crea un server.",
     "39": "Serverul nu a putut fi creat. Vă rugăm să încercați o altă locație sau un pachet.",
-    "40": "Locatie"
+    "40": "Locatie",
+    "41": "Selectați cantitatea de memorie de care aveți nevoie din opțiunile de mai jos. Cantitatea de memorie pe care o alegeți va determina performanța serverului și capacitatea de a gestiona aplicațiile și sarcinile de lucru. Alegeți o opțiune care se potrivește cel mai bine utilizării dorite.",
+    "42": "Selectați numărul de nuclee CPU de care aveți nevoie din opțiunile de mai jos. Numărul de nuclee determină câte sarcini poate procesa serverul dvs. simultan și afectează în mod direct performanța generală. Alegeți o opțiune care se potrivește cel mai bine volumului de muncă și aplicațiilor pe care intenționați să le rulați.",
+    "43": "Selectați cantitatea de spațiu de stocare de care aveți nevoie din opțiunile de mai jos. Dimensiunea stocării determină cât de multe date, fișiere și aplicații poate stoca serverul dvs. Alegeți o opțiune care oferă suficient spațiu pentru nevoile dvs. actuale și permite spațiu pentru creșterea viitoare.",
+    "44": "Configurați serverul selectând cantitatea de resurse de care aveți nevoie. Aceste opțiuni determină performanța și capacitatea serverului dvs., ajutându-vă să creați o configurație care să se potrivească nevoilor și utilizării dorite.",
+    "45": "Alocația de trafic pentru acest server este inclusă în pachetul de resurse selectat, deci nu este necesară nicio configurație suplimentară."
 }

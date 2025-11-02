@@ -376,5 +376,7 @@
     "377": "Jelszó",
     "378": "Jelenleg nem elérhető opció",
     "379": "CPU információ nem elérhető",
-    "380": "A telepített operációs rendszertől és a kiszolgáló aktív állapotától függően előfordulhat, hogy a CPU-kihasználtságot nem lehet megtekinteni."
+    "380": "A telepített operációs rendszertől és a kiszolgáló aktív állapotától függően előfordulhat, hogy a CPU-kihasználtságot nem lehet megtekinteni.",
+    "381": "Az e kiszolgáló által generált hálózati forgalomra a",
+    "382": "erőforrás csomag forgalmi engedélye."
 }

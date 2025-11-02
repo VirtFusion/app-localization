@@ -376,5 +376,7 @@
     "377": "Hasło",
     "378": "Opcja obecnie niedostępna",
     "379": "Informacje o procesorze są niedostępne",
-    "380": "W zależności od zainstalowanego systemu operacyjnego i aktywnego stanu serwera, wyświetlenie wykorzystania procesora może nie być możliwe."
+    "380": "W zależności od zainstalowanego systemu operacyjnego i aktywnego stanu serwera, wyświetlenie wykorzystania procesora może nie być możliwe.",
+    "381": "Ruch sieciowy generowany przez ten serwer jest objęty usługą",
+    "382": "limit ruchu pakietu zasobów."
 }

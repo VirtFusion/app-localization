@@ -376,5 +376,7 @@
     "377": "Lozinka",
     "378": "Opcija trenutno nedostupna",
     "379": "Informacije o procesoru nedostupne",
-    "380": "U zavisnosti od instaliranog operativnog sistema i aktivnog stanja servera, možda neće biti moguće videti upotrebu CPU-a."
+    "380": "U zavisnosti od instaliranog operativnog sistema i aktivnog stanja servera, možda neće biti moguće videti upotrebu CPU-a.",
+    "381": "Mrežni saobraćaj koji generiše ovaj server pokriven je pod",
+    "382": "dodatak za saobraćaj u paketu resursa."
 }

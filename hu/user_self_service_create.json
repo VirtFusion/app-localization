@@ -39,5 +39,10 @@
     "37": "Elérte az erőforrás-korlátot. Kérjük, lépjen kapcsolatba az ügyfélszolgálattal, hogy megbeszéljék a korlátozási lehetőségeket.",
     "38": "Túl alacsony a hitelegyenlege. Először fel kell töltenie, hogy létrehozzon egy szervert.",
     "39": "A kiszolgálót nem sikerült létrehozni. Kérjük, próbáljon meg egy másik helyet vagy csomagot.",
-    "40": "Helyszín"
+    "40": "Helyszín",
+    "41": "Válassza ki a szükséges memória mennyiségét az alábbi lehetőségek közül. A választott memória mennyisége határozza meg a kiszolgáló teljesítményét és az alkalmazások és munkaterhelések kezeléséhez szükséges kapacitását. Válassza ki a tervezett felhasználásnak leginkább megfelelő opciót.",
+    "42": "Válassza ki a szükséges CPU-magok számát az alábbi lehetőségek közül. A magok száma határozza meg, hogy a kiszolgáló hány feladatot tud egyszerre feldolgozni, és közvetlenül befolyásolja az általános teljesítményt. Válassza ki a munkaterhelésnek és a futtatni kívánt alkalmazásoknak leginkább megfelelő opciót.",
+    "43": "Válassza ki a szükséges tárhely mennyiségét az alábbi lehetőségek közül. A tárhely mérete határozza meg, hogy mennyi adatot, fájlt és alkalmazást tud tárolni a kiszolgálója. Válasszon olyan opciót, amely elegendő helyet biztosít a jelenlegi igényeinek, és helyet biztosít a jövőbeli növekedéshez.",
+    "44": "Állítsa be a kiszolgálót a szükséges erőforrások mennyiségének kiválasztásával. Ezek a beállítások határozzák meg a kiszolgáló teljesítményét és kapacitását, segítve az igényeinek és a tervezett felhasználásnak megfelelő beállítás létrehozását.",
+    "45": "A kiszolgáló forgalmi engedélyét a kiválasztott erőforráscsomag tartalmazza, így nincs szükség további konfigurációra."
 }

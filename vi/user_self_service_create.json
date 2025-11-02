@@ -39,5 +39,10 @@
     "37": "Đã đạt giới hạn tài nguyên. Vui lòng liên hệ với bộ phận hỗ trợ để thảo luận về các tùy chọn giới hạn của bạn.",
     "38": "Số dư tín dụng của bạn quá thấp. Trước tiên bạn phải nạp vào để tạo ra một máy chủ.",
     "39": "Máy chủ không thể được tạo ra. Vui lòng thử một vị trí hoặc gói khác.",
-    "40": "Vị trí"
+    "40": "Vị trí",
+    "41": "Chọn dung lượng bộ nhớ bạn yêu cầu từ các tùy chọn bên dưới. Dung lượng bộ nhớ bạn chọn sẽ xác định hiệu suất và dung lượng của máy chủ để xử lý các ứng dụng và khối lượng công việc. Chọn một tùy chọn phù hợp nhất với mục đích sử dụng của bạn.",
+    "42": "Chọn số lõi CPU bạn yêu cầu từ các tùy chọn bên dưới. Số lượng lõi xác định số lượng tác vụ máy chủ của bạn có thể xử lý đồng thời và ảnh hưởng trực tiếp đến hiệu suất tổng thể. Chọn một tùy chọn phù hợp nhất với khối lượng công việc và các ứng dụng bạn dự định chạy.",
+    "43": "Chọn dung lượng lưu trữ bạn yêu cầu từ các tùy chọn bên dưới. Kích thước lưu trữ xác định lượng dữ liệu, tệp và ứng dụng máy chủ của bạn có thể chứa. Chọn một tùy chọn cung cấp đủ không gian cho nhu cầu hiện tại của bạn và cho phép không gian cho sự phát triển trong tương lai.",
+    "44": "Thiết lập máy chủ bằng cách chọn lượng tài nguyên bạn cần. Các tùy chọn này xác định hiệu suất và dung lượng máy chủ của bạn, giúp bạn tạo một thiết lập phù hợp với nhu cầu và mục đích sử dụng của bạn.",
+    "45": "Lưu lượng truy cập cho máy chủ này được bao gồm trong gói tài nguyên đã chọn, do đó không cần cấu hình bổ sung."
 }

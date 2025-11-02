@@ -376,5 +376,7 @@
     "377": "Password",
     "378": "Opzione attualmente non disponibile",
     "379": "Informazioni sulla CPU non disponibili",
-    "380": "A seconda del sistema operativo installato e dello stato attivo del server, potrebbe non essere possibile visualizzare l'utilizzo della CPU."
+    "380": "A seconda del sistema operativo installato e dello stato attivo del server, potrebbe non essere possibile visualizzare l'utilizzo della CPU.",
+    "381": "Il traffico di rete generato da questo server è coperto dalla normativa",
+    "382": "traffico del pacchetto di risorse."
 }

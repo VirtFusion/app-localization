@@ -376,5 +376,7 @@
     "377": "Salasana",
     "378": "Vaihtoehto ei ole tällä hetkellä käytettävissä",
     "379": "Suorittimen tiedot eivät ole käytettävissä",
-    "380": "Asennetusta käyttöjärjestelmästä ja palvelimen aktiivisesta tilasta riippuen suorittimen käyttöä ei ehkä voida tarkastella."
+    "380": "Asennetusta käyttöjärjestelmästä ja palvelimen aktiivisesta tilasta riippuen suorittimen käyttöä ei ehkä voida tarkastella.",
+    "381": "Tämän palvelimen tuottama verkkoliikenne kuuluu",
+    "382": "resurssipaketin liikennekorvaus."
 }

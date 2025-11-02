@@ -39,5 +39,10 @@
     "37": "Resursgräns nådd. Kontakta support för att diskutera dina begränsningsalternativ.",
     "38": "Ditt kreditsaldo är för lågt. Du måste först fylla på för att skapa en server.",
     "39": "Servern kunde inte skapas. Försök med en annan plats eller ett annat paket.",
-    "40": "Plats"
+    "40": "Plats",
+    "41": "Välj den mängd minne du behöver från alternativen nedan. Mängden minne du väljer avgör serverns prestanda och kapacitet att hantera applikationer och arbetsbelastningar. Välj ett alternativ som bäst passar din avsedda användning.",
+    "42": "Välj antalet CPU-kärnor du behöver från alternativen nedan. Antalet kärnor avgör hur många uppgifter servern kan behandla samtidigt och påverkar direkt den totala prestandan. Välj ett alternativ som bäst passar arbetsbelastningen och applikationerna du planerar att köra.",
+    "43": "Välj mängden lagringsutrymme du behöver från alternativen nedan. Lagringsstorleken avgör hur mycket data, filer och program servern kan rymma. Välj ett alternativ som ger tillräckligt med utrymme för dina nuvarande behov och ger utrymme för framtida tillväxt.",
+    "44": "Ställ in servern genom att välja mängden resurser du behöver. Dessa alternativ bestämmer serverns prestanda och kapacitet och hjälper dig att skapa en installation som passar dina behov och avsedda användning.",
+    "45": "Trafiktillskottet för den här servern ingår i det valda resurspaketet, så ingen ytterligare konfiguration krävs."
 }

@@ -376,5 +376,7 @@
     "377": "Mot de passe",
     "378": "Option non disponible actuellement",
     "379": "Informations sur l'unité centrale indisponibles",
-    "380": "En fonction du système d'exploitation installé et de l'état actif du serveur, il peut être impossible d'afficher l'utilisation du processeur."
+    "380": "En fonction du système d'exploitation installé et de l'état actif du serveur, il peut être impossible d'afficher l'utilisation du processeur.",
+    "381": "Le trafic réseau généré par ce serveur est couvert par l'accord de l",
+    "382": "l'allocation de trafic du paquet de ressources."
 }

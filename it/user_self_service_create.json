@@ -39,5 +39,10 @@
     "37": "Il limite delle risorse è stato raggiunto. Contattare l'assistenza per discutere le opzioni del limite.",
     "38": "Il saldo del credito è troppo basso. È necessario effettuare una ricarica per creare un server.",
     "39": "Non è stato possibile creare il server. Provare con una posizione o un pacchetto diverso.",
-    "40": "Posizione"
+    "40": "Posizione",
+    "41": "Selezionare la quantità di memoria necessaria tra le opzioni riportate di seguito. La quantità di memoria scelta determina le prestazioni e la capacità del server di gestire applicazioni e carichi di lavoro. Scegliere l'opzione più adatta all'uso previsto.",
+    "42": "Selezionare il numero di core della CPU necessari dalle opzioni sottostanti. Il numero di core determina il numero di attività che il server può elaborare simultaneamente e influisce direttamente sulle prestazioni complessive. Scegliere l'opzione più adatta al carico di lavoro e alle applicazioni che si intende eseguire.",
+    "43": "Selezionare la quantità di spazio di archiviazione necessaria tra le opzioni riportate di seguito. Le dimensioni dello spazio di archiviazione determinano la quantità di dati, file e applicazioni che il server può contenere. Scegliere un'opzione che offra spazio sufficiente per le esigenze attuali e consenta una crescita futura.",
+    "44": "Queste opzioni determinano le prestazioni e la capacità del server, aiutandovi a creare una configurazione adatta alle vostre esigenze e all'uso previsto.",
+    "45": "L'indennità di traffico per questo server è inclusa nel pacchetto di risorse selezionato, quindi non è necessaria alcuna configurazione aggiuntiva."
 }

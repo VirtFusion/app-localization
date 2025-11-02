@@ -39,5 +39,10 @@
     "37": "Kaynak sınırına ulaşıldı. Limit seçeneklerinizi görüşmek için lütfen destek ekibiyle iletişime geçin.",
     "38": "Kredi bakiyeniz çok düşük. Bir sunucu oluşturmak için önce kontör yüklemelisiniz.",
     "39": "Sunucu oluşturulamadı. Lütfen farklı bir konum veya paket deneyin.",
-    "40": "Konum"
+    "40": "Konum",
+    "41": "Aşağıdaki seçeneklerden ihtiyacınız olan bellek miktarını seçin. Seçtiğiniz bellek miktarı, sunucunuzun performansını ve uygulamalar ile iş yüklerini işleme kapasitesini belirleyecektir. Kullanım amacınıza en uygun seçeneği seçin.",
+    "42": "Aşağıdaki seçeneklerden ihtiyacınız olan CPU çekirdeği sayısını seçin. Çekirdek sayısı, sunucunuzun aynı anda kaç görevi işleyebileceğini belirler ve genel performansı doğrudan etkiler. Çalıştırmayı planladığınız iş yüküne ve uygulamalara en uygun seçeneği seçin.",
+    "43": "Aşağıdaki seçeneklerden ihtiyacınız olan depolama miktarını seçin. Depolama boyutu, sunucunuzun ne kadar veri, dosya ve uygulama tutabileceğini belirler. Mevcut ihtiyaçlarınız için yeterli alan sağlayan ve gelecekteki büyüme için yer açan bir seçenek seçin.",
+    "44": "İhtiyacınız olan kaynak miktarını seçerek sunucuyu kurun. Bu seçenekler sunucunuzun performansını ve kapasitesini belirleyerek ihtiyaçlarınıza ve kullanım amacınıza uygun bir kurulum oluşturmanıza yardımcı olur.",
+    "45": "Bu sunucu için trafik ödeneği seçilen kaynak paketine dahil edilmiştir, bu nedenle ek yapılandırma gerekmez."
 }

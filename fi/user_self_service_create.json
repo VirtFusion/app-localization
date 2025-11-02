@@ -39,5 +39,10 @@
     "37": "Resurssiraja saavutettu. Ota yhteyttä tukeen keskustellaksesi raja-asetuksistasi.",
     "38": "Luottosaldosi on liian alhainen. Sinun on ensin täytettävä luodaksesi palvelimen.",
     "39": "Palvelinta ei voitu luoda. Kokeile toista sijaintia tai pakettia.",
-    "40": "Sijainti"
+    "40": "Sijainti",
+    "41": "Valitse tarvitsemasi muistin määrä alla olevista vaihtoehdoista. Valitsemasi muistin määrä määrittää palvelimen suorituskyvyn ja kapasiteetin käsitellä sovelluksia ja työkuormia. Valitse vaihtoehto, joka sopii parhaiten käyttötarkoitukseesi.",
+    "42": "Valitse tarvitsemasi suorittimen ytimien määrä alla olevista vaihtoehdoista. Ytimien lukumäärä määrittää, kuinka monta tehtävää palvelin voi käsitellä samanaikaisesti, ja vaikuttaa suoraan yleiseen suorituskykyyn. Valitse vaihtoehto, joka sopii parhaiten työmäärään ja sovelluksiin, joita aiot suorittaa.",
+    "43": "Valitse tarvitsemasi tallennustilan määrä alla olevista vaihtoehdoista. Tallennustilan koko määrittää, kuinka paljon tietoja, tiedostoja ja sovelluksia palvelimellesi mahtuu. Valitse vaihtoehto, joka tarjoaa tarpeeksi tilaa nykyisille tarpeillesi ja antaa tilaa tulevalle kasvulle.",
+    "44": "Määritä palvelin valitsemalla tarvitsemasi resurssien määrä. Nämä asetukset määrittävät palvelimen suorituskyvyn ja kapasiteetin, mikä auttaa sinua luomaan tarpeisiisi ja käyttötarkoitukseen sopivan asennuksen.",
+    "45": "Tämän palvelimen liikennerajoitus sisältyy valittuun resurssipakettiin, joten lisämäärityksiä ei tarvita."
 }

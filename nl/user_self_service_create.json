@@ -39,5 +39,10 @@
     "37": "Resourcelimiet bereikt. Neem contact op met support om uw limietopties te bespreken.",
     "38": "Uw tegoed is te laag. U moet eerst opwaarderen om een server aan te maken.",
     "39": "De server kon niet worden aangemaakt. Probeer een andere locatie of een ander pakket.",
-    "40": "Locatie"
+    "40": "Locatie",
+    "41": "Selecteer de hoeveelheid geheugen die je nodig hebt uit de onderstaande opties. De hoeveelheid geheugen die je kiest, bepaalt de prestaties van je server en de capaciteit om applicaties en werklasten aan te kunnen. Kies een optie die het beste past bij het beoogde gebruik.",
+    "42": "Selecteer het aantal CPU cores dat je nodig hebt uit de onderstaande opties. Het aantal cores bepaalt hoeveel taken je server tegelijkertijd kan verwerken en heeft een directe invloed op de algehele prestaties. Kies een optie die het beste past bij de werklast en applicaties die je van plan bent te draaien.",
+    "43": "Selecteer uit de onderstaande opties de hoeveelheid opslagruimte die u nodig hebt. De opslaggrootte bepaalt hoeveel gegevens, bestanden en toepassingen uw server kan bevatten. Kies een optie die voldoende ruimte biedt voor uw huidige behoeften en ruimte laat voor toekomstige groei.",
+    "44": "Stel de server in door de hoeveelheid resources te selecteren die je nodig hebt. Deze opties bepalen de prestaties en capaciteit van je server en helpen je een opstelling te maken die past bij je behoeften en het beoogde gebruik.",
+    "45": "De verkeerstoewijzing voor deze server is opgenomen in het geselecteerde resource pack, dus er is geen extra configuratie nodig."
 }

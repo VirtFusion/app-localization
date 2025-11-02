@@ -39,5 +39,10 @@
     "37": "Se ha alcanzado el límite de recursos. Póngase en contacto con el servicio de asistencia para analizar las opciones de límite.",
     "38": "Tu saldo es demasiado bajo. Primero debes recargarlo para crear un servidor.",
     "39": "No se ha podido crear el servidor. Por favor, pruebe con otra ubicación o paquete.",
-    "40": "Ubicación"
+    "40": "Ubicación",
+    "41": "Seleccione la cantidad de memoria que necesita entre las opciones que aparecen a continuación. La cantidad de memoria que elija determinará el rendimiento y la capacidad de su servidor para gestionar aplicaciones y cargas de trabajo. Elija la opción que mejor se adapte a su uso previsto.",
+    "42": "Seleccione el número de núcleos de CPU que necesita entre las opciones siguientes. El número de núcleos determina cuántas tareas puede procesar simultáneamente su servidor y afecta directamente al rendimiento general. Elija la opción que mejor se adapte a la carga de trabajo y a las aplicaciones que tiene previsto ejecutar.",
+    "43": "Seleccione la cantidad de almacenamiento que necesita entre las opciones siguientes. El tamaño del almacenamiento determina la cantidad de datos, archivos y aplicaciones que puede contener su servidor. Elija una opción que le proporcione espacio suficiente para sus necesidades actuales y que le permita crecer en el futuro.",
+    "44": "Configure el servidor seleccionando la cantidad de recursos que necesita. Estas opciones determinan el rendimiento y la capacidad de su servidor, ayudándole a crear una configuración que se adapte a sus necesidades y al uso previsto.",
+    "45": "La asignación de tráfico para este servidor está incluida en el paquete de recursos seleccionado, por lo que no se requiere ninguna configuración adicional."
 }

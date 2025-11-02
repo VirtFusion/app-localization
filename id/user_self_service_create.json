@@ -39,5 +39,10 @@
     "37": "Batas sumber daya tercapai, silakan hubungi bagian dukungan untuk mendiskusikan opsi batas Anda.",
     "38": "Saldo kredit Anda terlalu rendah, Anda harus mengisi ulang terlebih dahulu untuk membuat server.",
     "39": "Server tidak dapat dibuat. Silakan coba lokasi atau paket yang berbeda.",
-    "40": "Lokasi"
+    "40": "Lokasi",
+    "41": "Pilih jumlah memori yang Anda perlukan dari pilihan di bawah ini. Jumlah memori yang Anda pilih akan menentukan performa dan kapasitas server Anda untuk menangani aplikasi dan beban kerja. Pilihlah opsi yang paling sesuai dengan tujuan penggunaan Anda.",
+    "42": "Pilih jumlah inti CPU yang Anda perlukan dari opsi di bawah ini. Jumlah inti menentukan berapa banyak tugas yang dapat diproses server Anda secara bersamaan dan secara langsung memengaruhi kinerja secara keseluruhan. Pilih opsi yang paling sesuai dengan beban kerja dan aplikasi yang Anda rencanakan untuk dijalankan.",
+    "43": "Pilih jumlah penyimpanan yang Anda perlukan dari opsi di bawah ini. Ukuran penyimpanan menentukan berapa banyak data, file, dan aplikasi yang dapat ditampung oleh server Anda. Pilih opsi yang menyediakan ruang yang cukup untuk kebutuhan Anda saat ini dan memberikan ruang untuk pertumbuhan di masa mendatang.",
+    "44": "Siapkan server dengan memilih jumlah sumber daya yang Anda butuhkan. Opsi ini menentukan kinerja dan kapasitas server Anda, membantu Anda membuat pengaturan yang sesuai dengan kebutuhan dan tujuan penggunaan.",
+    "45": "Jatah lalu lintas untuk server ini termasuk dalam paket sumber daya yang dipilih, jadi tidak diperlukan konfigurasi tambahan."
 }

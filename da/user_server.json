@@ -376,5 +376,7 @@
     "377": "Adgangskode",
     "378": "Mulighed ikke tilgængelig i øjeblikket",
     "379": "CPU-information utilgængelig",
-    "380": "Afhængigt af det installerede operativsystem og serverens aktive tilstand er det muligvis ikke muligt at se CPU-udnyttelsen."
+    "380": "Afhængigt af det installerede operativsystem og serverens aktive tilstand er det muligvis ikke muligt at se CPU-udnyttelsen.",
+    "381": "Netværkstrafik, der genereres af denne server, er dækket af",
+    "382": "ressourcepakkens trafiktilladelse."
 }

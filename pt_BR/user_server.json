@@ -376,5 +376,7 @@
     "377": "Senha",
     "378": "Opção atualmente indisponível",
     "379": "Informações da CPU indisponíveis",
-    "380": "Dependendo do sistema operacional instalado e do estado ativo do servidor, talvez não seja possível visualizar a utilização da CPU."
+    "380": "Dependendo do sistema operacional instalado e do estado ativo do servidor, talvez não seja possível visualizar a utilização da CPU.",
+    "381": "O tráfego de rede gerado por esse servidor é coberto pelo",
+    "382": "permissão de tráfego do pacote de recursos."
 }

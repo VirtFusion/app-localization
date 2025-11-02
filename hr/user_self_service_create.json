@@ -39,5 +39,10 @@
     "37": "Dosegnuto ograničenje resursa. Obratite se podršci kako biste razgovarali o mogućnostima ograničenja.",
     "38": "Vaš kreditni saldo je prenizak. Prvo morate nadopuniti da biste stvorili poslužitelj.",
     "39": "Poslužitelj nije mogao biti izrađen. Isprobajte drugu lokaciju ili paket.",
-    "40": "Lokacija"
+    "40": "Lokacija",
+    "41": "Odaberite količinu memorije koja vam je potrebna iz opcija u nastavku. Količina memorije koju odaberete odrediti će performanse i kapacitet vašeg poslužitelja za rukovanje aplikacijama i radnim opterećenjima. Odaberite opciju koja najbolje odgovara vašoj namjeni.",
+    "42": "Odaberite broj CPU jezgri koji vam je potreban iz opcija u nastavku. Broj jezgri određuje koliko zadataka vaš poslužitelj može obraditi istovremeno i izravno utječe na ukupne performanse. Odaberite opciju koja najbolje odgovara opterećenju i aplikacijama koje planirate pokrenuti.",
+    "43": "Odaberite količinu prostora za pohranu koja vam je potrebna iz opcija u nastavku. Veličina pohrane određuje koliko podataka, datoteka i aplikacija vaš poslužitelj može zadržati. Odaberite opciju koja pruža dovoljno prostora za vaše trenutne potrebe i omogućuje prostor za budući rast.",
+    "44": "Postavite poslužitelj odabirom količine resursa koji su vam potrebni. Ove opcije određuju performanse i kapacitet vašeg poslužitelja, pomažući vam da stvorite postavku koja odgovara vašim potrebama i namjeravanoj uporabi.",
+    "45": "Dopuštenost prometa za ovaj poslužitelj uključena je u odabrani paket resursa, tako da nije potrebna dodatna konfiguracija."
 }

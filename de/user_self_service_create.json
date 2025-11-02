@@ -39,5 +39,10 @@
     "37": "Ressourcenlimit erreicht. Wenden Sie sich bitte an den Support, um Ihre Limit-Optionen zu besprechen.",
     "38": "Ihr Guthaben ist zu niedrig. Sie müssen erst aufladen, um einen Server zu erstellen.",
     "39": "Der Server konnte nicht erstellt werden. Bitte versuchen Sie einen anderen Standort oder ein anderes Paket.",
-    "40": "Standort"
+    "40": "Standort",
+    "41": "Wählen Sie aus den nachstehenden Optionen die von Ihnen benötigte Speichermenge aus. Die von Ihnen gewählte Speichermenge bestimmt die Leistung Ihres Servers und die Kapazität zur Bewältigung von Anwendungen und Arbeitslasten. Wählen Sie eine Option, die am besten zu Ihrem Verwendungszweck passt.",
+    "42": "Wählen Sie die Anzahl der benötigten CPU-Kerne aus den unten stehenden Optionen aus. Die Anzahl der Kerne bestimmt, wie viele Aufgaben Ihr Server gleichzeitig verarbeiten kann, und wirkt sich direkt auf die Gesamtleistung aus. Wählen Sie eine Option, die am besten zu der Arbeitslast und den Anwendungen passt, die Sie ausführen möchten.",
+    "43": "Wählen Sie aus den unten stehenden Optionen die benötigte Speichergröße aus. Die Speichergröße bestimmt, wie viele Daten, Dateien und Anwendungen Ihr Server speichern kann. Wählen Sie eine Option, die genügend Platz für Ihren aktuellen Bedarf bietet und Raum für zukünftiges Wachstum lässt.",
+    "44": "Diese Optionen bestimmen die Leistung und Kapazität Ihres Servers und helfen Ihnen dabei, eine Konfiguration zu erstellen, die Ihren Anforderungen und Ihrem Verwendungszweck entspricht.",
+    "45": "Die Verkehrszulassung für diesen Server ist im ausgewählten Ressourcenpaket enthalten, so dass keine zusätzliche Konfiguration erforderlich ist."
 }

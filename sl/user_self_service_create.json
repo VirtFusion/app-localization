@@ -39,5 +39,10 @@
     "37": "Omejitev sredstev je dosežena. Obrnite se na podporo in se pogovorite o možnostih omejitve.",
     "38": "Vaše dobroimetje je prenizko. Če želite ustvariti strežnik, ga morate najprej napolniti.",
     "39": "Strežnika ni bilo mogoče ustvariti. Poskusite z drugo lokacijo ali paketom.",
-    "40": "Lokacija"
+    "40": "Lokacija",
+    "41": "Med spodnjimi možnostmi izberite količino pomnilnika, ki jo potrebujete. Od količine pomnilnika, ki jo izberete, je odvisna zmogljivost vašega strežnika in zmogljivost za obdelavo aplikacij in delovnih obremenitev. Izberite možnost, ki najbolj ustreza vaši predvideni uporabi.",
+    "42": "Iz spodnjih možnosti izberite število procesorskih jeder, ki jih potrebujete. Število jeder določa, koliko opravil lahko strežnik obdeluje hkrati, in neposredno vpliva na celotno zmogljivost. Izberite možnost, ki najbolj ustreza delovni obremenitvi in aplikacijam, ki jih nameravate izvajati.",
+    "43": "V spodnjih možnostih izberite količino pomnilnika, ki jo potrebujete. Velikost pomnilnika določa, koliko podatkov, datotek in aplikacij lahko hrani vaš strežnik. Izberite možnost, ki zagotavlja dovolj prostora za vaše trenutne potrebe in omogoča nadaljnjo rast.",
+    "44": "Strežnik nastavite tako, da izberete količino virov, ki jih potrebujete. Te možnosti določajo zmogljivost in zmogljivost strežnika ter vam pomagajo ustvariti nastavitev, ki ustreza vašim potrebam in predvideni uporabi.",
+    "45": "Dovoljenje za promet za ta strežnik je vključeno v izbrani paket virov, zato dodatna konfiguracija ni potrebna."
 }

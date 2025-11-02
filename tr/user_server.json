@@ -376,5 +376,7 @@
     "377": "Şifre",
     "378": "Seçenek Şu Anda Kullanılamıyor",
     "379": "CPU Bilgileri Kullanılamıyor",
-    "380": "Kurulu işletim sistemine ve sunucunun aktif durumuna bağlı olarak, CPU kullanımını görüntülemek mümkün olmayabilir."
+    "380": "Kurulu işletim sistemine ve sunucunun aktif durumuna bağlı olarak, CPU kullanımını görüntülemek mümkün olmayabilir.",
+    "381": "Bu sunucu tarafından oluşturulan ağ trafiği",
+    "382": "kaynak paketi trafik ödeneği."
 }

@@ -376,5 +376,7 @@
     "377": "Geslo",
     "378": "Možnost trenutno ni na voljo",
     "379": "Informacije o CPU niso na voljo",
-    "380": "Glede na nameščeni operacijski sistem in aktivno stanje strežnika morda ne bo mogoče prikazati izkoriščenosti procesorja."
+    "380": "Glede na nameščeni operacijski sistem in aktivno stanje strežnika morda ne bo mogoče prikazati izkoriščenosti procesorja.",
+    "381": "Omrežni promet, ki ga ustvarja ta strežnik, je zajet v",
+    "382": "dovoljenje za promet v paketu virov."
 }

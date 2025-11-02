@@ -39,5 +39,10 @@
     "37": "Ograničenje resursa dostignuto. Molimo kontaktirajte podršku da biste razgovarali o mogućnostima limita.",
     "38": "Vaš kreditni saldo je prenizak. Prvo morate dopuniti da biste kreirali server.",
     "39": "Server nije mogao biti kreiran. Pokušajte drugu lokaciju ili paket.",
-    "40": "Lokacija"
+    "40": "Lokacija",
+    "41": "Izaberite količinu memorije koja vam je potrebna iz opcija ispod. Količina memorije koju odaberete odrediće performanse i kapacitet vašeg servera za rukovanje aplikacijama i radnim opterećenjima. Izaberite opciju koja najbolje odgovara vašoj nameni.",
+    "42": "Izaberite broj CPU jezgara koji vam je potreban iz opcija ispod. Broj jezgara određuje koliko zadataka vaš server može istovremeno da obradi i direktno utiče na ukupne performanse. Izaberite opciju koja najbolje odgovara opterećenju i aplikacijama koje planirate da pokrenete.",
+    "43": "Izaberite količinu prostora za skladištenje koja vam je potrebna iz opcija ispod. Veličina skladištenja određuje koliko podataka, datoteka i aplikacija vaš server može da zadrži. Izaberite opciju koja pruža dovoljno prostora za vaše trenutne potrebe i omogućava prostor za budući rast.",
+    "44": "Podesite server odabirom količine resursa koji su vam potrebni. Ove opcije određuju performanse i kapacitet vašeg servera, pomažući vam da kreirate podešavanje koje odgovara vašim potrebama i nameravanoj upotrebi.",
+    "45": "Dodatak za saobraćaj za ovaj server uključen je u izabrani paket resursa, tako da nije potrebna dodatna konfiguracija."
 }

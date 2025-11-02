@@ -39,5 +39,10 @@
     "37": "O limite de recursos foi atingido. Entre em contato com o suporte para discutir suas opções de limite.",
     "38": "Seu saldo de crédito é muito baixo. Você deve primeiro fazer uma recarga para criar um servidor.",
     "39": "Não foi possível criar o servidor. Tente usar um local ou pacote diferente.",
-    "40": "Localização"
+    "40": "Localização",
+    "41": "Selecione a quantidade de memória necessária entre as opções abaixo. A quantidade de memória escolhida determinará o desempenho e a capacidade do servidor de lidar com aplicativos e cargas de trabalho. Escolha uma opção que melhor se adapte ao uso pretendido.",
+    "42": "Selecione o número de núcleos de CPU necessários entre as opções abaixo. O número de núcleos determina quantas tarefas o servidor pode processar simultaneamente e afeta diretamente o desempenho geral. Escolha uma opção que melhor se adapte à carga de trabalho e aos aplicativos que você planeja executar.",
+    "43": "Selecione a quantidade de armazenamento necessária entre as opções abaixo. O tamanho do armazenamento determina a quantidade de dados, arquivos e aplicativos que o servidor pode armazenar. Escolha uma opção que forneça espaço suficiente para suas necessidades atuais e permita espaço para crescimento futuro.",
+    "44": "Configure o servidor selecionando a quantidade de recursos necessários. Essas opções determinam o desempenho e a capacidade do servidor, ajudando-o a criar uma configuração que atenda às suas necessidades e ao uso pretendido.",
+    "45": "A permissão de tráfego para esse servidor está incluída no pacote de recursos selecionado, portanto, não é necessária nenhuma configuração adicional."
 }

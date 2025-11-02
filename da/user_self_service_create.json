@@ -39,5 +39,10 @@
     "37": "Ressourcegrænsen er nået. Kontakt venligst support for at diskutere dine muligheder for begrænsning.",
     "38": "Din kreditsaldo er for lav. Du skal først fylde op for at oprette en server.",
     "39": "Serveren kunne ikke oprettes. Prøv venligst en anden placering eller pakke.",
-    "40": "Placering"
+    "40": "Placering",
+    "41": "Vælg den mængde hukommelse, du har brug for, fra mulighederne nedenfor. Den mængde hukommelse, du vælger, bestemmer din servers ydeevne og kapacitet til at håndtere programmer og arbejdsbyrder. Vælg en mulighed, der passer bedst til din planlagte brug.",
+    "42": "Vælg det antal CPU-kerner, du har brug for, fra mulighederne nedenfor. Antallet af kerner bestemmer, hvor mange opgaver din server kan behandle samtidigt og påvirker direkte den samlede ydelse. Vælg den mulighed, der passer bedst til den arbejdsbyrde og de programmer, du planlægger at køre.",
+    "43": "Vælg den mængde lagerplads, du har brug for, fra mulighederne nedenfor. Lagerstørrelsen bestemmer, hvor mange data, filer og programmer din server kan rumme. Vælg en mulighed, der giver plads nok til dine nuværende behov og giver plads til fremtidig vækst.",
+    "44": "Konfigurer serveren ved at vælge den mængde ressourcer, du har brug for. Disse indstillinger bestemmer serverens ydeevne og kapacitet og hjælper dig med at skabe en opsætning, der passer til dine behov og den planlagte brug.",
+    "45": "Trafiktilladelsen for denne server er inkluderet i den valgte ressourcepakke, så der er ikke behov for yderligere konfiguration."
 }

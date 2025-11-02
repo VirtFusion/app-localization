@@ -39,5 +39,10 @@
     "37": "Resource limit reached. Please contact support to discuss your limit options.",
     "38": "Your credit balance is too low. You must first top up to create a server.",
     "39": "The server could not be created. Please try a different location or package.",
-    "40": "Location"
+    "40": "Location",
+    "41": "Select the amount of memory you require from the options below. The amount of memory you choose will determine your server’s performance and capacity to handle applications and workloads. Choose an option that best fits your intended use.",
+    "42": "Select the number of CPU cores you require from the options below. The number of cores determines how many tasks your server can process simultaneously and directly affects overall performance. Choose an option that best suits the workload and applications you plan to run.",
+    "43": "Select the amount of storage you require from the options below. The storage size determines how much data, files, and applications your server can hold. Choose an option that provides enough space for your current needs and allows room for future growth.",
+    "44": "Set up the server by selecting the amount of resources you need. These options determine your server’s performance and capacity, helping you create a setup that fits your needs and intended use.",
+    "45": "The traffic allowance for this server is included in the selected resource pack, so no additional configuration is required."
 }
