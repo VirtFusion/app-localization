@@ -38,5 +38,6 @@
     "36": "Eingabe eines Sicherungscodes",
     "37": "Einsetzen und Antippen des YubiKey",
     "38": "Dieses Konto ist mit der TOTP-Zwei-Faktor-Authentifizierung geschützt. Geben Sie den sechsstelligen Code ein, den Ihre Authentifizierungs-App bereitstellt.",
-    "39": "Mit der Anwendung generierten Code verwenden"
+    "39": "Mit der Anwendung generierten Code verwenden",
+    "40": "Vertrauen Sie diesem Browser und reduzieren Sie die Sicherheitsabfragen. Wählen Sie dies nur auf persönlichen Geräten, die Sie kontrollieren."
 }

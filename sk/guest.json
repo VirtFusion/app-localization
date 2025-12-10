@@ -38,5 +38,6 @@
     "36": "Zadajte záložný kód",
     "37": "Vložte kľúč YubiKey a ťuknite naň",
     "38": "Toto konto je chránené dvojfaktorovým overovaním TOTP. Zadajte šesťmiestny kód, ktorý vám poskytne aplikácia autentifikátora.",
-    "39": "Použitie kódu vygenerovaného aplikáciou"
+    "39": "Použitie kódu vygenerovaného aplikáciou",
+    "40": "Dôverujte tomuto prehliadaču a obmedzte výzvy na zabezpečenie. Túto možnosť vyberte len na osobných zariadeniach, ktoré máte pod kontrolou."
 }

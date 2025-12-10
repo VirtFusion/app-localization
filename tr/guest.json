@@ -38,5 +38,6 @@
     "36": "Bir yedekleme kodu girin",
     "37": "Insert & tap your YubiKey",
     "38": "Bu hesap TOTP iki faktörlü kimlik doğrulama ile korunmaktadır. Kimlik doğrulayıcı uygulamanızın sağladığı altı basamaklı kodu girin.",
-    "39": "Uygulama tarafından oluşturulan kodu kullanma"
+    "39": "Uygulama tarafından oluşturulan kodu kullanma",
+    "40": "Bu tarayıcıya güvenin ve güvenlik istemlerini azaltın. Bunu yalnızca kontrol ettiğiniz kişisel cihazlarda seçin."
 }

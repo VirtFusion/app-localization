@@ -38,5 +38,6 @@
     "36": "Masukkan kode cadangan",
     "37": "Masukkan & ketuk YubiKey Anda",
     "38": "Akun ini dilindungi dengan autentikasi dua faktor TOTP. Masukkan kode enam digit yang disediakan aplikasi autentikator Anda.",
-    "39": "Gunakan kode yang dihasilkan aplikasi"
+    "39": "Gunakan kode yang dihasilkan aplikasi",
+    "40": "Percayai browser ini dan kurangi petunjuk keamanan. Hanya pilih ini pada perangkat pribadi yang Anda kendalikan."
 }

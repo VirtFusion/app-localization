@@ -38,5 +38,6 @@
     "36": "Saisir un code de sauvegarde",
     "37": "Insérez et tapez votre YubiKey",
     "38": "Ce compte est protégé par l'authentification à deux facteurs TOTP. Saisissez le code à six chiffres fourni par votre application d'authentification.",
-    "39": "Utiliser le code généré par l'application"
+    "39": "Utiliser le code généré par l'application",
+    "40": "Faites confiance à ce navigateur et réduisez les messages de sécurité. Ne sélectionnez cette option que sur les appareils personnels que vous contrôlez."
 }

@@ -38,5 +38,6 @@
     "36": "Anna varmuuskopiokoodi",
     "37": "Lisää & napauta YubiKey",
     "38": "Tämä tili on suojattu TOTP-kaksivaiheisella todennuksella. Syötä autentikointisovelluksen antaman kuusinumeroisen koodin.",
-    "39": "Käytä sovelluksen luomaa koodia"
+    "39": "Käytä sovelluksen luomaa koodia",
+    "40": "Luota tähän selaimeen ja vähennä suojauskehotteita. Valitse tämä vain henkilökohtaisissa laitteissa, joita hallitset."
 }

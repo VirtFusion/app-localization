@@ -38,5 +38,6 @@
     "36": "Unesite rezervni kôd",
     "37": "Umetnite i dodirnite YubiKey",
     "38": "Ovaj je račun zaštićen dvofaktorskom autentifikacijom TOTP. Unesite šestoznamenkasti kôd koji pruža aplikacija za provjeru autentičnosti.",
-    "39": "Korištenje koda generiranog aplikacije"
+    "39": "Korištenje koda generiranog aplikacije",
+    "40": "Vjerujte ovom pregledniku i smanjite sigurnosne upute. Odaberite ovo samo na osobnim uređajima kojima upravljate."
 }

@@ -38,5 +38,6 @@
     "36": "Wprowadź kod zapasowy",
     "37": "Włóż klucz YubiKey i dotknij go",
     "38": "To konto jest chronione za pomocą uwierzytelniania dwuskładnikowego TOTP. Wprowadź sześciocyfrowy kod dostarczony przez aplikację uwierzytelniającą.",
-    "39": "Użyj kodu wygenerowanego przez aplikację"
+    "39": "Użyj kodu wygenerowanego przez aplikację",
+    "40": "Zaufaj tej przeglądarce i zmniejsz liczbę monitów bezpieczeństwa. Wybierz tę opcję tylko na urządzeniach osobistych, które kontrolujesz."
 }

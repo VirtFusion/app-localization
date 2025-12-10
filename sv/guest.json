@@ -38,5 +38,6 @@
     "36": "Ange en säkerhetskopieringskod",
     "37": "Infoga och tryck på din YubiKey",
     "38": "Det här kontot är skyddat med TOTP-tvåfaktorsautentisering. Ange den sexsiffriga koden som din autentiseringsapp tillhandahåller.",
-    "39": "Använd appgenererad kod"
+    "39": "Använd appgenererad kod",
+    "40": "Lita på den här webbläsaren och minska säkerhetsanvisningarna. Välj bara detta på personliga enheter du kontrollerar."
 }

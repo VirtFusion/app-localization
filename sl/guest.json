@@ -38,5 +38,6 @@
     "36": "Vnesite kodo za varnostno kopiranje",
     "37": "Vstavite in tapnite svoj ključ YubiKey",
     "38": "Ta račun je zaščiten z dvostopenjskim preverjanjem pristnosti TOTP. Vnesite šestmestno kodo, ki jo zagotavlja aplikacija za preverjanje pristnosti.",
-    "39": "Uporaba kode, ustvarjene v aplikaciji"
+    "39": "Uporaba kode, ustvarjene v aplikaciji",
+    "40": "Zaupajte temu brskalniku in zmanjšajte število varnostnih pozivov. To izberite samo v osebnih napravah, ki jih nadzorujete."
 }

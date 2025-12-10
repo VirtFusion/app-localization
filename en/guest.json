@@ -38,5 +38,6 @@
     "36": "Enter a backup code",
     "37": "Insert & tap your YubiKey",
     "38": "This account is protected with TOTP two-factor authentication. Enter the six-digit code that your authenticator app provides.",
-    "39": "Use app generated code"
+    "39": "Use app generated code",
+    "40": "Trust this browser and reduce security prompts. Only select this on personal devices you control."
 }

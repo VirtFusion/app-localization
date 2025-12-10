@@ -38,5 +38,6 @@
     "36": "Indtast en backup-kode",
     "37": "Indsæt & tryk på din YubiKey",
     "38": "Denne konto er beskyttet med TOTP to-faktor autentifikation. Indtast den sekscifrede kode, som din autentifikator-app leverer.",
-    "39": "Brug app-genereret kode"
+    "39": "Brug app-genereret kode",
+    "40": "Stol på denne browser og reducer sikkerhedsanmodninger. Vælg kun dette på personlige enheder, som du kontrollerer."
 }

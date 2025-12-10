@@ -38,5 +38,6 @@
     "36": "Unesite rezervni kod",
     "37": "Ubacite i dodirnite svoj IubiKei",
     "38": "Ovaj nalog je zaštićen TOTP dvofaktorskom autentifikacijom. Unesite šestocifreni kod koji pruža aplikacija za autentifikaciju.",
-    "39": "Koristite kod generisane aplikacije"
+    "39": "Koristite kod generisane aplikacije",
+    "40": "Verujte ovom pregledaču i smanjite sigurnosne upute. Izaberite ovo samo na ličnim uređajima koje kontrolišete."
 }

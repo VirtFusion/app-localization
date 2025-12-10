@@ -38,5 +38,6 @@
     "36": "Adjon meg egy biztonsági kódot",
     "37": "Helyezze be és érintse meg a YubiKey-t",
     "38": "Ez a fiók a TOTP kétfaktoros hitelesítéssel védett. Adja meg a hitelesítők alkalmazás által megadott hatjegyű kódot.",
-    "39": "Alkalmazás által generált kód használata"
+    "39": "Alkalmazás által generált kód használata",
+    "40": "Bízzon ebben a böngészőben, és csökkentse a biztonsági kéréseket. Csak az Ön által ellenőrzött személyes eszközökön válassza ezt a lehetőséget."
 }

@@ -38,5 +38,6 @@
     "36": "Introduzca un código de seguridad",
     "37": "Inserta y toca tu YubiKey",
     "38": "Esta cuenta está protegida con la autenticación de dos factores TOTP. Introduce el código de seis dígitos que te proporciona tu aplicación de autenticación.",
-    "39": "Utilizar el código generado por la aplicación"
+    "39": "Utilizar el código generado por la aplicación",
+    "40": "Confíe en este navegador y reduzca los avisos de seguridad. Seleccione esta opción sólo en los dispositivos personales que controle."
 }

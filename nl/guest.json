@@ -38,5 +38,6 @@
     "36": "Voer een back-up code in",
     "37": "Plaats en tik op uw YubiKey",
     "38": "Dit account is beveiligd met TOTP twee-factor authenticatie. Voer de zescijferige code in die uw authenticator app geeft.",
-    "39": "Gebruik app gegenereerde code"
+    "39": "Gebruik app gegenereerde code",
+    "40": "Vertrouw deze browser en beperk beveiligingsvragen. Selecteer dit alleen op persoonlijke apparaten die u beheert."
 }

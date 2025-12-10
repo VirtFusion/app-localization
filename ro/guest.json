@@ -38,5 +38,6 @@
     "36": "Introduceți un cod de rezervă",
     "37": "Introduceți și atingeți YubiKey",
     "38": "Acest cont este protejat cu autentificare TOTP cu doi factori. Introduceți codul din șase cifre furnizat de aplicația dvs. de autentificare.",
-    "39": "Utilizați codul generat de aplicație"
+    "39": "Utilizați codul generat de aplicație",
+    "40": "Aveți încredere în acest browser și reduceți solicitările de securitate. Selectați acest lucru numai pe dispozitivele personale pe care le controlați."
 }

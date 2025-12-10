@@ -38,5 +38,6 @@
     "36": "Digite um código de backup",
     "37": "Insira e toque em sua YubiKey",
     "38": "Esta conta está protegida com a autenticação de dois fatores TOTP. Digite o código de seis dígitos que o aplicativo autenticador fornece.",
-    "39": "Usar o código gerado pelo aplicativo"
+    "39": "Usar o código gerado pelo aplicativo",
+    "40": "Confie neste navegador e reduza as solicitações de segurança. Selecione isso apenas em dispositivos pessoais que você controla."
 }

@@ -38,5 +38,6 @@
     "36": "Nhập mã dự phòng",
     "37": "Chèn và nhấn vào YubiKey",
     "38": "Tài khoản này được bảo vệ bằng TOTP xác thực hai yếu tố. Nhập mã sáu chữ số mà ứng dụng xác thực của bạn cung cấp.",
-    "39": "Sử dụng mã được tạo ra ứng dụng"
+    "39": "Sử dụng mã được tạo ra ứng dụng",
+    "40": "Tin tưởng trình duyệt này và giảm lời nhắc bảo mật. Chỉ chọn điều này trên các thiết bị cá nhân mà bạn kiểm soát."
 }
