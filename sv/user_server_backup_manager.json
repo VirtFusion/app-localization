@@ -43,5 +43,7 @@
     "41": "Säkerhetskopieringsjobbet startade.",
     "42": "Återställningsjobbet påbörjades.",
     "43": "Den här servern är upptagen. Vänligen försök igen inom kort.",
-    "44": "Den här åtgärden är inte tillgänglig. Kontakta supporten om problemet kvarstår."
+    "44": "Den här åtgärden är inte tillgänglig. Kontakta supporten om problemet kvarstår.",
+    "45": "Verifiera filsystemets integritet",
+    "46": "Säkerhetskopior som tas utan systemagenten kan ha inkonsekventa filsystem. Kör verifiering innan servern startas."
 }

@@ -43,5 +43,7 @@
     "41": "Varmuuskopiointityö aloitettiin.",
     "42": "Palautustyö aloitettiin.",
     "43": "Tämä palvelin on kiireinen. Yritä pian uudelleen.",
-    "44": "Tämä toiminto ei ole käytettävissä. Ota yhteyttä tukeen, jos ongelma jatkuu."
+    "44": "Tämä toiminto ei ole käytettävissä. Ota yhteyttä tukeen, jos ongelma jatkuu.",
+    "45": "Tarkista tiedostojärjestelmän eheys",
+    "46": "Ilman järjestelmäagenttia otetuissa varmuuskopioissa voi olla epäjohdonmukaisia tiedostojärjestelmiä. Suorittaa vahvistuksen ennen palvelimen käynnistämistä."
 }

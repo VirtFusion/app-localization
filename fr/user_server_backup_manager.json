@@ -43,5 +43,7 @@
     "41": "La tâche de sauvegarde a démarré.",
     "42": "La restauration a commencé.",
     "43": "Ce serveur est occupé. Veuillez réessayer dans quelques instants.",
-    "44": "Cette opération n'est pas disponible. Veuillez contacter le service d'assistance si le problème persiste."
+    "44": "Cette opération n'est pas disponible. Veuillez contacter le service d'assistance si le problème persiste.",
+    "45": "Vérifier l'intégrité du système de fichiers",
+    "46": "Les sauvegardes effectuées sans l'agent système peuvent présenter des incohérences au niveau des systèmes de fichiers. Lance une vérification avant le démarrage du serveur."
 }

@@ -43,5 +43,7 @@
     "41": "De back-uptaak is gestart.",
     "42": "De herstelbewerking is gestart.",
     "43": "Deze server is bezet. Probeer het straks nog eens.",
-    "44": "Deze functie is niet beschikbaar. Neem contact op met de helpdesk als het probleem zich blijft voordoen."
+    "44": "Deze functie is niet beschikbaar. Neem contact op met de helpdesk als het probleem zich blijft voordoen.",
+    "45": "Controleer de integriteit van het bestandssysteem",
+    "46": "Back-ups die zonder de systeemagent zijn gemaakt, kunnen inconsistente bestandssystemen bevatten. Voert een controle uit voordat de server wordt gestart."
 }

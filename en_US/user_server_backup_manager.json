@@ -43,5 +43,7 @@
     "41": "Backup job started.",
     "42": "Restore job started.",
     "43": "This server is busy. Please try again shortly.",
-    "44": "This operation is not available. Please contact support if the issue persists."
+    "44": "This operation is not available. Please contact support if the issue persists.",
+    "45": "Verify Filesystem Integrity",
+    "46": "Backups taken without the system agent may have inconsistent filesystems. Runs verification before starting the server."
 }

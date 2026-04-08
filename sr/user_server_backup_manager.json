@@ -43,5 +43,7 @@
     "41": "Započeo je rezervni posao.",
     "42": "Vraćanje posla je započeto.",
     "43": "Ovaj server je zauzet. Pokušajte ponovo uskoro.",
-    "44": "Ova operacija nije dostupna. Molimo kontaktirajte podršku ako se problem nastavi."
+    "44": "Ova operacija nije dostupna. Molimo kontaktirajte podršku ako se problem nastavi.",
+    "45": "Proverite integritet sistema datoteka",
+    "46": "Rezervne kopije napravljene bez sistemskog agenta mogu imati nedosledne sisteme datoteka. Pokreće verifikaciju pre pokretanja servera."
 }

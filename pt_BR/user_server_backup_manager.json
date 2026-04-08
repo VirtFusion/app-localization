@@ -43,5 +43,7 @@
     "41": "A tarefa de backup foi iniciada.",
     "42": "A tarefa de restauração foi iniciada.",
     "43": "Este servidor está ocupado. Tente novamente em breve.",
-    "44": "Esta operação não está disponível. Entre em contato com o suporte técnico caso o problema persista."
+    "44": "Esta operação não está disponível. Entre em contato com o suporte técnico caso o problema persista.",
+    "45": "Verificar a integridade do sistema de arquivos",
+    "46": "Os backups realizados sem o agente do sistema podem apresentar sistemas de arquivos inconsistentes. Executa uma verificação antes de iniciar o servidor."
 }

@@ -43,5 +43,7 @@
     "41": "Zálohovanie sa spustilo.",
     "42": "Spustila sa úloha obnovenia.",
     "43": "Tento server je momentálne vyťažený. Skúste to prosím o chvíľu znova.",
-    "44": "Táto operácia nie je k dispozícii. Ak problém pretrváva, kontaktujte podporu."
+    "44": "Táto operácia nie je k dispozícii. Ak problém pretrváva, kontaktujte podporu.",
+    "45": "Overiť integritu súborového systému",
+    "46": "Zálohy vytvorené bez systémového agenta môžu obsahovať nekonzistentné súborové systémy. Pred spustením servera vykoná overenie."
 }

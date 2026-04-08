@@ -43,5 +43,7 @@
     "41": "Tugas pencadangan telah dimulai.",
     "42": "Pekerjaan pemulihan telah dimulai.",
     "43": "Server ini sedang sibuk. Silakan coba lagi sebentar lagi.",
-    "44": "Fitur ini tidak tersedia. Silakan hubungi bagian dukungan jika masalah ini masih berlanjut."
+    "44": "Fitur ini tidak tersedia. Silakan hubungi bagian dukungan jika masalah ini masih berlanjut.",
+    "45": "Periksa Integritas Sistem Berkas",
+    "46": "Cadangan yang dibuat tanpa agen sistem mungkin memiliki sistem berkas yang tidak konsisten. Jalankan verifikasi sebelum memulai server."
 }

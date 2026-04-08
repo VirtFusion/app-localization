@@ -43,5 +43,7 @@
     "41": "Rozpoczęto zadanie tworzenia kopii zapasowej.",
     "42": "Rozpoczęto przywracanie.",
     "43": "Serwer jest obecnie zajęty. Proszę spróbować ponownie za chwilę.",
-    "44": "Ta operacja jest niedostępna. Jeśli problem nadal występuje, skontaktuj się z działem pomocy technicznej."
+    "44": "Ta operacja jest niedostępna. Jeśli problem nadal występuje, skontaktuj się z działem pomocy technicznej.",
+    "45": "Sprawdź integralność systemu plików",
+    "46": "Kopie zapasowe utworzone bez agenta systemowego mogą zawierać niespójne systemy plików. Przed uruchomieniem serwera przeprowadza weryfikację."
 }

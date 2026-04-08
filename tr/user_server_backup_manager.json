@@ -43,5 +43,7 @@
     "41": "Yedekleme işi başlatıldı.",
     "42": "Geri yükleme işlemi başlatıldı.",
     "43": "Bu sunucu meşgul. Lütfen biraz sonra tekrar deneyin.",
-    "44": "Bu işlem kullanılamıyor. Sorun devam ederse lütfen destek ekibiyle iletişime geçin."
+    "44": "Bu işlem kullanılamıyor. Sorun devam ederse lütfen destek ekibiyle iletişime geçin.",
+    "45": "Dosya Sisteminin Bütünlüğünü Doğrula",
+    "46": "Sistem aracısı olmadan alınan yedeklemelerde dosya sistemleri tutarsız olabilir. Sunucuyu başlatmadan önce doğrulama işlemi gerçekleştirilir."
 }

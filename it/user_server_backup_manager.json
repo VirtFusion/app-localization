@@ -43,5 +43,7 @@
     "41": "Il processo di backup è stato avviato.",
     "42": "Il processo di ripristino è stato avviato.",
     "43": "Il server è occupato. Riprova tra poco.",
-    "44": "Questa operazione non è disponibile. Se il problema persiste, contatta l'assistenza."
+    "44": "Questa operazione non è disponibile. Se il problema persiste, contatta l'assistenza.",
+    "45": "Verifica l'integrità del filesystem",
+    "46": "I backup eseguiti senza l'agente di sistema potrebbero presentare file system incoerenti. Esegue una verifica prima dell'avvio del server."
 }

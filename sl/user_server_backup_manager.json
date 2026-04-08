@@ -43,5 +43,7 @@
     "41": "Varnostno kopiranje se je začelo.",
     "42": "Obnova se je začela.",
     "43": "Ta strežnik je zaseden. Poskusite čez nekaj časa.",
-    "44": "Ta funkcija ni na voljo. Če težava vztraja, se obrnite na podporo uporabnikom."
+    "44": "Ta funkcija ni na voljo. Če težava vztraja, se obrnite na podporo uporabnikom.",
+    "45": "Preveri celovitost datotečnega sistema",
+    "46": "Varnostne kopije, narejene brez sistemskega agenta, lahko vsebujejo neskladne datotečne sisteme. Pred zagonom strežnika izvede preverjanje."
 }

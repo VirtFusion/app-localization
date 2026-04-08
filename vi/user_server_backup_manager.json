@@ -43,5 +43,7 @@
     "41": "Công việc sao lưu bắt đầu.",
     "42": "Khôi phục công việc bắt đầu.",
     "43": "Server này đang bận. Vui lòng thử lại trong thời gian ngắn.",
-    "44": "Hoạt động này không khả dụng. Vui lòng liên hệ với bộ phận hỗ trợ nếu vấn đề vẫn còn."
+    "44": "Hoạt động này không khả dụng. Vui lòng liên hệ với bộ phận hỗ trợ nếu vấn đề vẫn còn.",
+    "45": "Xác minh tính toàn vẹn của hệ thống tệp",
+    "46": "Các bản sao lưu được thực hiện mà không có tác nhân hệ thống có thể có hệ thống tệp không nhất quán. Chạy xác minh trước khi khởi động máy chủ."
 }

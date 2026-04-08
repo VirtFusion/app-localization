@@ -43,5 +43,7 @@
     "41": "Der Sicherungsauftrag wurde gestartet.",
     "42": "Der Wiederherstellungsauftrag wurde gestartet.",
     "43": "Dieser Server ist gerade ausgelastet. Bitte versuchen Sie es in Kürze erneut.",
-    "44": "Diese Funktion ist nicht verfügbar. Bitte wenden Sie sich an den Support, falls das Problem weiterhin besteht."
+    "44": "Diese Funktion ist nicht verfügbar. Bitte wenden Sie sich an den Support, falls das Problem weiterhin besteht.",
+    "45": "Integrität des Dateisystems überprüfen",
+    "46": "Backups, die ohne den System-Agenten erstellt wurden, können inkonsistente Dateisysteme aufweisen. Führt vor dem Start des Servers eine Überprüfung durch."
 }

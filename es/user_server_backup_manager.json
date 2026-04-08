@@ -43,5 +43,7 @@
     "41": "Se ha iniciado la tarea de copia de seguridad.",
     "42": "Se ha iniciado el proceso de restauración.",
     "43": "Este servidor está ocupado. Inténtalo de nuevo dentro de unos minutos.",
-    "44": "Esta operación no está disponible. Ponte en contacto con el servicio de asistencia si el problema persiste."
+    "44": "Esta operación no está disponible. Ponte en contacto con el servicio de asistencia si el problema persiste.",
+    "45": "Comprobar la integridad del sistema de archivos",
+    "46": "Las copias de seguridad realizadas sin el agente del sistema pueden presentar sistemas de archivos incoherentes. Ejecuta una verificación antes de iniciar el servidor."
 }

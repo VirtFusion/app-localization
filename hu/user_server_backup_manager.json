@@ -43,5 +43,7 @@
     "41": "A biztonsági mentési feladat elindult.",
     "42": "A visszaállítási feladat elindult.",
     "43": "A szerver jelenleg foglalt. Kérjük, próbálja meg később újra.",
-    "44": "Ez a művelet nem érhető el. Ha a probléma továbbra is fennáll, kérjük, vegye fel a kapcsolatot az ügyfélszolgálattal."
+    "44": "Ez a művelet nem érhető el. Ha a probléma továbbra is fennáll, kérjük, vegye fel a kapcsolatot az ügyfélszolgálattal.",
+    "45": "A fájlrendszer integritásának ellenőrzése",
+    "46": "A rendszerügynök nélkül készített biztonsági másolatok fájlrendszere inkonzisztens lehet. A szerver indítása előtt ellenőrzést hajt végre."
 }

@@ -43,5 +43,7 @@
     "41": "Sikkerhedskopieringsopgaven er startet.",
     "42": "Gendannelsesopgaven er startet.",
     "43": "Denne server er optaget. Prøv igen om lidt.",
-    "44": "Denne funktion er ikke tilgængelig. Kontakt support, hvis problemet fortsætter."
+    "44": "Denne funktion er ikke tilgængelig. Kontakt support, hvis problemet fortsætter.",
+    "45": "Kontroller filsystemets integritet",
+    "46": "Sikkerhedskopier, der er taget uden systemagenten, kan indeholde inkonsekvente filsystemer. Udfører en verifikation, før serveren startes."
 }
