@@ -45,5 +45,9 @@
     "43": "Serwer jest obecnie zajęty. Proszę spróbować ponownie za chwilę.",
     "44": "Ta operacja jest niedostępna. Jeśli problem nadal występuje, skontaktuj się z działem pomocy technicznej.",
     "45": "Sprawdź integralność systemu plików",
-    "46": "Kopie zapasowe utworzone bez agenta systemowego mogą zawierać niespójne systemy plików. Przed uruchomieniem serwera przeprowadza weryfikację."
+    "46": "Kopie zapasowe utworzone bez agenta systemowego mogą zawierać niespójne systemy plików. Przed uruchomieniem serwera przeprowadza weryfikację.",
+    "47": "minuty",
+    "48": "protokół",
+    "49": "Proszę poczekać",
+    "50": "zanim spróbujesz ponownie."
 }

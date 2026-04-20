@@ -45,5 +45,9 @@
     "43": "Ovaj server je zauzet. Pokušajte ponovo uskoro.",
     "44": "Ova operacija nije dostupna. Molimo kontaktirajte podršku ako se problem nastavi.",
     "45": "Proverite integritet sistema datoteka",
-    "46": "Rezervne kopije napravljene bez sistemskog agenta mogu imati nedosledne sisteme datoteka. Pokreće verifikaciju pre pokretanja servera."
+    "46": "Rezervne kopije napravljene bez sistemskog agenta mogu imati nedosledne sisteme datoteka. Pokreće verifikaciju pre pokretanja servera.",
+    "47": "minut",
+    "48": "minuta",
+    "49": "Molim vas sačekajte",
+    "50": "pre nego što pokušate ponovo."
 }

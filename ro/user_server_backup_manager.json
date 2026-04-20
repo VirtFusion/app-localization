@@ -45,5 +45,9 @@
     "43": "Acest server este ocupat. Vă rugăm să încercați din nou în scurt timp.",
     "44": "Această operație nu este disponibilă. Vă rugăm să contactați asistența dacă problema persistă.",
     "45": "Verificați integritatea sistemului de fișiere",
-    "46": "Backup-urile făcute fără agentul de sistem pot avea sisteme de fișiere inconsistente. Execută verificarea înainte de a porni serverul."
+    "46": "Backup-urile făcute fără agentul de sistem pot avea sisteme de fișiere inconsistente. Execută verificarea înainte de a porni serverul.",
+    "47": "minută",
+    "48": "minute",
+    "49": "Vă rugăm să așteptați",
+    "50": "Înainte de a încerca din nou."
 }

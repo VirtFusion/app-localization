@@ -45,5 +45,9 @@
     "43": "Den här servern är upptagen. Vänligen försök igen inom kort.",
     "44": "Den här åtgärden är inte tillgänglig. Kontakta supporten om problemet kvarstår.",
     "45": "Verifiera filsystemets integritet",
-    "46": "Säkerhetskopior som tas utan systemagenten kan ha inkonsekventa filsystem. Kör verifiering innan servern startas."
+    "46": "Säkerhetskopior som tas utan systemagenten kan ha inkonsekventa filsystem. Kör verifiering innan servern startas.",
+    "47": "minut",
+    "48": "minuter",
+    "49": "Vänligen vänta",
+    "50": "innan du försöker igen."
 }

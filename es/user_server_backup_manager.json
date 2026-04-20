@@ -45,5 +45,9 @@
     "43": "Este servidor está ocupado. Inténtalo de nuevo dentro de unos minutos.",
     "44": "Esta operación no está disponible. Ponte en contacto con el servicio de asistencia si el problema persiste.",
     "45": "Comprobar la integridad del sistema de archivos",
-    "46": "Las copias de seguridad realizadas sin el agente del sistema pueden presentar sistemas de archivos incoherentes. Ejecuta una verificación antes de iniciar el servidor."
+    "46": "Las copias de seguridad realizadas sin el agente del sistema pueden presentar sistemas de archivos incoherentes. Ejecuta una verificación antes de iniciar el servidor.",
+    "47": "minutos",
+    "48": "minutos",
+    "49": "Por favor, espere",
+    "50": "antes de volver a intentarlo."
 }

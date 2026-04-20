@@ -45,5 +45,9 @@
     "43": "Ovaj poslužitelj je zauzet. Pokušajte ponovo uskoro.",
     "44": "Ova operacija nije dostupna. Molimo kontaktirajte podršku ako se problem nastavi.",
     "45": "Provjerite integritet datotečnog sustava",
-    "46": "Sigurnosne kopije napravljene bez sistemskog agenta mogu imati nedosljedne datotečne sustave. Pokreće provjeru prije pokretanja poslužitelja."
+    "46": "Sigurnosne kopije napravljene bez sistemskog agenta mogu imati nedosljedne datotečne sustave. Pokreće provjeru prije pokretanja poslužitelja.",
+    "47": "minuta",
+    "48": "minuta",
+    "49": "Molim pričekajte",
+    "50": "prije ponovnog pokušaja."
 }

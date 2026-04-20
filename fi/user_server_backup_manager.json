@@ -45,5 +45,9 @@
     "43": "Tämä palvelin on kiireinen. Yritä pian uudelleen.",
     "44": "Tämä toiminto ei ole käytettävissä. Ota yhteyttä tukeen, jos ongelma jatkuu.",
     "45": "Tarkista tiedostojärjestelmän eheys",
-    "46": "Ilman järjestelmäagenttia otetuissa varmuuskopioissa voi olla epäjohdonmukaisia tiedostojärjestelmiä. Suorittaa vahvistuksen ennen palvelimen käynnistämistä."
+    "46": "Ilman järjestelmäagenttia otetuissa varmuuskopioissa voi olla epäjohdonmukaisia tiedostojärjestelmiä. Suorittaa vahvistuksen ennen palvelimen käynnistämistä.",
+    "47": "minuutti",
+    "48": "minuuttia",
+    "49": "Ole hyvä ja odota",
+    "50": "ennen kuin yrität uudelleen."
 }

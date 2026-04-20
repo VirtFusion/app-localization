@@ -45,5 +45,9 @@
     "43": "Deze server is bezet. Probeer het straks nog eens.",
     "44": "Deze functie is niet beschikbaar. Neem contact op met de helpdesk als het probleem zich blijft voordoen.",
     "45": "Controleer de integriteit van het bestandssysteem",
-    "46": "Back-ups die zonder de systeemagent zijn gemaakt, kunnen inconsistente bestandssystemen bevatten. Voert een controle uit voordat de server wordt gestart."
+    "46": "Back-ups die zonder de systeemagent zijn gemaakt, kunnen inconsistente bestandssystemen bevatten. Voert een controle uit voordat de server wordt gestart.",
+    "47": "minuten",
+    "48": "notulen",
+    "49": "Even geduld a.u.b.",
+    "50": "voordat je het opnieuw probeert."
 }

@@ -45,5 +45,9 @@
     "43": "Dieser Server ist gerade ausgelastet. Bitte versuchen Sie es in Kürze erneut.",
     "44": "Diese Funktion ist nicht verfügbar. Bitte wenden Sie sich an den Support, falls das Problem weiterhin besteht.",
     "45": "Integrität des Dateisystems überprüfen",
-    "46": "Backups, die ohne den System-Agenten erstellt wurden, können inkonsistente Dateisysteme aufweisen. Führt vor dem Start des Servers eine Überprüfung durch."
+    "46": "Backups, die ohne den System-Agenten erstellt wurden, können inkonsistente Dateisysteme aufweisen. Führt vor dem Start des Servers eine Überprüfung durch.",
+    "47": "Minuten",
+    "48": "Minuten",
+    "49": "Bitte warten",
+    "50": "bevor Sie es erneut versuchen."
 }
