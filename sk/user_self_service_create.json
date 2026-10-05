@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vytvorenie servera",
     "2": "Ktorý balík prostriedkov chcete použiť na vytvorenie tohto servera?",
     "3": "Vytvorte hodinový server alebo vyberte balík prostriedkov.",
@@ -44,5 +43,6 @@
     "42": "Z nižšie uvedených možností vyberte požadovaný počet jadier procesora. Počet jadier určuje, koľko úloh môže váš server spracovávať súčasne, a priamo ovplyvňuje celkový výkon. Vyberte možnosť, ktorá najlepšie vyhovuje pracovnému zaťaženiu a aplikáciám, ktoré plánujete spúšťať.",
     "43": "Z nižšie uvedených možností vyberte požadovanú veľkosť úložiska. Veľkosť úložiska určuje, koľko údajov, súborov a aplikácií môže váš server pojať. Vyberte si možnosť, ktorá poskytuje dostatok priestoru pre vaše súčasné potreby a umožňuje budúci rast.",
     "44": "Nastavenie servera výberom množstva potrebných zdrojov. Tieto možnosti určujú výkon a kapacitu servera a pomáhajú vám vytvoriť nastavenie, ktoré vyhovuje vašim potrebám a zamýšľanému použitiu.",
-    "45": "Príspevok na prevádzku pre tento server je zahrnutý vo vybranom balíku prostriedkov, takže nie je potrebná žiadna ďalšia konfigurácia."
+    "45": "Príspevok na prevádzku pre tento server je zahrnutý vo vybranom balíku prostriedkov, takže nie je potrebná žiadna ďalšia konfigurácia.",
+    "dir": "ltr"
 }

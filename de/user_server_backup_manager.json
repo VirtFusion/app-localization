@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Für diesen Server sind keine Backups verfügbar",
     "2": "Letzte Sicherung",
     "3": "In der Warteschlange, wartet darauf, zu starten...",
@@ -49,5 +48,18 @@
     "47": "Minuten",
     "48": "Minuten",
     "49": "Bitte warten",
-    "50": "bevor Sie es erneut versuchen."
+    "50": "bevor Sie es erneut versuchen.",
+    "53": "Jahr",
+    "54": "Jahre",
+    "55": "Monat",
+    "56": "Monate",
+    "57": "Woche",
+    "58": "Wochen",
+    "59": "täglich",
+    "60": "wöchentlich",
+    "61": "monatlich",
+    "62": "jährlich",
+    "63": "Minimum",
+    "64": "beibehalten",
+    "dir": "ltr"
 }

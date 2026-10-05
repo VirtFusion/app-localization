@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vertrauenswürdige Geräte",
     "2": "Alle entfernen",
     "3": "Sie haben noch keine als vertrauenswürdig markierten Geräte. Sie können einem Gerät vertrauen, wenn Sie sich das nächste Mal mit der Zwei-Faktor-Authentifizierung anmelden.",
@@ -32,5 +31,6 @@
     "30": "secs",
     "31": "minuten",
     "32": "stunden",
-    "33": "tage"
+    "33": "tage",
+    "dir": "ltr"
 }

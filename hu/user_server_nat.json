@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Biztos, hogy törölni szeretné ezt a tartományt?",
     "2": "Törölje",
     "3": "Delete",
@@ -57,5 +56,6 @@
     "55": "Hiba. Hiányzó adatot találtunk. Kérjük, frissítse az oldalt.",
     "56": "A portok sikeresen frissültek. A változások terjedése néhány percet vehet igénybe.",
     "57": "Nem történt változás.",
-    "58": "Frissítés"
+    "58": "Frissítés",
+    "dir": "ltr"
 }

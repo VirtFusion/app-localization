@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "SSH Anahtarı Ekleme",
     "2": "İsim",
     "3": "Rastgele isim mi?",
@@ -48,5 +47,6 @@
     "46": "Anahtar başarıyla devre dışı bırakıldı.",
     "47": "Ad 3 ila 100 karakter arasında olmalıdır ve zorunlu bir alandır.",
     "48": "Açık Anahtar geçerli bir anahtar olmalıdır ve zorunlu bir alandır.",
-    "49": "Sen"
+    "49": "Sen",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statistici",
     "2": "Trafic de rețea (primar)",
     "3": "Trafic de rețea (secundar)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "ore",
     "11": "ore",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

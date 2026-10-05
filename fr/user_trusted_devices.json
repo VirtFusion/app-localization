@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dispositifs de confiance",
     "2": "Supprimer tout",
     "3": "Vous pouvez faire confiance à un appareil la prochaine fois que vous vous connecterez à l'aide de l'authentification à deux facteurs.",
@@ -32,5 +31,6 @@
     "30": "secondes",
     "31": "minutes",
     "32": "heures",
-    "33": "jours"
+    "33": "jours",
+    "dir": "ltr"
 }

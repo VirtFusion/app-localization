@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tem certeza de que deseja excluir esse domínio?",
     "2": "Cancelar",
     "3": "Excluir",
@@ -57,5 +56,6 @@
     "55": "Erro. dados ausentes encontrados. atualize a página.",
     "56": "As portas foram atualizadas com êxito. Pode levar alguns minutos para que as alterações sejam propagadas.",
     "57": "Não foram feitas alterações.",
-    "58": "Atualização"
+    "58": "Atualização",
+    "dir": "ltr"
 }

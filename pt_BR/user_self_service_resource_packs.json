@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Editar pacote de recursos",
     "2": "Cancelar",
     "3": "Salvar",
@@ -26,5 +25,6 @@
     "24": "Usado",
     "25": "de",
     "26": "Uso do tráfego no período",
-    "27": "para"
+    "27": "para",
+    "dir": "ltr"
 }

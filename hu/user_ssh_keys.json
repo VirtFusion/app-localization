@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "SSH kulcs hozzáadása",
     "2": "Név",
     "3": "Véletlenszerű név?",
@@ -48,5 +47,6 @@
     "46": "A kulcs sikeresen letiltva.",
     "47": "A névnek 3 és 100 karakter között kell lennie, és kötelezően kitöltendő mező.",
     "48": "A nyilvános kulcsnak érvényes kulcsnak kell lennie, és kötelezően kitöltendő mező.",
-    "49": "Te"
+    "49": "Te",
+    "dir": "ltr"
 }

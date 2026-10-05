@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tugas",
     "2": "Server",
     "3": "Diminta",
@@ -27,5 +26,6 @@
     "25": "Tugas pemeliharaan sistem sedang berlangsung pada saat tindakan ini diminta. Permintaan lebih lanjut kemungkinan besar akan dibatalkan hingga tugas pemeliharaan sistem selesai. Coba lagi dalam lima menit.",
     "26": "Sistem gagal merespons permintaan tindakan. Upaya lebih lanjut kemungkinan besar akan dibatalkan hingga sistem merespons secara normal. Coba lagi dalam lima menit.",
     "27": "CD\/DVD tidak dapat dimasukkan. Jika CD\/DVD khusus digunakan, server jarak jauh mungkin tidak dikonfigurasi untuk melakukan streaming data. Sumber daya yang berbeda harus dicoba. Kesalahan ini mungkin dapat diatasi dengan reboot server.",
-    "28": "CD\/DVD tidak dapat dikeluarkan. Kesalahan ini dapat diatasi dengan mematikan server."
+    "28": "CD\/DVD tidak dapat dikeluarkan. Kesalahan ini dapat diatasi dengan mematikan server.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Cuadro de mandos",
     "2": "Servidores",
     "3": "Claves SSH",
@@ -12,5 +11,6 @@
     "10": "Oscuro (gris)",
     "11": "Oscuro (Negro)",
     "12": "Cierre de sesión",
-    "13": "Cuenta"
+    "13": "Cuenta",
+    "dir": "ltr"
 }

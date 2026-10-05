@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statystyki",
     "2": "Ruch sieciowy (podstawowy)",
     "3": "Ruch sieciowy (drugorzędny)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "godziny",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

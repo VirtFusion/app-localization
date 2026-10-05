@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Cruscotto",
     "2": "Server",
     "3": "Chiavi SSH",
@@ -12,5 +11,6 @@
     "10": "Scuro (grigio)",
     "11": "Scuro (nero)",
     "12": "Disconnessione",
-    "13": "Conto"
+    "13": "Conto",
+    "dir": "ltr"
 }

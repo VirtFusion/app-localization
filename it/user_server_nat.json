@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Siete sicuri di voler eliminare questo dominio?",
     "2": "Annullamento",
     "3": "Cancellare",
@@ -57,5 +56,6 @@
     "55": "Errore. Dati mancanti. Aggiornare la pagina.",
     "56": "Le porte sono state aggiornate con successo. Potrebbero essere necessari alcuni minuti per la propagazione delle modifiche.",
     "57": "Non sono state apportate modifiche.",
-    "58": "Aggiornamento"
+    "58": "Aggiornamento",
+    "dir": "ltr"
 }

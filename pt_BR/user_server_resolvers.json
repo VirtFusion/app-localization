@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primário",
     "2": "Secundário",
     "3": "Padrão do sistema",
     "4": "O resolvedor foi atualizado com êxito. É necessário reiniciar o sistema antes que os resolvedores possam ser usados.",
-    "5": "Os resolvedores não puderam ser atualizados, tente novamente mais tarde."
+    "5": "Os resolvedores não puderam ser atualizados, tente novamente mais tarde.",
+    "dir": "ltr"
 }

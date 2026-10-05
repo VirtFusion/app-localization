@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Data",
     "2": "Datele primite",
     "3": "Date transmise",
@@ -7,5 +6,6 @@
     "5": "Datele pot dura până la 24 de ore pentru a deveni disponibile",
     "6": "Utilizare lunară",
     "7": "Utilizare zilnică",
-    "8": "Sfârșitul lunii"
+    "8": "Sfârșitul lunii",
+    "dir": "ltr"
 }

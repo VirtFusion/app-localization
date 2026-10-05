@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Bu alan adını silmek istediğinizden emin misiniz?",
     "2": "İptal",
     "3": "Silme",
@@ -57,5 +56,6 @@
     "55": "Hata. Eksik veri bulundu. Lütfen sayfayı yenileyin.",
     "56": "Bağlantı noktaları başarıyla güncellendi. Değişikliklerin yayılması birkaç dakika sürebilir.",
     "57": "Herhangi bir değişiklik yapılmamıştır.",
-    "58": "Güncelleme"
+    "58": "Güncelleme",
+    "dir": "ltr"
 }

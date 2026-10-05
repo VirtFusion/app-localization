@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Trusted Devices",
     "2": "Remove All",
     "3": "You don’t have any devices marked as trusted yet. You can trust a device the next time you sign in using two-factor authentication.",
@@ -32,5 +31,6 @@
     "30": "secs",
     "31": "mins",
     "32": "hours",
-    "33": "days"
+    "33": "days",
+    "dir": "ltr"
 }

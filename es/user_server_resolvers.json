@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Principal",
     "2": "Secundaria",
     "3": "Sistema por defecto",
     "4": "Resolver actualizado correctamente. Es necesario reiniciar antes de poder utilizar los resolvers.",
-    "5": "No se han podido actualizar los solucionadores. Inténtelo de nuevo más tarde."
+    "5": "No se han podido actualizar los solucionadores. Inténtelo de nuevo más tarde.",
+    "dir": "ltr"
 }

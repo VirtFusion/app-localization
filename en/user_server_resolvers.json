@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primary",
     "2": "Secondary",
     "3": "System Default",
     "4": "Resolver updated successfully. A restart is required before the resolvers can be used.",
-    "5": "Resolvers could not be updated. Try again later."
+    "5": "Resolvers could not be updated. Try again later.",
+    "dir": "ltr"
 }

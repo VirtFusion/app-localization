@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Poista varmuuskopio",
     "2": "Haluatko varmasti poistaa tämän varmuuskopion?",
     "3": "Peruuta",
@@ -378,5 +377,7 @@
     "379": "Suorittimen tiedot eivät ole käytettävissä",
     "380": "Asennetusta käyttöjärjestelmästä ja palvelimen aktiivisesta tilasta riippuen suorittimen käyttöä ei ehkä voida tarkastella.",
     "381": "Tämän palvelimen tuottama verkkoliikenne kuuluu",
-    "382": "resurssipaketin liikennekorvaus."
+    "382": "resurssipaketin liikennekorvaus.",
+    "383": "Ylimääräinen",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Trạng thái",
     "2": "Đã tạo",
     "3": "Đang chờ",
@@ -39,5 +38,6 @@
     "37": "Tạo",
     "38": "Máy chủ",
     "39": "Tất cả các máy chủ",
-    "40": "Một hoặc nhiều máy chủ của bạn được đánh dấu là bảo trì và không thể truy cập được. Hệ thống máy chủ của bạn cư trú hiện đang được bảo trì và sẽ có lại trong thời gian ngắn."
+    "40": "Một hoặc nhiều máy chủ của bạn được đánh dấu là bảo trì và không thể truy cập được. Hệ thống máy chủ của bạn cư trú hiện đang được bảo trì và sẽ có lại trong thời gian ngắn.",
+    "dir": "ltr"
 }

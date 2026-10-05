@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Prehľad",
     "2": "Zdroje",
     "3": "Kredity",
@@ -39,5 +38,6 @@
     "37": "Odkaz",
     "38": "Aplikované",
     "39": "Nenašli sa žiadne kredity.",
-    "40": "Keď sa na váš účet pridajú kredity, zobrazia sa tu."
+    "40": "Keď sa na váš účet pridajú kredity, zobrazia sa tu.",
+    "dir": "ltr"
 }

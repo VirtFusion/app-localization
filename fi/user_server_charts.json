@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tilastot",
     "2": "Verkkoliikenne (Ensisijainen)",
     "3": "Verkkoliikenne (toissijainen)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "t",
     "11": "h",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

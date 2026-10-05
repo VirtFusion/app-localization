@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pozdrowienia,",
     "2": "Pulpit nawigacyjny",
     "3": "Udostępnianie",
@@ -71,5 +70,6 @@
     "69": "Ruch wykorzystany do tej pory w tym miesiącu. Wszystkie czasy na podstawie",
     "70": "Wk",
     "71": "Mo",
-    "72": "Konto"
+    "72": "Konto",
+    "dir": "ltr"
 }

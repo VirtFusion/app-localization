@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kontrolna tabla",
     "2": "Serveri",
     "3": "SSH Keis",
@@ -12,5 +11,6 @@
     "10": "Dark (Grei)",
     "11": "Tamno (crno)",
     "12": "Odjava",
-    "13": "Račun"
+    "13": "Račun",
+    "dir": "ltr"
 }

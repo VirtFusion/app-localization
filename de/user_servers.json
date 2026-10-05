@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Erstellt",
     "3": "Warten auf",
@@ -39,5 +38,6 @@
     "37": "Erstellen",
     "38": "Server",
     "39": "Alle Server",
-    "40": "Einer oder mehrere Ihrer Server sind als wartungsbedürftig gekennzeichnet und können nicht erreicht werden. Das System, auf dem sich Ihr Server befindet, wird derzeit gewartet und ist in Kürze wieder verfügbar."
+    "40": "Einer oder mehrere Ihrer Server sind als wartungsbedürftig gekennzeichnet und können nicht erreicht werden. Das System, auf dem sich Ihr Server befindet, wird derzeit gewartet und ist in Kürze wieder verfügbar.",
+    "dir": "ltr"
 }

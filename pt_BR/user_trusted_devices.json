@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dispositivos confiáveis",
     "2": "Remover tudo",
     "3": "Você ainda não tem nenhum dispositivo marcado como confiável. Você pode confiar em um dispositivo na próxima vez que fizer login usando a autenticação de dois fatores.",
@@ -32,5 +31,6 @@
     "30": "segundos",
     "31": "minutos",
     "32": "horas",
-    "33": "dias"
+    "33": "dias",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statut",
     "2": "Creat",
     "3": "Aşteptând",
@@ -39,5 +38,6 @@
     "37": "Creează",
     "38": "Server",
     "39": "Toate Servere",
-    "40": "Unul sau mai multe dintre serverele dvs. sunt marcate ca întreținere și nu pot fi accesate. Sistemul pe care se află serverul dvs. este în curs de întreținere și va fi disponibil din nou în scurt timp."
+    "40": "Unul sau mai multe dintre serverele dvs. sunt marcate ca întreținere și nu pot fi accesate. Sistemul pe care se află serverul dvs. este în curs de întreținere și va fi disponibil din nou în scurt timp.",
+    "dir": "ltr"
 }

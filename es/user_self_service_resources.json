@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Visión general",
     "2": "Recursos",
     "3": "Créditos",
@@ -39,5 +38,6 @@
     "37": "Referencia",
     "38": "Aplicada",
     "39": "No se han encontrado créditos.",
-    "40": "Cuando se añadan créditos a su cuenta, aparecerán aquí."
+    "40": "Cuando se añadan créditos a su cuenta, aparecerán aquí.",
+    "dir": "ltr"
 }

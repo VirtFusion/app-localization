@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "SSH-sleutel toevoegen",
     "2": "Naam",
     "3": "Willekeurige naam?",
@@ -48,5 +47,6 @@
     "46": "Sleutel succesvol uitgeschakeld.",
     "47": "De naam moet tussen 3 en 100 tekens lang zijn en is een verplicht veld.",
     "48": "De openbare sleutel moet een geldige sleutel zijn en is een verplicht veld.",
-    "49": "Jij"
+    "49": "Jij",
+    "dir": "ltr"
 }

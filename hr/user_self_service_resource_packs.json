@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Uredi paket resursa",
     "2": "Odustani",
     "3": "Spremi",
@@ -26,5 +25,6 @@
     "24": "Korišteno",
     "25": "od",
     "26": "Korištenje prometa za razdoblje",
-    "27": "do"
+    "27": "do",
+    "dir": "ltr"
 }

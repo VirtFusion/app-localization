@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Zadatak",
     "2": "Server",
     "3": "Zatraženi",
@@ -27,5 +26,6 @@
     "25": "Zadatak održavanja sustava bio je u tijeku u trenutku kada je ova radnja zatražena. Daljnji zahtjevi vjerojatno će biti otkazani do dovršetka zadatka održavanja sustava. Pokušajte ponovno za pet minuta.",
     "26": "Sustav nije odgovorio na zahtjev za radnju. Daljnji pokušaji vjerojatno će biti otkazani sve dok sustav ne reagira normalno. Pokušajte ponovno za pet minuta.",
     "27": "CD\/DVD nije mogao biti umetnut. Ako se koristi prilagođeni CD\/DVD, udaljeni poslužitelj možda neće biti konfiguriran za prijenos podataka. Treba pokušati s drugim resursom. Ova se pogreška može riješiti ponovnim pokretanjem poslužitelja.",
-    "28": "CD\/DVD nije mogao biti izbačen. Ova se pogreška može riješiti isključivanjem poslužitelja."
+    "28": "CD\/DVD nije mogao biti izbačen. Ova se pogreška može riješiti isključivanjem poslužitelja.",
+    "dir": "ltr"
 }

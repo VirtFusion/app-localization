@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Taak",
     "2": "Server",
     "3": "Aangevraagd",
@@ -27,5 +26,6 @@
     "25": "Er was een systeemonderhoudstaak bezig op het moment dat deze actie werd aangevraagd. Verdere verzoeken worden waarschijnlijk geannuleerd totdat de systeemonderhoudstaak is voltooid. Probeer het opnieuw over vijf minuten.",
     "26": "Het systeem heeft niet gereageerd op het actieverzoek. Verdere pogingen worden waarschijnlijk geannuleerd totdat het systeem normaal reageert. Probeer het opnieuw over vijf minuten.",
     "27": "De cd\/dvd kon niet worden geplaatst. Als een aangepaste cd\/dvd wordt gebruikt, is de externe server mogelijk niet geconfigureerd om gegevens te streamen. Er moet een andere bron worden geprobeerd. Deze fout kan mogelijk worden opgelost door de server opnieuw op te starten.",
-    "28": "De cd\/dvd kon niet worden uitgeworpen. Deze fout kan worden opgelost door de server af te sluiten."
+    "28": "De cd\/dvd kon niet worden uitgeworpen. Deze fout kan worden opgelost door de server af te sluiten.",
+    "dir": "ltr"
 }

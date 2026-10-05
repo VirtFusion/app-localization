@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dodaj SSH ključ",
     "2": "Ime",
     "3": "Nasumično ime?",
@@ -48,5 +47,6 @@
     "46": "Ključ je uspješno onemogućen.",
     "47": "Ime mora biti između 3 i 100 znakova i obavezno je polje.",
     "48": "Javni ključ mora biti važeći ključ i obavezan je polje.",
-    "49": "Ti"
+    "49": "Ti",
+    "dir": "ltr"
 }

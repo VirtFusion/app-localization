@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Säkerhetskopior är inte tillgängliga för den här servern",
     "2": "Senaste säkerhetskopiering",
     "3": "Kö, väntar på att börja...",
@@ -49,5 +48,18 @@
     "47": "minut",
     "48": "minuter",
     "49": "Vänligen vänta",
-    "50": "innan du försöker igen."
+    "50": "innan du försöker igen.",
+    "53": "år",
+    "54": "år",
+    "55": "månad",
+    "56": "månader",
+    "57": "vecka",
+    "58": "veckor",
+    "59": "dagligen",
+    "60": "varje vecka",
+    "61": "månadsvis",
+    "62": "årlig",
+    "63": "minimum",
+    "64": "behålls",
+    "dir": "ltr"
 }

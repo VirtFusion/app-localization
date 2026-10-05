@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Zaufane urządzenia",
     "2": "Usuń wszystko",
     "3": "Nie masz jeszcze żadnych urządzeń oznaczonych jako zaufane. Możesz zaufać urządzeniu przy następnym logowaniu przy użyciu uwierzytelniania dwuskładnikowego.",
@@ -32,5 +31,6 @@
     "30": "sekundy",
     "31": "minuty",
     "32": "godziny",
-    "33": "dni"
+    "33": "dni",
+    "dir": "ltr"
 }

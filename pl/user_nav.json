@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pulpit nawigacyjny",
     "2": "Serwery",
     "3": "Klucze SSH",
@@ -12,5 +11,6 @@
     "10": "Ciemny (Szary)",
     "11": "Ciemny (Czarny)",
     "12": "Wylogowanie",
-    "13": "Konto"
+    "13": "Konto",
+    "dir": "ltr"
 }

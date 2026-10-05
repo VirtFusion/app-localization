@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Obriši rezervnu kopiju",
     "2": "Da li ste sigurni da želite da izbrišete ovu rezervnu kopiju?",
     "3": "Otkaži",
@@ -378,5 +377,7 @@
     "379": "Informacije o procesoru nedostupne",
     "380": "U zavisnosti od instaliranog operativnog sistema i aktivnog stanja servera, možda neće biti moguće videti upotrebu CPU-a.",
     "381": "Mrežni saobraćaj koji generiše ovaj server pokriven je pod",
-    "382": "dodatak za saobraćaj u paketu resursa."
+    "382": "dodatak za saobraćaj u paketu resursa.",
+    "383": "Prekomerno ograničenje",
+    "dir": "ltr"
 }

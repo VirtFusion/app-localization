@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Ensisijainen",
     "2": "Toissijainen",
     "3": "Järjestelmän oletus",
     "4": "Resolver päivitettiin onnistuneesti. Uudelleenkäynnistys on tarpeen, ennen kuin resolvereita voidaan käyttää.",
-    "5": "Resolvereita ei voitu päivittää. Yritä myöhemmin uudelleen."
+    "5": "Resolvereita ei voitu päivittää. Yritä myöhemmin uudelleen.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tila",
     "2": "Luotu",
     "3": "Odottaa",
@@ -39,5 +38,6 @@
     "37": "Luo",
     "38": "Palvelin",
     "39": "Kaikki palvelimet",
-    "40": "Yksi tai useampi palvelimesi on merkitty ylläpitoksi, eikä niitä voi käyttää. Järjestelmää, jossa palvelimesi asuu, on parhaillaan ylläpidossa, ja se on jälleen pian käytettävissä."
+    "40": "Yksi tai useampi palvelimesi on merkitty ylläpitoksi, eikä niitä voi käyttää. Järjestelmää, jossa palvelimesi asuu, on parhaillaan ylläpidossa, ja se on jälleen pian käytettävissä.",
+    "dir": "ltr"
 }

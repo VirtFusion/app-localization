@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statistika",
     "2": "Omrežni promet (primarni)",
     "3": "Omrežni promet (sekundarni)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "ur",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

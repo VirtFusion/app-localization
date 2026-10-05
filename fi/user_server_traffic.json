@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Treffi",
     "2": "Vastaanotetut tiedot",
     "3": "Lähetetyt tiedot",
@@ -7,5 +6,6 @@
     "5": "Tietojen saaminen saataville voi kestää jopa 24 tuntia",
     "6": "Kuukausittainen käyttö",
     "7": "Päivittäinen käyttö",
-    "8": "Kuukausi päättyy"
+    "8": "Kuukausi päättyy",
+    "dir": "ltr"
 }

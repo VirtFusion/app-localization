@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Opret server",
     "2": "Hvilken ressourcepakke vil du gerne bruge til at oprette denne server?",
     "3": "Opret en timeserver, eller vælg en ressourcepakke.",
@@ -44,5 +43,6 @@
     "42": "Vælg det antal CPU-kerner, du har brug for, fra mulighederne nedenfor. Antallet af kerner bestemmer, hvor mange opgaver din server kan behandle samtidigt og påvirker direkte den samlede ydelse. Vælg den mulighed, der passer bedst til den arbejdsbyrde og de programmer, du planlægger at køre.",
     "43": "Vælg den mængde lagerplads, du har brug for, fra mulighederne nedenfor. Lagerstørrelsen bestemmer, hvor mange data, filer og programmer din server kan rumme. Vælg en mulighed, der giver plads nok til dine nuværende behov og giver plads til fremtidig vækst.",
     "44": "Konfigurer serveren ved at vælge den mængde ressourcer, du har brug for. Disse indstillinger bestemmer serverens ydeevne og kapacitet og hjælper dig med at skabe en opsætning, der passer til dine behov og den planlagte brug.",
-    "45": "Trafiktilladelsen for denne server er inkluderet i den valgte ressourcepakke, så der er ikke behov for yderligere konfiguration."
+    "45": "Trafiktilladelsen for denne server er inkluderet i den valgte ressourcepakke, så der er ikke behov for yderligere konfiguration.",
+    "dir": "ltr"
 }

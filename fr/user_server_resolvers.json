@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primaire",
     "2": "Secondaire",
     "3": "Système par défaut",
     "4": "Le résolveur a été mis à jour avec succès. Un redémarrage est nécessaire avant que les résolveurs puissent être utilisés.",
-    "5": "Les résolveurs n'ont pas pu être mis à jour. Réessayez plus tard."
+    "5": "Les résolveurs n'ont pas pu être mis à jour. Réessayez plus tard.",
+    "dir": "ltr"
 }

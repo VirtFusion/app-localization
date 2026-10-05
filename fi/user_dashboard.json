@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tervehdys,",
     "2": "Kojelauta",
     "3": "Jakaminen",
@@ -71,5 +70,6 @@
     "69": "Liikennettä käytetty tähän mennessä tässä kuussa. Kaikki ajat perustuvat",
     "70": "Viikko",
     "71": "Mo",
-    "72": "Tili"
+    "72": "Tili",
+    "dir": "ltr"
 }

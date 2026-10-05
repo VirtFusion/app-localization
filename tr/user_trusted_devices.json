@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Güvenilir Cihazlar",
     "2": "Tümünü Kaldır",
     "3": "Henüz güvenilen olarak işaretlenmiş bir cihazınız yok. İki faktörlü kimlik doğrulamayı kullanarak bir sonraki oturum açışınızda bir cihaza güvenebilirsiniz.",
@@ -32,5 +31,6 @@
     "30": "saniye",
     "31": "dakika",
     "32": "saatler",
-    "33": "günler"
+    "33": "günler",
+    "dir": "ltr"
 }

@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Elsődleges",
     "2": "Másodlagos",
     "3": "Rendszer alapértelmezett",
     "4": "A feloldó sikeresen frissült. A feloldók használata előtt újraindítás szükséges.",
-    "5": "A feloldókat nem sikerült frissíteni. Próbálja meg később újra."
+    "5": "A feloldókat nem sikerült frissíteni. Próbálja meg később újra.",
+    "dir": "ltr"
 }

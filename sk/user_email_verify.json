@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Prosím, overte svoju e-mailovú adresu. Ide o kľúčový krok na zaistenie bezpečnosti a presnosti informácií o vašom konte. Neoverenie vašej e-mailovej adresy môže mať za následok obmedzenie funkčnosti.",
     "2": "Zadajte overovací kód",
     "3": "Overiť",
@@ -13,5 +12,6 @@
     "11": "Odhlásenie",
     "12": "Nasledujúca e-mailová adresa si vyžaduje overenie:",
     "13": "Overovací e-mail sa nepodarilo odoslať. Skúste to prosím neskôr.",
-    "14": "Prosím, overte svoju e-mailovú adresu. Tento kľúčový krok zabezpečuje bezpečnosť a presnosť informácií o vašom konte. Vaše konto zostane obmedzené, kým sa proces overenia neukončí."
+    "14": "Prosím, overte svoju e-mailovú adresu. Tento kľúčový krok zabezpečuje bezpečnosť a presnosť informácií o vašom konte. Vaše konto zostane obmedzené, kým sa proces overenia neukončí.",
+    "dir": "ltr"
 }

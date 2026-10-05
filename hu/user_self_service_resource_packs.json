@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Erőforrás csomag szerkesztése",
     "2": "Törölje",
     "3": "Mentés",
@@ -26,5 +25,6 @@
     "24": "Használt",
     "25": "a",
     "26": "Forgalomfelhasználás az adott időszakban",
-    "27": "a  címre"
+    "27": "a  címre",
+    "dir": "ltr"
 }

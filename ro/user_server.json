@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ștergeți Backup",
     "2": "Sigur doriți să ștergeți această copie de rezervă?",
     "3": "Anulați",
@@ -378,5 +377,7 @@
     "379": "Informații despre CPU indisponibile",
     "380": "În funcție de sistemul de operare instalat și de starea activă a serverului, este posibil să nu fie posibilă vizualizarea utilizării procesorului.",
     "381": "Traficul de rețea generat de acest server este acoperit de",
-    "382": "alocație de trafic pentru pachetul de resurse."
+    "382": "alocație de trafic pentru pachetul de resurse.",
+    "383": "Peste limită",
+    "dir": "ltr"
 }

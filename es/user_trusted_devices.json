@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dispositivos de confianza",
     "2": "Quitar todo",
     "3": "Todavía no tienes ningún dispositivo marcado como de confianza. Puedes confiar en un dispositivo la próxima vez que inicies sesión utilizando la autenticación de dos factores.",
@@ -32,5 +31,6 @@
     "30": "segs",
     "31": "minutos",
     "32": "horas",
-    "33": "días"
+    "33": "días",
+    "dir": "ltr"
 }

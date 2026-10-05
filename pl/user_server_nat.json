@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Czy na pewno chcesz usunąć tę domenę?",
     "2": "Anuluj",
     "3": "Usuń",
@@ -57,5 +56,6 @@
     "55": "Błąd. Znaleziono brakujące dane. Odśwież stronę.",
     "56": "Porty zostały pomyślnie zaktualizowane. Propagacja zmian może potrwać kilka minut.",
     "57": "Nie wprowadzono żadnych zmian.",
-    "58": "Aktualizacja"
+    "58": "Aktualizacja",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Genel Bakış",
     "2": "Kaynaklar",
     "3": "Krediler",
@@ -39,5 +38,6 @@
     "37": "Referans",
     "38": "Uygulamalı",
     "39": "Kredi bulunamadı.",
-    "40": "Hesabınıza kredi eklendiğinde, burada görünecektir."
+    "40": "Hesabınıza kredi eklendiğinde, burada görünecektir.",
+    "dir": "ltr"
 }

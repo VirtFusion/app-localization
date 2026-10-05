@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statistik",
     "2": "Lalu Lintas Jaringan (Utama)",
     "3": "Lalu Lintas Jaringan (Sekunder)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "jam",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Podstawowe",
     "2": "Drugorzędny",
     "3": "Domyślne ustawienia systemu",
     "4": "Resolver został pomyślnie zaktualizowany. Przed użyciem resolvera wymagane jest ponowne uruchomienie.",
-    "5": "Nie można zaktualizować resolwerów. Spróbuj ponownie później."
+    "5": "Nie można zaktualizować resolwerów. Spróbuj ponownie później.",
+    "dir": "ltr"
 }

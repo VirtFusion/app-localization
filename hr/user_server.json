@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Izbriši sigurnosnu kopiju",
     "2": "Jeste li sigurni da želite izbrisati ovu sigurnosnu kopiju?",
     "3": "Odustani",
@@ -378,5 +377,7 @@
     "379": "Informacije o CPU-u nedostupne",
     "380": "Ovisno o instaliranom operativnom sustavu i aktivnom stanju poslužitelja, možda neće biti moguće vidjeti korištenje CPU-a.",
     "381": "Mrežni promet generiran ovim poslužiteljem pokriven je pod",
-    "382": "dodatak za promet u paketu resursa."
+    "382": "dodatak za promet u paketu resursa.",
+    "383": "Prekoračena granica",
+    "dir": "ltr"
 }

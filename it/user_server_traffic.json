@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Data",
     "2": "Dati ricevuti",
     "3": "Dati trasmessi",
@@ -7,5 +6,6 @@
     "5": "La disponibilità dei dati può richiedere fino a 24 ore",
     "6": "Utilizzo mensile",
     "7": "Uso quotidiano",
-    "8": "Fine mese"
+    "8": "Fine mese",
+    "dir": "ltr"
 }

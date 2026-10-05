@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Görev",
     "2": "Sunucu",
     "3": "Talep Edildi",
@@ -27,5 +26,6 @@
     "25": "Bu eylem talep edildiği sırada bir sistem bakım görevi devam ediyordu. Sistem bakım görevi tamamlanana kadar başka talepler iptal edilebilir. Beş dakika sonra tekrar deneyin.",
     "26": "Sistem eylem isteğine yanıt veremedi. Sistem normal yanıt verene kadar diğer denemelerin iptal edilmesi muhtemeldir. 5 dakika içinde tekrar deneyin.",
     "27": "CD\/DVD yerleştirilemedi. Özel bir CD\/DVD kullanılıyorsa, uzak sunucu veri akışı için yapılandırılmamış olabilir. Farklı bir kaynak denenmelidir. Bu hata, sunucunun yeniden başlatılmasıyla çözülebilir.",
-    "28": "CD\/DVD çıkarılamadı. Bu hata sunucunun kapatılmasıyla çözülebilir."
+    "28": "CD\/DVD çıkarılamadı. Bu hata sunucunun kapatılmasıyla çözülebilir.",
+    "dir": "ltr"
 }

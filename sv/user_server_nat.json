@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Är du säker på att du vill ta bort den här domänen?",
     "2": "Avbryt",
     "3": "Ta bort",
@@ -57,5 +56,6 @@
     "55": "Fel. Saknade data hittades. Uppdatera sidan.",
     "56": "Portar har uppdaterats. Det kan ta några minuter innan ändringarna sprids.",
     "57": "Inga ändringar gjordes.",
-    "58": "Uppdatering"
+    "58": "Uppdatering",
+    "dir": "ltr"
 }

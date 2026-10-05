@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primar",
     "2": "Secundar",
     "3": "Implicit sistem",
     "4": "Rezolver actualizat cu succes. Este necesară o repornire înainte ca rezolvatorii să poată fi utilizați.",
-    "5": "Rezolverele nu au putut fi actualizate. Încercați din nou mai târziu."
+    "5": "Rezolverele nu au putut fi actualizate. Încercați din nou mai târziu.",
+    "dir": "ltr"
 }

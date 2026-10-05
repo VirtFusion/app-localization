@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Utworzony",
     "3": "Oczekiwanie",
@@ -39,5 +38,6 @@
     "37": "Utwórz",
     "38": "Serwer",
     "39": "Wszystkie serwery",
-    "40": "Jeden lub więcej serwerów jest oznaczonych jako konserwacyjne i nie można uzyskać do nich dostępu. System, w którym znajduje się serwer, jest obecnie poddawany konserwacji i wkrótce będzie ponownie dostępny."
+    "40": "Jeden lub więcej serwerów jest oznaczonych jako konserwacyjne i nie można uzyskać do nich dostępu. System, w którym znajduje się serwer, jest obecnie poddawany konserwacji i wkrótce będzie ponownie dostępny.",
+    "dir": "ltr"
 }

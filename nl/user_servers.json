@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Gemaakt",
     "3": "In afwachting van",
@@ -39,5 +38,6 @@
     "37": "Maak",
     "38": "Server",
     "39": "Alle Servers",
-    "40": "Een of meer van uw servers zijn gemarkeerd als in onderhoud en zijn niet toegankelijk. Het systeem waar uw server op staat is momenteel in onderhoud en zal binnenkort weer beschikbaar zijn."
+    "40": "Een of meer van uw servers zijn gemarkeerd als in onderhoud en zijn niet toegankelijk. Het systeem waar uw server op staat is momenteel in onderhoud en zal binnenkort weer beschikbaar zijn.",
+    "dir": "ltr"
 }

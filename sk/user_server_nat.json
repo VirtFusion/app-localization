@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ste si istí, že chcete túto doménu odstrániť?",
     "2": "Zrušiť",
     "3": "Odstrániť",
@@ -57,5 +56,6 @@
     "55": "Chyba. Našli sa chýbajúce údaje. Obnovte stránku.",
     "56": "Porty sa úspešne aktualizovali. Môže trvať niekoľko minút, kým sa zmeny rozšíria.",
     "57": "Neboli vykonané žiadne zmeny.",
-    "58": "Aktualizácia"
+    "58": "Aktualizácia",
+    "dir": "ltr"
 }

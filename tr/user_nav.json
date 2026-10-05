@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Gösterge Tablosu",
     "2": "Sunucular",
     "3": "SSH Anahtarları",
@@ -12,5 +11,6 @@
     "10": "Koyu (Gri)",
     "11": "Koyu (Siyah)",
     "12": "Oturumu Kapat",
-    "13": "Hesap"
+    "13": "Hesap",
+    "dir": "ltr"
 }

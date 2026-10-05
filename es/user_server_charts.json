@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Estadísticas",
     "2": "Tráfico de red (primario)",
     "3": "Tráfico de red (secundario)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "hrs",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

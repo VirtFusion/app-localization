@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Datum",
     "2": "Ontvangen gegevens",
     "3": "Verzonden gegevens",
@@ -7,5 +6,6 @@
     "5": "Het kan tot 24 uur duren voordat de gegevens beschikbaar zijn",
     "6": "Maandelijks gebruik",
     "7": "Dagelijks gebruik",
-    "8": "Maand Einde"
+    "8": "Maand Einde",
+    "dir": "ltr"
 }

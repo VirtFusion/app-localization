@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "No hay copias de seguridad disponibles para este servidor",
     "2": "Última copia de seguridad",
     "3": "En cola, a la espera de comenzar...",
@@ -49,5 +48,18 @@
     "47": "minutos",
     "48": "minutos",
     "49": "Por favor, espere",
-    "50": "antes de volver a intentarlo."
+    "50": "antes de volver a intentarlo.",
+    "53": "año",
+    "54": "años",
+    "55": "mes",
+    "56": "meses",
+    "57": "semana",
+    "58": "semanas",
+    "59": "diario",
+    "60": "semanal",
+    "61": "mensual",
+    "62": "anual",
+    "63": "mínimo",
+    "64": "retenido",
+    "dir": "ltr"
 }

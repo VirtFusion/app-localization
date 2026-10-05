@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Copiile de rezervă nu sunt disponibile pentru acest server",
     "2": "Ultima copie de rezervă",
     "3": "La coadă, așteptând să înceapă...",
@@ -49,5 +48,18 @@
     "47": "minută",
     "48": "minute",
     "49": "Vă rugăm să așteptați",
-    "50": "Înainte de a încerca din nou."
+    "50": "Înainte de a încerca din nou.",
+    "53": "an",
+    "54": "ani",
+    "55": "lună",
+    "56": "luni",
+    "57": "săptămână",
+    "58": "săptămâni",
+    "59": "zilnică",
+    "60": "săptămânal",
+    "61": "lunar",
+    "62": "anual",
+    "63": "minimă",
+    "64": "reținută",
+    "dir": "ltr"
 }

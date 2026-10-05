@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dispozitive de încredere",
     "2": "Șterge toate",
     "3": "Încă nu aveți niciun dispozitiv marcat ca fiind de încredere. Puteți avea încredere într-un dispozitiv data viitoare când vă conectați utilizând autentificarea cu doi factori.",
@@ -32,5 +31,6 @@
     "30": "secunde",
     "31": "min",
     "32": "ore",
-    "33": "zile"
+    "33": "zile",
+    "dir": "ltr"
 }

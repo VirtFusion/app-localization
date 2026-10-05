@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Megbízható eszközök",
     "2": "Mindent eltávolítani",
     "3": "Még nincs megbízhatónak jelölt eszköz. A következő bejelentkezéskor a kétfaktoros hitelesítéssel megbízhat egy eszközben.",
@@ -32,5 +31,6 @@
     "30": "secs",
     "31": "percek",
     "32": "órák",
-    "33": "napok"
+    "33": "napok",
+    "dir": "ltr"
 }

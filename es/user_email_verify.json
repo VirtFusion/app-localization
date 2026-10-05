@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Por favor, verifique su dirección de correo electrónico. Este es un paso crucial para garantizar la seguridad y exactitud de la información de su cuenta. No verificar su dirección de correo electrónico puede resultar en una funcionalidad restringida.",
     "2": "Introduzca el código de verificación",
     "3": "Verifique",
@@ -13,5 +12,6 @@
     "11": "Cierre de sesión",
     "12": "La siguiente dirección de correo electrónico requiere verificación:",
     "13": "No se ha podido enviar el correo electrónico de verificación. Inténtelo de nuevo más tarde.",
-    "14": "Por favor, verifique su dirección de correo electrónico. Este paso crucial garantiza la seguridad y exactitud de la información de su cuenta. Su cuenta permanecerá restringida hasta que se haya completado el proceso de verificación."
+    "14": "Por favor, verifique su dirección de correo electrónico. Este paso crucial garantiza la seguridad y exactitud de la información de su cuenta. Su cuenta permanecerá restringida hasta que se haya completado el proceso de verificación.",
+    "dir": "ltr"
 }

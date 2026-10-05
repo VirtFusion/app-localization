@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tableau de bord",
     "2": "Serveurs",
     "3": "Clés SSH",
@@ -12,5 +11,6 @@
     "10": "Foncé (Gris)",
     "11": "Foncé (Noir)",
     "12": "Déconnexion",
-    "13": "Compte"
+    "13": "Compte",
+    "dir": "ltr"
 }

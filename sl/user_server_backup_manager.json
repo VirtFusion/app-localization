@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Za ta strežnik varnostne kopije niso na voljo",
     "2": "Zadnja varnostna kopija",
     "3": "V čakalni vrsti, čakam na začetek...",
@@ -49,5 +48,18 @@
     "47": "minute",
     "48": "minut",
     "49": "Prosimo, počakajte",
-    "50": "preden poskusite znova."
+    "50": "preden poskusite znova.",
+    "53": "leto",
+    "54": "let",
+    "55": "mesec",
+    "56": "mesecev",
+    "57": "teden",
+    "58": "tednov",
+    "59": "vsak dan",
+    "60": "tedensko",
+    "61": "mesečno",
+    "62": "letno",
+    "63": "najmanj",
+    "64": "ohranjen",
+    "dir": "ltr"
 }

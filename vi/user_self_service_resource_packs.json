@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sửa gói tài nguyên",
     "2": "Hủy",
     "3": "Lưu",
@@ -26,5 +25,6 @@
     "24": "Đã sử dụng",
     "25": "của",
     "26": "Sử dụng lưu lượng truy cập trong khoảng thời gian",
-    "27": "đến"
+    "27": "đến",
+    "dir": "ltr"
 }

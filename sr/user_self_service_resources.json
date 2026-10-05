@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pregled",
     "2": "Resursi",
     "3": "Krediti",
@@ -39,5 +38,6 @@
     "37": "Referentni",
     "38": "Primenjeno",
     "39": "Nisu pronađeni krediti.",
-    "40": "Kada se krediti dodaju na vaš račun, oni će se pojaviti ovde."
+    "40": "Kada se krediti dodaju na vaš račun, oni će se pojaviti ovde.",
+    "dir": "ltr"
 }

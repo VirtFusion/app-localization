@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Menambahkan Kunci SSH",
     "2": "Nama",
     "3": "Nama acak?",
@@ -48,5 +47,6 @@
     "46": "Kunci berhasil dinonaktifkan.",
     "47": "Nama harus terdiri dari 3 hingga 100 karakter dan merupakan bidang yang wajib diisi.",
     "48": "Kunci Publik harus berupa kunci yang valid dan merupakan bidang yang wajib diisi.",
-    "49": "Anda"
+    "49": "Anda",
+    "dir": "ltr"
 }

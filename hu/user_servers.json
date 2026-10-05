@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Állapot",
     "2": "Létrehozva",
     "3": "Várhatóan",
@@ -39,5 +38,6 @@
     "37": "Hozzon létre",
     "38": "Szerver",
     "39": "Minden szerver",
-    "40": "Egy vagy több szervere karbantartásként van megjelölve, és nem érhető el. A rendszer, amelyen a szervere található, jelenleg karbantartás alatt áll, és hamarosan újra elérhető lesz."
+    "40": "Egy vagy több szervere karbantartásként van megjelölve, és nem érhető el. A rendszer, amelyen a szervere található, jelenleg karbantartás alatt áll, és hamarosan újra elérhető lesz.",
+    "dir": "ltr"
 }

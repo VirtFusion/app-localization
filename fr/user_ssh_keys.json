@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ajouter une clé SSH",
     "2": "Nom",
     "3": "Nom aléatoire ?",
@@ -48,5 +47,6 @@
     "46": "La clé a été désactivée avec succès.",
     "47": "Le nom doit comporter entre 3 et 100 caractères et est un champ obligatoire.",
     "48": "La clé publique doit être une clé valide et est un champ obligatoire.",
-    "49": "Vous"
+    "49": "Vous",
+    "dir": "ltr"
 }

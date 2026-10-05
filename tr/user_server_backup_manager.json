@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Bu sunucu için yedekleme özelliği mevcut değildir",
     "2": "Son yedekleme",
     "3": "Sırada, başlamak için bekliyor...",
@@ -49,5 +48,18 @@
     "47": "dakika",
     "48": "dakika",
     "49": "Lütfen bekleyin",
-    "50": "tekrar denemeden önce."
+    "50": "tekrar denemeden önce.",
+    "53": "yıl",
+    "54": "yıl",
+    "55": "ay",
+    "56": "ay",
+    "57": "hafta",
+    "58": "hafta",
+    "59": "günlük",
+    "60": "haftalık",
+    "61": "aylık",
+    "62": "yıllık",
+    "63": "en az",
+    "64": "elde tutulan",
+    "dir": "ltr"
 }

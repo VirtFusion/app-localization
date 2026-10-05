@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Saudações,",
     "2": "Painel de controle",
     "3": "Compartilhamento",
@@ -71,5 +70,6 @@
     "69": "Tráfego usado até o momento neste mês. Todos os horários baseados em",
     "70": "Semanal",
     "71": "Mensal",
-    "72": "Conta"
+    "72": "Conta",
+    "dir": "ltr"
 }

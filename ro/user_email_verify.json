@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vă rugăm să verificați adresa dvs. de e-mail. Acesta este un pas crucial pentru a asigura securitatea și acuratețea informațiilor contului dvs. Nerespectarea adresei dvs. de e-mail poate duce la restricționarea funcționalității.",
     "2": "Introduceți codul de verificare",
     "3": "Verifica",
@@ -13,5 +12,6 @@
     "11": "Deconectare",
     "12": "Următoarea adresă de e-mail necesită verificare:",
     "13": "E-mailul de verificare nu a putut fi trimis. Vă rugăm să încercați din nou mai târziu.",
-    "14": "Vă rugăm să verificați adresa dvs. de e-mail. Acest pas crucial asigură securitatea și acuratețea informațiilor contului dvs. Contul dvs. va rămâne restricționat până la finalizarea procesului de verificare."
+    "14": "Vă rugăm să verificați adresa dvs. de e-mail. Acest pas crucial asigură securitatea și acuratețea informațiilor contului dvs. Contul dvs. va rămâne restricționat până la finalizarea procesului de verificare.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Ustvarjeno",
     "3": "Čakamo na",
@@ -39,5 +38,6 @@
     "37": "Ustvarite spletno stran",
     "38": "Strežnik",
     "39": "Vsi strežniki",
-    "40": "Eden ali več vaših strežnikov je označen kot vzdrževalni in do njega ni mogoče dostopati. V sistemu, v katerem se nahaja vaš strežnik, trenutno poteka vzdrževanje in bo kmalu spet na voljo."
+    "40": "Eden ali več vaših strežnikov je označen kot vzdrževalni in do njega ni mogoče dostopati. V sistemu, v katerem se nahaja vaš strežnik, trenutno poteka vzdrževanje in bo kmalu spet na voljo.",
+    "dir": "ltr"
 }

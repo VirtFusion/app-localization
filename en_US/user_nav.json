@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dashboard",
     "2": "Servers",
     "3": "SSH Keys",
@@ -12,5 +11,6 @@
     "10": "Dark (Grey)",
     "11": "Dark (Black)",
     "12": "Logout",
-    "13": "Account"
+    "13": "Account",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Salutations,",
     "2": "Tableau de bord",
     "3": "Partage",
@@ -71,5 +70,6 @@
     "69": "Trafic utilisé jusqu'à présent ce mois-ci. Toutes les heures sont basées sur",
     "70": "Wk",
     "71": "Mo",
-    "72": "Compte"
+    "72": "Compte",
+    "dir": "ltr"
 }

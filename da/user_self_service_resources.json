@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Oversigt",
     "2": "Ressourcer",
     "3": "Krediteringer",
@@ -39,5 +38,6 @@
     "37": "Reference",
     "38": "Anvendt",
     "39": "Ingen kreditter fundet.",
-    "40": "Når der tilføjes kreditter til din konto, vil de blive vist her."
+    "40": "Når der tilføjes kreditter til din konto, vil de blive vist her.",
+    "dir": "ltr"
 }

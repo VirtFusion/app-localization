@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ste prepričani, da želite izbrisati to domeno?",
     "2": "Prekliči",
     "3": "Izbriši",
@@ -57,5 +56,6 @@
     "55": "Napaka. Najdeni so pomanjkljivi podatki. Osvežite stran.",
     "56": "Porti so bili uspešno posodobljeni. Razširitev sprememb lahko traja nekaj minut.",
     "57": "Spremembe niso bile izvedene.",
-    "58": "Posodobitev"
+    "58": "Posodobitev",
+    "dir": "ltr"
 }

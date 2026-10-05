@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Edit Resource Pack",
     "2": "Otkaži",
     "3": "Sačuvaj",
@@ -26,5 +25,6 @@
     "24": "Korišćeno",
     "25": "od",
     "26": "Korišćenje saobraćaja za period",
-    "27": "do"
+    "27": "do",
+    "dir": "ltr"
 }

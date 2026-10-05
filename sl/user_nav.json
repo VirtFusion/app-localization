@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Nadzorna plošča",
     "2": "Strežniki",
     "3": "Ključi SSH",
@@ -12,5 +11,6 @@
     "10": "Temno (sivo)",
     "11": "Temno (črno)",
     "12": "Odjava",
-    "13": "Račun"
+    "13": "Račun",
+    "dir": "ltr"
 }

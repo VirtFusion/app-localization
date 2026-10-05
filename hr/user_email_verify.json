@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Molimo provjerite svoju adresu e-pošte. Ovo je ključan korak za osiguravanje sigurnosti i točnosti podataka o vašem računu. Ako ne provjerite svoju adresu e-pošte, može rezultirati ograničenom funkcionalnošću.",
     "2": "Unesite kôd za provjeru",
     "3": "Potvrdite",
@@ -13,5 +12,6 @@
     "11": "Odjava",
     "12": "Sljedeća adresa e-pošte zahtijeva provjeru:",
     "13": "E-poruka za potvrdu nije mogla biti poslana. Pokušajte ponovo kasnije.",
-    "14": "Molimo provjerite svoju adresu e-pošte. Ovaj ključni korak osigurava sigurnost i točnost podataka o vašem računu. Vaš će račun ostati ograničen sve dok se postupak provjere ne završi."
+    "14": "Molimo provjerite svoju adresu e-pošte. Ovaj ključni korak osigurava sigurnost i točnost podataka o vašem računu. Vaš će račun ostati ograničen sve dok se postupak provjere ne završi.",
+    "dir": "ltr"
 }

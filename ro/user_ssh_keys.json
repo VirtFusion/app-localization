@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Adăugați cheia SSH",
     "2": "Nume",
     "3": "Nume aleatoriu?",
@@ -48,5 +47,6 @@
     "46": "Cheia dezactivată cu succes.",
     "47": "Numele trebuie să aibă între 3 și 100 de caractere și este un câmp obligatoriu.",
     "48": "Cheia publică trebuie să fie o cheie validă și este un câmp obligatoriu.",
-    "49": "Tu"
+    "49": "Tu",
+    "dir": "ltr"
 }

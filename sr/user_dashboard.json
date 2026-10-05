@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pozdrav,",
     "2": "Kontrolna tabla",
     "3": "Deljenje",
@@ -71,5 +70,6 @@
     "69": "Do sada korišćen saobraćaj ovog meseca. Sva vremena zasnovana na",
     "70": "Vk",
     "71": "Mo",
-    "72": "Račun"
+    "72": "Račun",
+    "dir": "ltr"
 }

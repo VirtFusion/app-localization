@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Stav",
     "2": "Vytvorené",
     "3": "Čaká sa na",
@@ -39,5 +38,6 @@
     "37": "Vytvoriť stránku",
     "38": "Server",
     "39": "Všetky servery",
-    "40": "Jeden alebo viacero vašich serverov je označených ako údržbové a nie je možné k nim pristupovať. Systém, v ktorom sa váš server nachádza, práve prechádza údržbou a čoskoro bude opäť k dispozícii."
+    "40": "Jeden alebo viacero vašich serverov je označených ako údržbové a nie je možné k nim pristupovať. Systém, v ktorom sa váš server nachádza, práve prechádza údržbou a čoskoro bude opäť k dispozícii.",
+    "dir": "ltr"
 }

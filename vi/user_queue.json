@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Nhiệm vụ",
     "2": "Máy chủ",
     "3": "Đã yêu cầu",
@@ -27,5 +26,6 @@
     "25": "Một nhiệm vụ bảo trì hệ thống đang được tiến hành tại thời điểm hành động này được yêu cầu. Các yêu cầu khác có thể sẽ bị hủy bỏ cho đến khi hoàn tất nhiệm vụ bảo trì hệ thống. Thử lại trong năm phút.",
     "26": "Hệ thống không đáp ứng yêu cầu hành động. Các nỗ lực tiếp theo có thể sẽ bị hủy bỏ cho đến khi hệ thống đáp ứng bình thường. Thử lại trong năm phút.",
     "27": "Không thể chèn CD\/DVD. Nếu CD\/DVD tùy chỉnh đang được sử dụng, máy chủ từ xa có thể không được cấu hình để truyền dữ liệu. Một tài nguyên khác nên được thử. Lỗi này có thể được giải quyết bằng cách khởi động lại máy chủ.",
-    "28": "CD\/DVD không thể được đẩy ra. Lỗi này có thể giải quyết được khi tắt máy chủ."
+    "28": "CD\/DVD không thể được đẩy ra. Lỗi này có thể giải quyết được khi tắt máy chủ.",
+    "dir": "ltr"
 }

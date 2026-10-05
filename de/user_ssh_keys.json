@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "SSH-Schlüssel hinzufügen",
     "2": "Name",
     "3": "Random Name?",
@@ -48,5 +47,6 @@
     "46": "Taste erfolgreich deaktiviert.",
     "47": "Der Name muss zwischen 3 und 100 Zeichen lang sein und ist ein Pflichtfeld.",
     "48": "Der öffentliche Schlüssel muss ein gültiger Schlüssel sein und ist ein Pflichtfeld.",
-    "49": "Sie"
+    "49": "Sie",
+    "dir": "ltr"
 }

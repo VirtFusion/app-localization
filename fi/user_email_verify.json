@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vahvista sähköpostiosoitteesi. Tämä on ratkaiseva askel tilitietojesi turvallisuuden ja paikkansapitävyyden varmistamiseksi. Sähköpostiosoitteesi vahvistamatta jättäminen voi johtaa toimintojen rajoittamiseen.",
     "2": "Anna vahvistuskoodi",
     "3": "Vahvista",
@@ -13,5 +12,6 @@
     "11": "Kirjaudu ulos",
     "12": "Seuraava sähköpostiosoite vaatii vahvistuksen:",
     "13": "Vahvistussähköpostia ei voitu lähettää. Yritä myöhemmin uudelleen.",
-    "14": "Vahvista sähköpostiosoitteesi. Tämä tärkeä vaihe varmistaa tilitietojesi turvallisuuden ja tarkkuuden. Tilisi pysyy rajoitettuna, kunnes vahvistusprosessi on suoritettu loppuun."
+    "14": "Vahvista sähköpostiosoitteesi. Tämä tärkeä vaihe varmistaa tilitietojesi turvallisuuden ja tarkkuuden. Tilisi pysyy rajoitettuna, kunnes vahvistusprosessi on suoritettu loppuun.",
+    "dir": "ltr"
 }

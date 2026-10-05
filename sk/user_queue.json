@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Úloha",
     "2": "Server",
     "3": "Požadované",
@@ -27,5 +26,6 @@
     "25": "V čase, keď bola táto akcia požadovaná, prebiehala úloha údržby systému. Ďalšie požiadavky budú pravdepodobne zrušené, kým sa úloha údržby systému nedokončí. Skúste to znova o päť minút.",
     "26": "Systém nereagoval na žiadosť o vykonanie akcie. Ďalšie pokusy budú pravdepodobne zrušené, kým systém nebude reagovať normálne. Skúste to znova o päť minút.",
     "27": "CD\/DVD nebolo možné vložiť. Ak sa používa vlastné CD\/DVD, vzdialený server nemusí byť nakonfigurovaný na prenos dát. Je potrebné skúsiť použiť iný zdroj. Túto chybu je možné vyriešiť reštartom servera.",
-    "28": "CD\/DVD nebolo možné vysunúť. Túto chybu je možné vyriešiť vypnutím servera."
+    "28": "CD\/DVD nebolo možné vysunúť. Túto chybu je možné vyriešiť vypnutím servera.",
+    "dir": "ltr"
 }

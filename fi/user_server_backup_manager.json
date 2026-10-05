@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Varmuuskopiot eivät ole käytettävissä tälle palvelimelle",
     "2": "Viimeinen varmuuskopio",
     "3": "Jonossa, odottamassa alkua...",
@@ -49,5 +48,18 @@
     "47": "minuutti",
     "48": "minuuttia",
     "49": "Ole hyvä ja odota",
-    "50": "ennen kuin yrität uudelleen."
+    "50": "ennen kuin yrität uudelleen.",
+    "53": "vuosi",
+    "54": "vuodet",
+    "55": "kuukausi",
+    "56": "kuukautta",
+    "57": "viikko",
+    "58": "viikkoa",
+    "59": "päivittäin",
+    "60": "viikottainen",
+    "61": "kuukausittain",
+    "62": "vuosittain",
+    "63": "vähintään",
+    "64": "säilytetty",
+    "dir": "ltr"
 }

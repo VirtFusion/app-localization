@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Eliminar copia de seguridad",
     "2": "¿Estás seguro de que quieres borrar esta copia de seguridad?",
     "3": "Cancelar",
@@ -378,5 +377,7 @@
     "379": "Información de la CPU no disponible",
     "380": "Dependiendo del sistema operativo instalado y del estado activo del servidor, puede que no sea posible ver la utilización de la CPU.",
     "381": "El tráfico de red generado por este servidor está cubierto por la",
-    "382": "asignación de tráfico del paquete de recursos."
+    "382": "asignación de tráfico del paquete de recursos.",
+    "383": "Por encima del límite",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Prezentare generală",
     "2": "Resurse",
     "3": "Credite",
@@ -39,5 +38,6 @@
     "37": "Referință",
     "38": "Aplicată",
     "39": "Nu au fost găsite credite.",
-    "40": "Când creditele sunt adăugate în contul dvs., acestea vor apărea aici."
+    "40": "Când creditele sunt adăugate în contul dvs., acestea vor apărea aici.",
+    "dir": "ltr"
 }

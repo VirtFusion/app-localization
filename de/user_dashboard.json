@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Grüße,",
     "2": "Dashboard",
     "3": "Teilen",
@@ -71,5 +70,6 @@
     "69": "Bisheriger Verkehr in diesem Monat; alle Zeiten basieren auf",
     "70": "Wk",
     "71": "Mo",
-    "72": "Konto"
+    "72": "Konto",
+    "dir": "ltr"
 }

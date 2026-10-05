@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Dibuat",
     "3": "Menunggu",
@@ -39,5 +38,6 @@
     "37": "Membuat",
     "38": "Server",
     "39": "Semua Server",
-    "40": "Satu atau beberapa server Anda ditandai sebagai pemeliharaan dan tidak dapat diakses. Sistem tempat server Anda berada saat ini sedang dalam pemeliharaan dan akan segera tersedia kembali."
+    "40": "Satu atau beberapa server Anda ditandai sebagai pemeliharaan dan tidak dapat diakses. Sistem tempat server Anda berada saat ini sedang dalam pemeliharaan dan akan segera tersedia kembali.",
+    "dir": "ltr"
 }

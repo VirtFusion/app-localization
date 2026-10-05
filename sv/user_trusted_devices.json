@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Betrodda enheter",
     "2": "Ta bort alla",
     "3": "Du har inga enheter markerade som betrodda än. Du kan lita på en enhet nästa gång du loggar in med tvåfaktorsautentisering.",
@@ -32,5 +31,6 @@
     "30": "sekunder",
     "31": "minuter",
     "32": "timmar",
-    "33": "dagar"
+    "33": "dagar",
+    "dir": "ltr"
 }

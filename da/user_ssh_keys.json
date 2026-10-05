@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tilføj SSH-nøgle",
     "2": "Navn",
     "3": "Tilfældigt navn?",
@@ -48,5 +47,6 @@
     "46": "Nøglen er deaktiveret med succes.",
     "47": "Navn skal være mellem 3 og 100 tegn og er et obligatorisk felt.",
     "48": "Public Key skal være en gyldig nøgle og er et obligatorisk felt.",
-    "49": "Du er"
+    "49": "Du er",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tarefa",
     "2": "Servidor",
     "3": "Solicitado",
@@ -27,5 +26,6 @@
     "25": "Uma tarefa de manutenção do sistema estava em andamento no momento em que essa ação foi solicitada. É provável que outras solicitações sejam canceladas até que a tarefa de manutenção do sistema seja concluída. Tente novamente em cinco minutos.",
     "26": "O sistema não conseguiu responder à solicitação de ação. É provável que outras tentativas sejam canceladas até que o sistema esteja respondendo normalmente. Tente novamente em cinco minutos.",
     "27": "O CD\/DVD não pôde ser inserido. Se um CD\/DVD personalizado estiver sendo usado, o servidor remoto pode não estar configurado para transmitir dados. Deve-se tentar usar um recurso diferente. Esse erro pode ser resolvido com a reinicialização do servidor.",
-    "28": "O CD\/DVD não pôde ser ejetado. Esse erro pode ser resolvido com o desligamento do servidor."
+    "28": "O CD\/DVD não pôde ser ejetado. Esse erro pode ser resolvido com o desligamento do servidor.",
+    "dir": "ltr"
 }

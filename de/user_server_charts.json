@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statistik",
     "2": "Netzwerkverkehr (primär)",
     "3": "Netzwerkverkehr (sekundär)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "stunden",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

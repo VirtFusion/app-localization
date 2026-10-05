@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Edit Resource Pack",
     "2": "Abbrechen",
     "3": "Speichern Sie",
@@ -26,5 +25,6 @@
     "24": "Gebraucht",
     "25": "von",
     "26": "Verkehrsaufkommen im Berichtszeitraum",
-    "27": "zu"
+    "27": "zu",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sarcină",
     "2": "Server",
     "3": "Solicitat",
@@ -27,5 +26,6 @@
     "25": "O sarcină de întreținere a sistemului era în curs de desfășurare la momentul solicitării acestei acțiuni. Cererile suplimentare sunt susceptibile de a fi anulate până la finalizarea sarcinii de întreținere a sistemului. Încercați din nou în cinci minute.",
     "26": "Sistemul nu a reușit să răspundă cererii de acțiune. Este posibil ca încercările ulterioare să fie anulate până când sistemul răspunde normal. Încercați din nou în cinci minute.",
     "27": "CD\/DVD-ul nu a putut fi introdus. Dacă se utilizează un CD\/DVD personalizat, este posibil ca serverul de la distanță să nu fie configurat pentru a transmite date. Ar trebui încercată o resursă diferită. Această eroare poate fi rezolvată cu o repornire a serverului.",
-    "28": "CD\/DVD-ul nu a putut fi scos. Această eroare este rezolvată cu o oprire a serverului."
+    "28": "CD\/DVD-ul nu a putut fi scos. Această eroare este rezolvată cu o oprire a serverului.",
+    "dir": "ltr"
 }

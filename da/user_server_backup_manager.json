@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Der findes ingen sikkerhedskopier for denne server",
     "2": "Sidste sikkerhedskopi",
     "3": "I kø, venter på at starte...",
@@ -49,5 +48,18 @@
     "47": "minutter",
     "48": "minutter",
     "49": "Vent venligst",
-    "50": "inden du prøver igen."
+    "50": "inden du prøver igen.",
+    "53": "år",
+    "54": "år",
+    "55": "måned",
+    "56": "måneder",
+    "57": "uge",
+    "58": "uger",
+    "59": "dagligt",
+    "60": "ugentligt",
+    "61": "månedligt",
+    "62": "årligt",
+    "63": "minimum",
+    "64": "bevaret",
+    "dir": "ltr"
 }

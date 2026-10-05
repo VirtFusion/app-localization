@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Verifieer je e-mailadres. Dit is een cruciale stap om de veiligheid en nauwkeurigheid van je accountgegevens te garanderen. Als je je e-mailadres niet verifieert, kan dit leiden tot beperkte functionaliteit.",
     "2": "Verificatiecode invoeren",
     "3": "Controleer",
@@ -13,5 +12,6 @@
     "11": "Afmelden",
     "12": "Het volgende e-mailadres moet worden geverifieerd:",
     "13": "De verificatiemail kon niet worden verzonden. Probeer het later nog eens.",
-    "14": "Verifieer je e-mailadres. Deze cruciale stap garandeert de veiligheid en nauwkeurigheid van je accountgegevens. Je account blijft beperkt totdat het verificatieproces is voltooid."
+    "14": "Verifieer je e-mailadres. Deze cruciale stap garandeert de veiligheid en nauwkeurigheid van je accountgegevens. Je account blijft beperkt totdat het verificatieproces is voltooid.",
+    "dir": "ltr"
 }

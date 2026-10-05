@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Selamlar,",
     "2": "Gösterge Tablosu",
     "3": "Paylaşım",
@@ -71,5 +70,6 @@
     "69": "Bu ay şimdiye kadar kullanılan trafik Tüm zamanlar",
     "70": "Wk",
     "71": "Mo",
-    "72": "Hesap"
+    "72": "Hesap",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tarea",
     "2": "Servidor",
     "3": "Solicitado",
@@ -27,5 +26,6 @@
     "25": "Una tarea de mantenimiento del sistema estaba en curso en el momento en que se solicitó esta acción. Es probable que se cancelen más solicitudes hasta que la tarea de mantenimiento del sistema haya finalizado. Inténtelo de nuevo en cinco minutos.",
     "26": "El sistema no ha respondido a la solicitud de acción. Es probable que se cancelen nuevos intentos hasta que el sistema responda con normalidad. Vuelva a intentarlo en cinco minutos.",
     "27": "No se pudo insertar el CD\/DVD. Si se está utilizando un CD\/DVD personalizado, es posible que el servidor remoto no esté configurado para transmitir datos. Se debe intentar utilizar un recurso diferente. Este error puede resolverse con un reinicio del servidor.",
-    "28": "No se ha podido expulsar el CD\/DVD. Este error se puede resolver apagando el servidor."
+    "28": "No se ha podido expulsar el CD\/DVD. Este error se puede resolver apagando el servidor.",
+    "dir": "ltr"
 }

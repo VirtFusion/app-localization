@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Add SSH Key",
     "2": "Name",
     "3": "Random Name?",
@@ -48,5 +47,6 @@
     "46": "Key disabled successfully.",
     "47": "Name must be between 3 and 100 characters and is a required field.",
     "48": "Public Key must be a valid key and is a required field.",
-    "49": "You"
+    "49": "You",
+    "dir": "ltr"
 }

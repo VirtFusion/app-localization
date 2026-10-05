@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kopie zapasowe nie są dostępne dla tego serwera",
     "2": "Ostatnia kopia zapasowa",
     "3": "W kolejce, czekam na rozpoczęcie...",
@@ -49,5 +48,18 @@
     "47": "minuty",
     "48": "protokół",
     "49": "Proszę poczekać",
-    "50": "zanim spróbujesz ponownie."
+    "50": "zanim spróbujesz ponownie.",
+    "53": "rok",
+    "54": "lata",
+    "55": "miesiąc",
+    "56": "miesiące",
+    "57": "tydzień",
+    "58": "tygodnie",
+    "59": "codziennie",
+    "60": "co tydzień",
+    "61": "co miesiąc",
+    "62": "rocznie",
+    "63": "minimum",
+    "64": "zachowane",
+    "dir": "ltr"
 }

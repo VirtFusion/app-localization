@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Uppgift",
     "2": "Servern",
     "3": "Begärda",
@@ -27,5 +26,6 @@
     "25": "En systemunderhållsåtgärd pågick vid den tidpunkt då åtgärden begärdes. Ytterligare förfrågningar kommer sannolikt att avbrytas tills systemunderhållsåtgärden har slutförts. Försök igen om fem minuter.",
     "26": "Systemet kunde inte svara på åtgärdsbegäran. Ytterligare försök kommer sannolikt att avbrytas tills systemet svarar normalt. Försök igen om fem minuter.",
     "27": "CD\/DVD-skivan kunde inte sättas in. Om en anpassad CD\/DVD används kanske fjärrservern inte är konfigurerad för att strömma data. En annan resurs bör försökas. Det här felet kan lösas med en omstart av servern.",
-    "28": "CD\/DVD-skivan kunde inte matas ut. Det här felet kan lösas med en serveravstängning."
+    "28": "CD\/DVD-skivan kunde inte matas ut. Det här felet kan lösas med en serveravstängning.",
+    "dir": "ltr"
 }

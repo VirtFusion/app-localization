@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Bekræft venligst din e-mailadresse. Dette er et vigtigt skridt for at sikre sikkerheden og nøjagtigheden af dine kontooplysninger. Hvis du ikke bekræfter din e-mailadresse, kan det resultere i begrænset funktionalitet.",
     "2": "Indtast bekræftelseskode",
     "3": "Bekræft",
@@ -13,5 +12,6 @@
     "11": "Log ud",
     "12": "Følgende e-mailadresse kræver bekræftelse:",
     "13": "Bekræftelsesmailen kunne ikke sendes, prøv igen senere.",
-    "14": "Bekræft venligst din e-mailadresse. Dette vigtige trin sikrer sikkerheden og nøjagtigheden af dine kontooplysninger. Din konto vil forblive begrænset, indtil bekræftelsesprocessen er afsluttet."
+    "14": "Bekræft venligst din e-mailadresse. Dette vigtige trin sikrer sikkerheden og nøjagtigheden af dine kontooplysninger. Din konto vil forblive begrænset, indtil bekræftelsesprocessen er afsluttet.",
+    "dir": "ltr"
 }

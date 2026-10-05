@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Apakah Anda yakin ingin menghapus domain ini?",
     "2": "Batal",
     "3": "Menghapus",
@@ -57,5 +56,6 @@
     "55": "Kesalahan, data tidak ditemukan, silakan refresh halaman.",
     "56": "Port berhasil diperbarui. Mungkin diperlukan beberapa menit agar perubahan menyebar.",
     "57": "Tidak ada perubahan yang dilakukan.",
-    "58": "Memperbarui"
+    "58": "Memperbarui",
+    "dir": "ltr"
 }

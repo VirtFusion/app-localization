@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Painel de controle",
     "2": "Servidores",
     "3": "Chaves SSH",
@@ -12,5 +11,6 @@
     "10": "Escuro (cinza)",
     "11": "Escuro (preto)",
     "12": "Sair",
-    "13": "Conta"
+    "13": "Conta",
+    "dir": "ltr"
 }

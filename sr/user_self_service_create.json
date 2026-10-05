@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kreirajte server",
     "2": "Koji paket resursa želite da koristite za kreiranje ovog servera?",
     "3": "Kreirajte server po satu ili izaberite paket resursa.",
@@ -44,5 +43,6 @@
     "42": "Izaberite broj CPU jezgara koji vam je potreban iz opcija ispod. Broj jezgara određuje koliko zadataka vaš server može istovremeno da obradi i direktno utiče na ukupne performanse. Izaberite opciju koja najbolje odgovara opterećenju i aplikacijama koje planirate da pokrenete.",
     "43": "Izaberite količinu prostora za skladištenje koja vam je potrebna iz opcija ispod. Veličina skladištenja određuje koliko podataka, datoteka i aplikacija vaš server može da zadrži. Izaberite opciju koja pruža dovoljno prostora za vaše trenutne potrebe i omogućava prostor za budući rast.",
     "44": "Podesite server odabirom količine resursa koji su vam potrebni. Ove opcije određuju performanse i kapacitet vašeg servera, pomažući vam da kreirate podešavanje koje odgovara vašim potrebama i nameravanoj upotrebi.",
-    "45": "Dodatak za saobraćaj za ovaj server uključen je u izabrani paket resursa, tako da nije potrebna dodatna konfiguracija."
+    "45": "Dodatak za saobraćaj za ovaj server uključen je u izabrani paket resursa, tako da nije potrebna dodatna konfiguracija.",
+    "dir": "ltr"
 }

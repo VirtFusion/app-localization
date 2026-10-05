@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Odstránenie zálohovania",
     "2": "Ste si istí, že chcete túto zálohu odstrániť?",
     "3": "Zrušiť",
@@ -378,5 +377,7 @@
     "379": "Informácie o CPU nedostupné",
     "380": "V závislosti od nainštalovaného operačného systému a aktívneho stavu servera nemusí byť možné zobraziť využitie CPU.",
     "381": "Na sieťovú prevádzku generovanú týmto serverom sa vzťahuje",
-    "382": "príspevok na prevádzku balíka zdrojov."
+    "382": "príspevok na prevádzku balíka zdrojov.",
+    "383": "Nad limitom",
+    "dir": "ltr"
 }

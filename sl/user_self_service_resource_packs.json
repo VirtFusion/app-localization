@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Urejanje paketa virov",
     "2": "Prekliči",
     "3": "Shrani",
@@ -26,5 +25,6 @@
     "24": "Uporabljen",
     "25": "na spletnem mestu ",
     "26": "Uporaba prometa v obdobju",
-    "27": "na "
+    "27": "na ",
+    "dir": "ltr"
 }

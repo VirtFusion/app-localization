@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Xóa bản sao lưu",
     "2": "Bạn có chắc chắn muốn xóa bản sao lưu này không?",
     "3": "Hủy",
@@ -378,5 +377,7 @@
     "379": "Thông tin CPU không khả dụng",
     "380": "Tùy thuộc vào hệ điều hành được cài đặt và trạng thái hoạt động của máy chủ, có thể không thể xem việc sử dụng CPU.",
     "381": "Lưu lượng mạng được tạo bởi máy chủ này được bao phủ bởi",
-    "382": "phụ cấp lưu lượng truy cập gói tài nguyên."
+    "382": "phụ cấp lưu lượng truy cập gói tài nguyên.",
+    "383": "Vượt giới hạn",
+    "dir": "ltr"
 }

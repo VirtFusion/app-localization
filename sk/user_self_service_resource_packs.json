@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Upraviť balík zdrojov",
     "2": "Zrušiť",
     "3": "Uložiť",
@@ -26,5 +25,6 @@
     "24": "Použité",
     "25": "z",
     "26": "Využitie dopravy za dané obdobie",
-    "27": "na"
+    "27": "na",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Zaupanja vredne naprave",
     "2": "Odstrani vse",
     "3": "Nobena naprava še ni označena kot zaupanja vredna. Napravo lahko zaupate ob naslednji prijavi z uporabo dvostopenjskega preverjanja pristnosti.",
@@ -32,5 +31,6 @@
     "30": "sekunde",
     "31": "minute",
     "32": "ure",
-    "33": "dni"
+    "33": "dni",
+    "dir": "ltr"
 }

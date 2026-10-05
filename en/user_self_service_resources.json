@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Overview",
     "2": "Resources",
     "3": "Credits",
@@ -39,5 +38,6 @@
     "37": "Reference",
     "38": "Applied",
     "39": "No credits found.",
-    "40": "When credits are added to your account, they will show up here."
+    "40": "When credits are added to your account, they will show up here.",
+    "dir": "ltr"
 }

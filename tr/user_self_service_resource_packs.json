@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kaynak Paketini Düzenle",
     "2": "İptal",
     "3": "Kaydet",
@@ -26,5 +25,6 @@
     "24": "Kullanılmış",
     "25": "",
     "26": "Dönem için trafik kullanımı",
-    "27": "için"
+    "27": "için",
+    "dir": "ltr"
 }

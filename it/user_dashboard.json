@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Saluti,",
     "2": "Cruscotto",
     "3": "Condivisione",
@@ -71,5 +70,6 @@
     "69": "Traffico utilizzato finora in questo mese. Tutti i tempi si basano su",
     "70": "Settimana",
     "71": "Mo",
-    "72": "Conto"
+    "72": "Conto",
+    "dir": "ltr"
 }

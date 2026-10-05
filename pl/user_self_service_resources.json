@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Przegląd",
     "2": "Zasoby",
     "3": "Kredyty",
@@ -39,5 +38,6 @@
     "37": "Odniesienie",
     "38": "Stosowany",
     "39": "Nie znaleziono żadnych kredytów.",
-    "40": "Gdy kredyty zostaną dodane do konta, pojawią się tutaj."
+    "40": "Gdy kredyty zostaną dodane do konta, pojawią się tutaj.",
+    "dir": "ltr"
 }

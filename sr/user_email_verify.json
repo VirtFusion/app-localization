@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Molimo Vjerite svoju adresu e-pošte. Ovo je ključan korak za osiguravanje sigurnosti i tačnosti podataka o vašem nalogu. Ako ne potvrdite svoju adresu e-pošte, može doći do ograničene funkcije.",
     "2": "Unesite kod za verifikaciju",
     "3": "Potvrdite",
@@ -13,5 +12,6 @@
     "11": "Odjavite se",
     "12": "Sledeća adresa e-pošte zahteva verifikaciju:",
     "13": "E-poruka za verifikaciju nije mogla biti poslata. Pokušajte ponovo kasnije.",
-    "14": "Molimo proverite svoju adresu e-pošte. Ovaj ključni korak osigurava sigurnost i tačnost podataka o vašem nalogu. Vaš nalog će ostati ograničen dok se proces verifikacije ne završi."
+    "14": "Molimo proverite svoju adresu e-pošte. Ovaj ključni korak osigurava sigurnost i tačnost podataka o vašem nalogu. Vaš nalog će ostati ograničen dok se proces verifikacije ne završi.",
+    "dir": "ltr"
 }

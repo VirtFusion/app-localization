@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pozdravy,",
     "2": "Prístrojová doska",
     "3": "Zdieľanie",
@@ -71,5 +70,6 @@
     "69": "Doprava použitá tento mesiac. Všetky časy vychádzajú z",
     "70": "Wk",
     "71": "Mo",
-    "72": "Účet"
+    "72": "Účet",
+    "dir": "ltr"
 }

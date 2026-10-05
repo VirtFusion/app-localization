@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primer",
     "2": "Sekunder",
     "3": "Default Sistem",
     "4": "Resolver berhasil diperbarui. Diperlukan restart sebelum resolver dapat digunakan.",
-    "5": "Penyelesai tidak dapat diperbarui. Coba lagi nanti."
+    "5": "Penyelesai tidak dapat diperbarui. Coba lagi nanti.",
+    "dir": "ltr"
 }

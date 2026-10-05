@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Thêm khóa SSH",
     "2": "Tên",
     "3": "Tên ngẫu nhiên?",
@@ -48,5 +47,6 @@
     "46": "Khóa bị vô hiệu hóa thành công.",
     "47": "Tên phải có từ 3 đến 100 ký tự và là trường bắt buộc.",
     "48": "Khóa công khai phải là một khóa hợp lệ và là một trường bắt buộc.",
-    "49": "Bạn"
+    "49": "Bạn",
+    "dir": "ltr"
 }

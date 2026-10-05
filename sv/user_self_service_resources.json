@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Översikt",
     "2": "Medel",
     "3": "Krediter",
@@ -39,5 +38,6 @@
     "37": "Referens",
     "38": "Tillämpad",
     "39": "Inga poäng hittades.",
-    "40": "När krediter läggs till på ditt konto, de kommer att dyka upp här."
+    "40": "När krediter läggs till på ditt konto, de kommer att dyka upp här.",
+    "dir": "ltr"
 }

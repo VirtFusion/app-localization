@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Creare server",
     "2": "Ce pachet de resurse doriți să utilizați pentru a crea acest server?",
     "3": "Creați un server orar sau selectați un pachet de resurse.",
@@ -44,5 +43,6 @@
     "42": "Selectați numărul de nuclee CPU de care aveți nevoie din opțiunile de mai jos. Numărul de nuclee determină câte sarcini poate procesa serverul dvs. simultan și afectează în mod direct performanța generală. Alegeți o opțiune care se potrivește cel mai bine volumului de muncă și aplicațiilor pe care intenționați să le rulați.",
     "43": "Selectați cantitatea de spațiu de stocare de care aveți nevoie din opțiunile de mai jos. Dimensiunea stocării determină cât de multe date, fișiere și aplicații poate stoca serverul dvs. Alegeți o opțiune care oferă suficient spațiu pentru nevoile dvs. actuale și permite spațiu pentru creșterea viitoare.",
     "44": "Configurați serverul selectând cantitatea de resurse de care aveți nevoie. Aceste opțiuni determină performanța și capacitatea serverului dvs., ajutându-vă să creați o configurație care să se potrivească nevoilor și utilizării dorite.",
-    "45": "Alocația de trafic pentru acest server este inclusă în pachetul de resurse selectat, deci nu este necesară nicio configurație suplimentară."
+    "45": "Alocația de trafic pentru acest server este inclusă în pachetul de resurse selectat, deci nu este necesară nicio configurație suplimentară.",
+    "dir": "ltr"
 }

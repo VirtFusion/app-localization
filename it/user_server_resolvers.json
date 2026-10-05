@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primario",
     "2": "Secondario",
     "3": "Sistema predefinito",
     "4": "Il resolver è stato aggiornato con successo. È necessario un riavvio prima di poter utilizzare i resolver.",
-    "5": "Non è stato possibile aggiornare i risolutori. Riprovare più tardi."
+    "5": "Non è stato possibile aggiornare i risolutori. Riprovare più tardi.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Les sauvegardes ne sont pas disponibles pour ce serveur",
     "2": "Dernière sauvegarde",
     "3": "En attente, prêt à démarrer...",
@@ -49,5 +48,18 @@
     "47": "minutes",
     "48": "minutes",
     "49": "Veuillez patienter",
-    "50": "avant de réessayer."
+    "50": "avant de réessayer.",
+    "53": "année",
+    "54": "années",
+    "55": "mois",
+    "56": "mois",
+    "57": "semaine",
+    "58": "semaines",
+    "59": "quotidien",
+    "60": "hebdomadaire",
+    "61": "mensuel",
+    "62": "annuel",
+    "63": "minimum",
+    "64": "conservé",
+    "dir": "ltr"
 }

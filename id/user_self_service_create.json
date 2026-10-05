@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Buat Server",
     "2": "Paket sumber daya mana yang ingin Anda gunakan untuk membuat server ini?",
     "3": "Buat server per jam atau pilih paket sumber daya.",
@@ -44,5 +43,6 @@
     "42": "Pilih jumlah inti CPU yang Anda perlukan dari opsi di bawah ini. Jumlah inti menentukan berapa banyak tugas yang dapat diproses server Anda secara bersamaan dan secara langsung memengaruhi kinerja secara keseluruhan. Pilih opsi yang paling sesuai dengan beban kerja dan aplikasi yang Anda rencanakan untuk dijalankan.",
     "43": "Pilih jumlah penyimpanan yang Anda perlukan dari opsi di bawah ini. Ukuran penyimpanan menentukan berapa banyak data, file, dan aplikasi yang dapat ditampung oleh server Anda. Pilih opsi yang menyediakan ruang yang cukup untuk kebutuhan Anda saat ini dan memberikan ruang untuk pertumbuhan di masa mendatang.",
     "44": "Siapkan server dengan memilih jumlah sumber daya yang Anda butuhkan. Opsi ini menentukan kinerja dan kapasitas server Anda, membantu Anda membuat pengaturan yang sesuai dengan kebutuhan dan tujuan penggunaan.",
-    "45": "Jatah lalu lintas untuk server ini termasuk dalam paket sumber daya yang dipilih, jadi tidak diperlukan konfigurasi tambahan."
+    "45": "Jatah lalu lintas untuk server ini termasuk dalam paket sumber daya yang dipilih, jadi tidak diperlukan konfigurasi tambahan.",
+    "dir": "ltr"
 }

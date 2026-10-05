@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Birincil",
     "2": "İkincil",
     "3": "Sistem Varsayılanı",
     "4": "Çözümleyici başarıyla güncellendi. Çözümleyicilerin kullanılabilmesi için yeniden başlatma gereklidir.",
-    "5": "Çözümleyiciler güncellenemedi. Daha sonra tekrar deneyin."
+    "5": "Çözümleyiciler güncellenemedi. Daha sonra tekrar deneyin.",
+    "dir": "ltr"
 }

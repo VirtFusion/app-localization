@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Yleiskatsaus",
     "2": "Resurssit",
     "3": "Laajuus",
@@ -39,5 +38,6 @@
     "37": "Viite",
     "38": "Sovellettu",
     "39": "Hyvityksiä ei löytynyt.",
-    "40": "Kun hyvityksiä lisätään tilillesi, ne näkyvät täällä."
+    "40": "Kun hyvityksiä lisätään tilillesi, ne näkyvät täällä.",
+    "dir": "ltr"
 }

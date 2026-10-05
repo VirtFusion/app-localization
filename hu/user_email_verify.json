@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kérjük, ellenőrizze az e-mail címét. Ez egy fontos lépés a fiókadatok biztonságának és pontosságának biztosítása érdekében. Az e-mail cím ellenőrzésének elmulasztása korlátozott funkciókat eredményezhet.",
     "2": "Adja meg az ellenőrző kódot",
     "3": "Ellenőrizze a  címet",
@@ -13,5 +12,6 @@
     "11": "Kijelentkezés",
     "12": "Az alábbi e-mail cím ellenőrzésre szorul:",
     "13": "Az ellenőrző e-mailt nem sikerült elküldeni. Kérjük, próbálja meg később újra.",
-    "14": "Kérjük, ellenőrizze az e-mail címét. Ez a fontos lépés biztosítja a fiókadatok biztonságát és pontosságát. A hitelesítési folyamat befejezéséig fiókja korlátozott marad."
+    "14": "Kérjük, ellenőrizze az e-mail címét. Ez a fontos lépés biztosítja a fiókadatok biztonságát és pontosságát. A hitelesítési folyamat befejezéséig fiókja korlátozott marad.",
+    "dir": "ltr"
 }

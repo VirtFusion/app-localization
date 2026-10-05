@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dátum",
     "2": "Beérkezett adatok",
     "3": "Továbbított adatok",
@@ -7,5 +6,6 @@
     "5": "Az adatok elérhetősége akár 24 órát is igénybe vehet",
     "6": "Havi használat",
     "7": "Napi használat",
-    "8": "Hónap vége"
+    "8": "Hónap vége",
+    "dir": "ltr"
 }

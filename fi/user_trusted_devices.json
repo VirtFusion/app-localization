@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Luotetut laitteet",
     "2": "Poista kaikki",
     "3": "Sinulla ei ole vielä luotetuiksi merkittyjä laitteita. Voit luottaa laitteeseen seuraavan kerran, kun kirjaudut sisään kaksivaiheisella todennuksella.",
@@ -32,5 +31,6 @@
     "30": "sekuntia",
     "31": "minuuttia",
     "32": "tuntia",
-    "33": "päivää"
+    "33": "päivää",
+    "dir": "ltr"
 }

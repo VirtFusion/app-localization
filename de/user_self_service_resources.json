@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Übersicht",
     "2": "Ressourcen",
     "3": "Kredite",
@@ -39,5 +38,6 @@
     "37": "Referenz",
     "38": "Angewandt",
     "39": "Keine Credits gefunden.",
-    "40": "Wenn Ihrem Konto Guthaben hinzugefügt werden, werden sie hier angezeigt."
+    "40": "Wenn Ihrem Konto Guthaben hinzugefügt werden, werden sie hier angezeigt.",
+    "dir": "ltr"
 }

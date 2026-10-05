@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Created",
     "3": "Awaiting",
@@ -39,5 +38,6 @@
     "37": "Create",
     "38": "Server",
     "39": "All Servers",
-    "40": "One or more of your servers are marked as maintenance and can't be accessed. The system your server resides on is currently undergoing maintenance and will be available again shortly."
+    "40": "One or more of your servers are marked as maintenance and can't be accessed. The system your server resides on is currently undergoing maintenance and will be available again shortly.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ehhez a szerverhez nem állnak rendelkezésre biztonsági másolatok",
     "2": "Utolsó biztonsági mentés",
     "3": "Sorban áll, indulásra vár...",
@@ -49,5 +48,18 @@
     "47": "perc",
     "48": "jegyzőkönyv",
     "49": "Kérjük, várjon",
-    "50": "mielőtt újra megpróbálná."
+    "50": "mielőtt újra megpróbálná.",
+    "53": "év",
+    "54": "évek",
+    "55": "hónap",
+    "56": "hónapok",
+    "57": "hét",
+    "58": "hetek",
+    "59": "naponta",
+    "60": "heti",
+    "61": "havonta",
+    "62": "éves",
+    "63": "minimum",
+    "64": "megtartott",
+    "dir": "ltr"
 }

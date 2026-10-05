@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Da li ste sigurni da želite da izbrišete ovaj domen?",
     "2": "Otkaži",
     "3": "Obriši",
@@ -57,5 +56,6 @@
     "55": "Greška. Nedostaju podaci pronađeni. Osvežite stranicu.",
     "56": "Portovi se uspešno ažuriraju. Može potrajati nekoliko minuta da se promene propagiraju.",
     "57": "Nisu izvršene nikakve promene.",
-    "58": "Ažuriranje"
+    "58": "Ažuriranje",
+    "dir": "ltr"
 }

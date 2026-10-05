@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Veuillez vérifier votre adresse électronique. Il s'agit d'une étape cruciale pour garantir la sécurité et l'exactitude des informations de votre compte. Si vous ne vérifiez pas votre adresse électronique, vous risquez de ne pas pouvoir utiliser toutes les fonctionnalités de votre compte.",
     "2": "Saisir le code de vérification",
     "3": "Vérifier",
@@ -13,5 +12,6 @@
     "11": "Déconnexion",
     "12": "L'adresse électronique suivante doit être vérifiée :",
     "13": "L'email de vérification n'a pas pu être envoyé, veuillez réessayer plus tard.",
-    "14": "Veuillez vérifier votre adresse électronique. Cette étape cruciale garantit la sécurité et l'exactitude des informations de votre compte. Votre compte restera restreint jusqu'à ce que la procédure de vérification soit terminée."
+    "14": "Veuillez vérifier votre adresse électronique. Cette étape cruciale garantit la sécurité et l'exactitude des informations de votre compte. Votre compte restera restreint jusqu'à ce que la procédure de vérification soit terminée.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Overzicht",
     "2": "Middelen",
     "3": "Credits",
@@ -39,5 +38,6 @@
     "37": "Referentie",
     "38": "Toegepast",
     "39": "Geen credits gevonden.",
-    "40": "Wanneer credits worden toegevoegd aan je account, zullen ze hier verschijnen."
+    "40": "Wanneer credits worden toegevoegd aan je account, zullen ze hier verschijnen.",
+    "dir": "ltr"
 }

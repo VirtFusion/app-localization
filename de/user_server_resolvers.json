@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primäre Seite",
     "2": "Sekundäres",
     "3": "System Default",
     "4": "Resolver erfolgreich aktualisiert. Bevor die Resolver verwendet werden können, ist ein Neustart erforderlich.",
-    "5": "Die Auflöser konnten nicht aktualisiert werden. Versuchen Sie es später noch einmal."
+    "5": "Die Auflöser konnten nicht aktualisiert werden. Versuchen Sie es später noch einmal.",
+    "dir": "ltr"
 }

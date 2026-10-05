@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Rediger ressourcepakke",
     "2": "Annuller",
     "3": "Gem",
@@ -26,5 +25,6 @@
     "24": "Brugt",
     "25": "af",
     "26": "Trafikforbrug for perioden",
-    "27": "til"
+    "27": "til",
+    "dir": "ltr"
 }

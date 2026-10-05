@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dato",
     "2": "Modtagne data",
     "3": "Overførte data",
@@ -7,5 +6,6 @@
     "5": "Data kan være op til 24 timer om at blive tilgængelige",
     "6": "Månedligt forbrug",
     "7": "Daglig brug",
-    "8": "Månedens afslutning"
+    "8": "Månedens afslutning",
+    "dir": "ltr"
 }

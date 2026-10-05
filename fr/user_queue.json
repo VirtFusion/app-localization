@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tâche",
     "2": "Serveur",
     "3": "Demandé",
@@ -27,5 +26,6 @@
     "25": "Une tâche de maintenance du système était en cours au moment où cette action a été demandée. Les demandes ultérieures sont susceptibles d'être annulées jusqu'à ce que la tâche de maintenance du système soit terminée. Réessayez dans cinq minutes.",
     "26": "Le système n'a pas répondu à la demande d'action. Les tentatives ultérieures seront probablement annulées jusqu'à ce que le système réponde normalement. Réessayez dans cinq minutes.",
     "27": "Le CD\/DVD n'a pas pu être inséré. Si un CD\/DVD personnalisé est utilisé, il se peut que le serveur distant ne soit pas configuré pour transmettre des données en continu. Il convient d'essayer d'utiliser une autre ressource. Cette erreur peut être résolue par un redémarrage du serveur.",
-    "28": "Le CD\/DVD n'a pas pu être éjecté. Cette erreur peut être résolue en arrêtant le serveur."
+    "28": "Le CD\/DVD n'a pas pu être éjecté. Cette erreur peut être résolue en arrêtant le serveur.",
+    "dir": "ltr"
 }

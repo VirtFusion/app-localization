@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Edit Paket Sumber Daya",
     "2": "Batal",
     "3": "Simpan",
@@ -26,5 +25,6 @@
     "24": "Digunakan",
     "25": "dari",
     "26": "Penggunaan lalu lintas untuk periode tersebut",
-    "27": "untuk"
+    "27": "untuk",
+    "dir": "ltr"
 }

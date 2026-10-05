@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Hej,",
     "2": "Dashboard",
     "3": "Deling",
@@ -71,5 +70,6 @@
     "69": "Trafik brugt indtil videre denne måned. Alle tider baseret på",
     "70": "Uge",
     "71": "Måned",
-    "72": "Konto"
+    "72": "Konto",
+    "dir": "ltr"
 }

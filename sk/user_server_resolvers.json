@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primárne",
     "2": "Sekundárne",
     "3": "Predvolené nastavenie systému",
     "4": "Resolver bol úspešne aktualizovaný. Pred použitím resolverov je potrebný reštart.",
-    "5": "Riešenia nebolo možné aktualizovať. Skúste to neskôr."
+    "5": "Riešenia nebolo možné aktualizovať. Skúste to neskôr.",
+    "dir": "ltr"
 }

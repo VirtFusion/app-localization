@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Redigera resurspaket",
     "2": "Avbryt",
     "3": "Spara",
@@ -26,5 +25,6 @@
     "24": "Begagnade",
     "25": "av",
     "26": "Trafikanvändning för perioden",
-    "27": "till"
+    "27": "till",
+    "dir": "ltr"
 }

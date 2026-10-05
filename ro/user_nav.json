@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tablou de bord",
     "2": "Servere",
     "3": "Chei SSH",
@@ -12,5 +11,6 @@
     "10": "Întuneric (Gri)",
     "11": "Întuneric (negru)",
     "12": "Deconectare",
-    "13": "Cont"
+    "13": "Cont",
+    "dir": "ltr"
 }

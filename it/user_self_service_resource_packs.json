@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Modifica del pacchetto di risorse",
     "2": "Annullamento",
     "3": "Risparmiare",
@@ -26,5 +25,6 @@
     "24": "Usato",
     "25": "di",
     "26": "Utilizzo del traffico per il periodo",
-    "27": "a"
+    "27": "a",
+    "dir": "ltr"
 }

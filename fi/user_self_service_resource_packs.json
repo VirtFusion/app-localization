@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Muokkaa resurssipakettia",
     "2": "Peruuta",
     "3": "Tallentaa",
@@ -26,5 +25,6 @@
     "24": "Käytetty",
     "25": "tai",
     "26": "Liikenteen käyttö ajanjaksolla",
-    "27": "siihen"
+    "27": "siihen",
+    "dir": "ltr"
 }

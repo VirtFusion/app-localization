@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Compito",
     "2": "Server",
     "3": "Richiesto",
@@ -27,5 +26,6 @@
     "25": "Al momento della richiesta di questa azione era in corso un'attività di manutenzione del sistema. È probabile che ulteriori richieste vengano annullate fino al completamento dell'attività di manutenzione del sistema. Riprovare tra cinque minuti.",
     "26": "Il sistema non ha risposto alla richiesta di azione. È probabile che ulteriori tentativi vengano annullati finché il sistema non risponde normalmente. Riprovare tra cinque minuti.",
     "27": "Non è stato possibile inserire il CD\/DVD. Se si utilizza un CD\/DVD personalizzato, è possibile che il server remoto non sia configurato per lo streaming dei dati. È necessario provare a utilizzare un'altra risorsa. Questo errore può essere risolto con un riavvio del server.",
-    "28": "Non è stato possibile espellere il CD\/DVD. Questo errore può essere risolto con l'arresto del server."
+    "28": "Non è stato possibile espellere il CD\/DVD. Questo errore può essere risolto con l'arresto del server.",
+    "dir": "ltr"
 }

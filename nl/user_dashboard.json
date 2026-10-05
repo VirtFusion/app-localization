@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Gegroet,",
     "2": "Dashboard",
     "3": "Het delen van",
@@ -71,5 +70,6 @@
     "69": "Verkeer gebruikt tot nu toe deze maand. Alle tijden gebaseerd op",
     "70": "Wk",
     "71": "Mo",
-    "72": "Account"
+    "72": "Account",
+    "dir": "ltr"
 }

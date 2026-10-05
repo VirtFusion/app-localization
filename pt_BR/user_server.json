@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Excluir backup",
     "2": "Tem certeza de que deseja excluir esse backup?",
     "3": "Cancelar",
@@ -378,5 +377,7 @@
     "379": "Informações da CPU indisponíveis",
     "380": "Dependendo do sistema operacional instalado e do estado ativo do servidor, talvez não seja possível visualizar a utilização da CPU.",
     "381": "O tráfego de rede gerado por esse servidor é coberto pelo",
-    "382": "permissão de tráfego do pacote de recursos."
+    "382": "permissão de tráfego do pacote de recursos.",
+    "383": "Acima do limite",
+    "dir": "ltr"
 }

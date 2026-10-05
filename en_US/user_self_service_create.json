@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Create Server",
     "2": "Which resource pack would you like to use to create this server?",
     "3": "Create an hourly server or select a resource pack.",
@@ -44,5 +43,6 @@
     "42": "Select the number of CPU cores you require from the options below. The number of cores determines how many tasks your server can process simultaneously and directly affects overall performance. Choose an option that best suits the workload and applications you plan to run.",
     "43": "Select the amount of storage you require from the options below. The storage size determines how much data, files, and applications your server can hold. Choose an option that provides enough space for your current needs and allows room for future growth.",
     "44": "Set up the server by selecting the amount of resources you need. These options determine your server’s performance and capacity, helping you create a setup that fits your needs and intended use.",
-    "45": "The traffic allowance for this server is included in the selected resource pack, so no additional configuration is required."
+    "45": "The traffic allowance for this server is included in the selected resource pack, so no additional configuration is required.",
+    "dir": "ltr"
 }

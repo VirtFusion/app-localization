@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Áttekintés",
     "2": "Források",
     "3": "Hitelek",
@@ -39,5 +38,6 @@
     "37": "Hivatkozás",
     "38": "Alkalmazott",
     "39": "Nem találtak kreditpontokat.",
-    "40": "Amikor kreditek kerülnek a számládra, azok itt jelennek meg."
+    "40": "Amikor kreditek kerülnek a számládra, azok itt jelennek meg.",
+    "dir": "ltr"
 }

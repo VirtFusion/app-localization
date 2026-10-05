@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Prístrojová doska",
     "2": "Servery",
     "3": "Kľúče SSH",
@@ -12,5 +11,6 @@
     "10": "Tmavý (sivý)",
     "11": "Tmavý (čierny)",
     "12": "Odhlásenie",
-    "13": "Účet"
+    "13": "Účet",
+    "dir": "ltr"
 }

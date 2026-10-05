@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Salam,",
     "2": "Dasbor",
     "3": "Berbagi",
@@ -71,5 +70,6 @@
     "69": "Lalu lintas yang digunakan sepanjang bulan ini. Semua waktu berdasarkan",
     "70": "Wk",
     "71": "Mo",
-    "72": "Akun"
+    "72": "Akun",
+    "dir": "ltr"
 }

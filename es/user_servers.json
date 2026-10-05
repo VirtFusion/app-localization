@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Estado",
     "2": "Creado",
     "3": "A la espera de",
@@ -39,5 +38,6 @@
     "37": "Cree",
     "38": "Servidor",
     "39": "Todos los servidores",
-    "40": "Uno o más de sus servidores están marcados como en mantenimiento y no se puede acceder a ellos. El sistema en el que reside su servidor está actualmente en mantenimiento y volverá a estar disponible en breve."
+    "40": "Uno o más de sus servidores están marcados como en mantenimiento y no se puede acceder a ellos. El sistema en el que reside su servidor está actualmente en mantenimiento y volverá a estar disponible en breve.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Edit Resource Pack",
     "2": "Annuler",
     "3": "Économiser",
@@ -26,5 +25,6 @@
     "24": "Utilisé",
     "25": "de",
     "26": "Utilisation du trafic pour la période",
-    "27": "à"
+    "27": "à",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dasbor",
     "2": "Server",
     "3": "Kunci SSH",
@@ -12,5 +11,6 @@
     "10": "Gelap (Abu-abu)",
     "11": "Gelap (Hitam)",
     "12": "Keluar",
-    "13": "Akun"
+    "13": "Akun",
+    "dir": "ltr"
 }

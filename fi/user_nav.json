@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kojelauta",
     "2": "Palvelimet",
     "3": "SSH-näppäimet",
@@ -12,5 +11,6 @@
     "10": "Tumma (harmaa)",
     "11": "Tumma (musta)",
     "12": "Kirjaudu ulos",
-    "13": "Tili"
+    "13": "Tili",
+    "dir": "ltr"
 }

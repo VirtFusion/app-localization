@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sicherung löschen",
     "2": "Sind Sie sicher, dass Sie diese Sicherung löschen wollen?",
     "3": "Abbrechen",
@@ -378,5 +377,7 @@
     "379": "CPU-Informationen nicht verfügbar",
     "380": "Je nach installiertem Betriebssystem und aktivem Zustand des Servers ist es möglicherweise nicht möglich, die CPU-Auslastung anzuzeigen.",
     "381": "Der von diesem Server erzeugte Netzwerkverkehr fällt unter die",
-    "382": "ressourcenpaket-Verkehrsmenge."
+    "382": "ressourcenpaket-Verkehrsmenge.",
+    "383": "Über dem Limit",
+    "dir": "ltr"
 }

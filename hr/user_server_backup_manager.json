@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sigurnosne kopije nisu dostupne za ovaj poslužitelj",
     "2": "Posljednja sigurnosna kopija",
     "3": "U redu, čekajući da počnem...",
@@ -49,5 +48,18 @@
     "47": "minuta",
     "48": "minuta",
     "49": "Molim pričekajte",
-    "50": "prije ponovnog pokušaja."
+    "50": "prije ponovnog pokušaja.",
+    "53": "godinu",
+    "54": "godine",
+    "55": "mjesec",
+    "56": "mjeseci",
+    "57": "tjedan",
+    "58": "tjedni",
+    "59": "dnevno",
+    "60": "tjedni",
+    "61": "mjesečno",
+    "62": "godišnje",
+    "63": "minimum",
+    "64": "zadržan",
+    "dir": "ltr"
 }

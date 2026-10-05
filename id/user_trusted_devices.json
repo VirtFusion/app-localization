@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Perangkat Tepercaya",
     "2": "Hapus Semua",
     "3": "Anda belum memiliki perangkat yang ditandai sebagai tepercaya. Anda dapat mempercayai perangkat saat berikutnya Anda masuk menggunakan autentikasi dua faktor.",
@@ -32,5 +31,6 @@
     "30": "detik",
     "31": "menit",
     "32": "jam",
-    "33": "hari"
+    "33": "hari",
+    "dir": "ltr"
 }

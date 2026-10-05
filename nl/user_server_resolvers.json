@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primair",
     "2": "Secundair",
     "3": "Systeem Standaard",
     "4": "Resolver succesvol bijgewerkt. Er is een herstart nodig voordat de resolvers gebruikt kunnen worden.",
-    "5": "Resolvers konden niet worden bijgewerkt. Probeer het later nog eens."
+    "5": "Resolvers konden niet worden bijgewerkt. Probeer het later nog eens.",
+    "dir": "ltr"
 }

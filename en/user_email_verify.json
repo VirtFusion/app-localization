@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Please Verify your email address. This is a crucial step to ensure the security and accuracy of your account information. Failing to verify your email address may result in restricted functionality.",
     "2": "Enter verification code",
     "3": "Verify",
@@ -13,5 +12,6 @@
     "11": "Logout",
     "12": "The following email address requires verification:",
     "13": "The verification email could not be sent. Please try again later.",
-    "14": "Please verify your email address. This crucial step ensures the security and accuracy of your account information. Your account will remain restricted until the verification process has been completed."
+    "14": "Please verify your email address. This crucial step ensures the security and accuracy of your account information. Your account will remain restricted until the verification process has been completed.",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Salutări,",
     "2": "Tablou de bord",
     "3": "Partajare",
@@ -71,5 +70,6 @@
     "69": "Traficul folosit până în această lună. Toate timpurile bazate pe",
     "70": "Week",
     "71": "Mo",
-    "72": "Cont"
+    "72": "Cont",
+    "dir": "ltr"
 }

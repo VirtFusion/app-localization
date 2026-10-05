@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dodaj klucz SSH",
     "2": "Nazwa",
     "3": "Przypadkowa nazwa?",
@@ -48,5 +47,6 @@
     "46": "Klucz został pomyślnie wyłączony.",
     "47": "Nazwa musi zawierać od 3 do 100 znaków i jest polem wymaganym.",
     "48": "Klucz publiczny musi być prawidłowym kluczem i jest polem wymaganym.",
-    "49": "Ty"
+    "49": "Ty",
+    "dir": "ltr"
 }

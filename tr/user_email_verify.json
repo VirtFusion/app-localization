@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Lütfen e-posta adresinizi doğrulayın. Bu, hesap bilgilerinizin güvenliğini ve doğruluğunu sağlamak için çok önemli bir adımdır. E-posta adresinizi doğrulamamanız, işlevselliğinizin kısıtlanmasına neden olabilir.",
     "2": "Doğrulama kodunu girin",
     "3": "Doğrulama",
@@ -13,5 +12,6 @@
     "11": "Oturum Kapatma",
     "12": "Aşağıdaki e-posta adresi doğrulama gerektirmektedir:",
     "13": "Doğrulama e-postası gönderilemedi. Lütfen daha sonra tekrar deneyin.",
-    "14": "Lütfen e-posta adresinizi doğrulayın. Bu önemli adım, hesap bilgilerinizin güvenliğini ve doğruluğunu sağlar. Doğrulama işlemi tamamlanana kadar hesabınız kısıtlı kalacaktır."
+    "14": "Lütfen e-posta adresinizi doğrulayın. Bu önemli adım, hesap bilgilerinizin güvenliğini ve doğruluğunu sağlar. Doğrulama işlemi tamamlanana kadar hesabınız kısıtlı kalacaktır.",
+    "dir": "ltr"
 }

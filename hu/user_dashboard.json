@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Üdvözletem,",
     "2": "Műszerfal",
     "3": "Megosztás",
@@ -71,5 +70,6 @@
     "69": "Az ebben a hónapban eddig felhasznált forgalom. Minden időpont a következő adatokon alapul",
     "70": "Wk",
     "71": "Mo",
-    "72": "Számla"
+    "72": "Számla",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Műszerfal",
     "2": "Szerverek",
     "3": "SSH kulcsok",
@@ -12,5 +11,6 @@
     "10": "Sötét (szürke)",
     "11": "Sötét (fekete)",
     "12": "Kijelentkezés",
-    "13": "Számla"
+    "13": "Számla",
+    "dir": "ltr"
 }

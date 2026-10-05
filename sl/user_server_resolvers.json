@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Osnovni",
     "2": "Sekundarno",
     "3": "Privzeta nastavitev sistema",
     "4": "Razreševalnik je bil uspešno posodobljen. Pred uporabo razreševalnikov je potreben ponovni zagon.",
-    "5": "Reševalnikov ni bilo mogoče posodobiti. Poskusite pozneje."
+    "5": "Reševalnikov ni bilo mogoče posodobiti. Poskusite pozneje.",
+    "dir": "ltr"
 }

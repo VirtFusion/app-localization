@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Biztonsági mentés törlése",
     "2": "Biztos, hogy törölni szeretné ezt a biztonsági másolatot?",
     "3": "Törölje",
@@ -378,5 +377,7 @@
     "379": "CPU információ nem elérhető",
     "380": "A telepített operációs rendszertől és a kiszolgáló aktív állapotától függően előfordulhat, hogy a CPU-kihasználtságot nem lehet megtekinteni.",
     "381": "Az e kiszolgáló által generált hálózati forgalomra a",
-    "382": "erőforrás csomag forgalmi engedélye."
+    "382": "erőforrás csomag forgalmi engedélye.",
+    "383": "A limit túllépése",
+    "dir": "ltr"
 }

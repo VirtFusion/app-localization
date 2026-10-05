@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Feladat",
     "2": "Szerver",
     "3": "Kért",
@@ -27,5 +26,6 @@
     "25": "A művelet kérésének időpontjában egy rendszerkarbantartási feladat volt folyamatban. A további kérések valószínűleg törlésre kerülnek, amíg a rendszerkarbantartási feladat be nem fejeződik. Próbálja meg újra öt perc múlva.",
     "26": "A rendszer nem válaszolt a műveleti kérésre. A további próbálkozások valószínűleg megszakadnak, amíg a rendszer nem reagál rendesen. Próbálja meg újra öt perc múlva.",
     "27": "A CD\/DVD-t nem sikerült behelyezni. Ha egyéni CD\/DVD-t használ, akkor a távoli kiszolgálót nem lehet adatfolyamra konfigurálni. Más erőforrással kell próbálkozni. Ez a hiba a kiszolgáló újraindításával megoldható.",
-    "28": "A CD\/DVD nem tudott kinyomódni. Ez a hiba a kiszolgáló leállításával orvosolható."
+    "28": "A CD\/DVD nem tudott kinyomódni. Ez a hiba a kiszolgáló leállításával orvosolható.",
+    "dir": "ltr"
 }

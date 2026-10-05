@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sao lưu không khả dụng cho máy chủ này",
     "2": "Sao lưu cuối cùng",
     "3": "Đang xếp hàng, chờ đợi để bắt đầu...",
@@ -49,5 +48,18 @@
     "47": "phút",
     "48": "phút",
     "49": "Vui lòng chờ đợi",
-    "50": "trước khi thử lại."
+    "50": "trước khi thử lại.",
+    "53": "năm",
+    "54": "năm",
+    "55": "tháng",
+    "56": "tháng",
+    "57": "tuần",
+    "58": "tuần",
+    "59": "hằng ngày",
+    "60": "hàng tuần",
+    "61": "hàng tháng",
+    "62": "hàng năm",
+    "63": "tối thiểu",
+    "64": "giữ lại",
+    "dir": "ltr"
 }

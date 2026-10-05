@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Saludos,",
     "2": "Cuadro de mandos",
     "3": "Compartir",
@@ -71,5 +70,6 @@
     "69": "Tráfico utilizado en lo que va de mes. Todos los tiempos basados en",
     "70": "Semana",
     "71": "Mo",
-    "72": "Cuenta"
+    "72": "Cuenta",
+    "dir": "ltr"
 }

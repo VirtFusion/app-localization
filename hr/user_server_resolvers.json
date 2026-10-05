@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primarni",
     "2": "Sekundarni",
     "3": "Zadani sustav",
     "4": "Resolver uspješno ažuriran. Ponovno pokretanje je potrebno prije nego što se razrješivači mogu koristiti.",
-    "5": "Rješavači se ne mogu ažurirati. Pokušaj ponovo kasnije."
+    "5": "Rješavači se ne mogu ažurirati. Pokušaj ponovo kasnije.",
+    "dir": "ltr"
 }

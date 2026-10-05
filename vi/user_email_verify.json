@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vui lòng xác minh địa chỉ email của bạn. Đây là một bước quan trọng để đảm bảo tính bảo mật và chính xác của thông tin tài khoản của bạn. Việc không xác minh địa chỉ email của bạn có thể dẫn đến chức năng bị hạn chế.",
     "2": "Nhập mã xác minh",
     "3": "Xác minh",
@@ -13,5 +12,6 @@
     "11": "Đăng xuất",
     "12": "Địa chỉ email sau yêu cầu xác minh:",
     "13": "Không thể gửi email xác minh. Vui lòng thử lại sau.",
-    "14": "Vui lòng xác minh địa chỉ email của bạn. Bước quan trọng này đảm bảo tính bảo mật và chính xác của thông tin tài khoản của bạn. Tài khoản của bạn sẽ vẫn bị hạn chế cho đến khi quá trình xác minh hoàn tất."
+    "14": "Vui lòng xác minh địa chỉ email của bạn. Bước quan trọng này đảm bảo tính bảo mật và chính xác của thông tin tài khoản của bạn. Tài khoản của bạn sẽ vẫn bị hạn chế cho đến khi quá trình xác minh hoàn tất.",
+    "dir": "ltr"
 }

@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Tiểu học",
     "2": "Trung học",
     "3": "Hệ thống mặc định",
     "4": "Trình giải quyết được cập nhật thành công. Khởi động lại được yêu cầu trước khi có thể sử dụng các bộ phân giải.",
-    "5": "Không thể cập nhật trình giải quyết. Thử lại sau."
+    "5": "Không thể cập nhật trình giải quyết. Thử lại sau.",
+    "dir": "ltr"
 }

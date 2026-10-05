@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Slet Backup",
     "2": "Er du sikker på, at du vil slette denne backup?",
     "3": "Annuller",
@@ -378,5 +377,7 @@
     "379": "CPU-information utilgængelig",
     "380": "Afhængigt af det installerede operativsystem og serverens aktive tilstand er det muligvis ikke muligt at se CPU-udnyttelsen.",
     "381": "Netværkstrafik, der genereres af denne server, er dækket af",
-    "382": "ressourcepakkens trafiktilladelse."
+    "382": "ressourcepakkens trafiktilladelse.",
+    "383": "Over grænsen",
+    "dir": "ltr"
 }

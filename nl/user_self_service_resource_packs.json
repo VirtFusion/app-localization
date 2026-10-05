@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Hulpmiddelenpakket bewerken",
     "2": "Annuleren",
     "3": "Sla",
@@ -26,5 +25,6 @@
     "24": "Gebruikt",
     "25": "van",
     "26": "Verkeersgebruik voor de periode",
-    "27": "naar"
+    "27": "naar",
+    "dir": "ltr"
 }

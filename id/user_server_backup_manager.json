@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Cadangan tidak tersedia untuk server ini",
     "2": "Cadangan terakhir",
     "3": "Sedang mengantre, menunggu untuk dimulai...",
@@ -49,5 +48,18 @@
     "47": "menit",
     "48": "menit",
     "49": "Mohon tunggu",
-    "50": "sebelum mencobanya lagi."
+    "50": "sebelum mencobanya lagi.",
+    "53": "tahun",
+    "54": "tahun",
+    "55": "bulan",
+    "56": "bulan",
+    "57": "minggu",
+    "58": "minggu",
+    "59": "setiap hari",
+    "60": "mingguan",
+    "61": "bulanan",
+    "62": "setiap tahun",
+    "63": "minimum",
+    "64": "tetap",
+    "dir": "ltr"
 }

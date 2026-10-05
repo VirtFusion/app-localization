@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Opgave",
     "2": "Server",
     "3": "Anmodet",
@@ -27,5 +26,6 @@
     "25": "En systemvedligeholdelsesopgave var i gang, da denne handling blev anmodet om. Yderligere anmodninger vil sandsynligvis blive annulleret, indtil systemvedligeholdelsesopgaven er fuldført. Prøv igen om fem minutter.",
     "26": "Systemet svarede ikke på anmodningen om handling. Yderligere forsøg vil sandsynligvis blive annulleret, indtil systemet reagerer normalt. Prøv igen om fem minutter.",
     "27": "CD\/DVD'en kunne ikke indsættes. Hvis en brugerdefineret CD\/DVD bruges, er den fjernserver muligvis ikke konfigureret til at streame data. Et andet ressource bør forsøges. Denne fejl kan muligvis løses med en genstart af serveren.",
-    "28": "CD\/DVD'en kunne ikke skubbes ud. Denne fejl kan løses med genstart af serveren."
+    "28": "CD\/DVD'en kunne ikke skubbes ud. Denne fejl kan løses med genstart af serveren.",
+    "dir": "ltr"
 }

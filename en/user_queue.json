@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Task",
     "2": "Server",
     "3": "Requested",
@@ -27,5 +26,6 @@
     "25": "A system maintenance task was in progress at the time this action was requested. Further requests are likely to be cancelled until the system maintenance task has completed. Try again in five minutes.",
     "26": "The system failed to respond to the action request. Further attempts are likely to be cancelled until the system is responding normally. Try again in five minutes.",
     "27": "The CD\/DVD could not be inserted. If a custom CD\/DVD is being used, the remote server may not be configured to stream data. A different resource should be attempted. This error may be resolvable with a server reboot.",
-    "28": "The CD\/DVD could not be ejected. This error is resolvable with a server shutdown."
+    "28": "The CD\/DVD could not be ejected. This error is resolvable with a server shutdown.",
+    "dir": "ltr"
 }

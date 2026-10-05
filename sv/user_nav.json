@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dashboard",
     "2": "Servrar",
     "3": "SSH-nycklar",
@@ -12,5 +11,6 @@
     "10": "Mörk (grå)",
     "11": "Mörk (Svart)",
     "12": "Logga ut",
-    "13": "Konto"
+    "13": "Konto",
+    "dir": "ltr"
 }

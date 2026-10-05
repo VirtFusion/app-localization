@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vänligen verifiera din e-postadress. Detta är ett viktigt steg för att säkerställa säkerheten och riktigheten i din kontoinformation. Underlåtenhet att verifiera din e-postadress kan leda till begränsad funktionalitet.",
     "2": "Ange verifieringskod",
     "3": "Verifiera",
@@ -13,5 +12,6 @@
     "11": "Logga ut",
     "12": "Följande e-postadress kräver verifiering:",
     "13": "Verifierings-e-postmeddelandet kunde inte skickas. Försök igen senare.",
-    "14": "Vänligen verifiera din e-postadress. Detta viktiga steg säkerställer säkerheten och noggrannheten i din kontoinformation. Ditt konto kommer att förbli begränsat tills verifieringsprocessen har slutförts."
+    "14": "Vänligen verifiera din e-postadress. Detta viktiga steg säkerställer säkerheten och noggrannheten i din kontoinformation. Ditt konto kommer att förbli begränsat tills verifieringsprocessen har slutförts.",
+    "dir": "ltr"
 }

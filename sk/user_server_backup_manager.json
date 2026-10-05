@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pre tento server nie sú k dispozícii zálohy",
     "2": "Posledná záloha",
     "3": "V poradí, čaká na spustenie...",
@@ -49,5 +48,18 @@
     "47": "minúty",
     "48": "minúty",
     "49": "Prosím, počkajte",
-    "50": "predtým, ako to skúsite znova."
+    "50": "predtým, ako to skúsite znova.",
+    "53": "rok",
+    "54": "roky",
+    "55": "mesiac",
+    "56": "mesiace",
+    "57": "týždeň",
+    "58": "týždne",
+    "59": "každý deň",
+    "60": "týždenne",
+    "61": "mesačne",
+    "62": "ročne",
+    "63": "minimálne",
+    "64": "zachované",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Lisää SSH-näppäin",
     "2": "Nimi",
     "3": "Satunnainen nimi?",
@@ -48,5 +47,6 @@
     "46": "Avain poistettu käytöstä onnistuneesti.",
     "47": "Nimen on oltava 3—100 merkkiä ja se on pakollinen kenttä.",
     "48": "Julkisen avaimen on oltava kelvollinen avain ja pakollinen kenttä.",
-    "49": "Sinä"
+    "49": "Sinä",
+    "dir": "ltr"
 }

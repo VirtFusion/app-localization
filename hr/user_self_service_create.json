@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Stvori poslužitelj",
     "2": "Koji resursni paket želite koristiti za stvaranje ovog poslužitelja?",
     "3": "Stvorite poslužitelj po satu ili odaberite paket resursa.",
@@ -44,5 +43,6 @@
     "42": "Odaberite broj CPU jezgri koji vam je potreban iz opcija u nastavku. Broj jezgri određuje koliko zadataka vaš poslužitelj može obraditi istovremeno i izravno utječe na ukupne performanse. Odaberite opciju koja najbolje odgovara opterećenju i aplikacijama koje planirate pokrenuti.",
     "43": "Odaberite količinu prostora za pohranu koja vam je potrebna iz opcija u nastavku. Veličina pohrane određuje koliko podataka, datoteka i aplikacija vaš poslužitelj može zadržati. Odaberite opciju koja pruža dovoljno prostora za vaše trenutne potrebe i omogućuje prostor za budući rast.",
     "44": "Postavite poslužitelj odabirom količine resursa koji su vam potrebni. Ove opcije određuju performanse i kapacitet vašeg poslužitelja, pomažući vam da stvorite postavku koja odgovara vašim potrebama i namjeravanoj uporabi.",
-    "45": "Dopuštenost prometa za ovaj poslužitelj uključena je u odabrani paket resursa, tako da nije potrebna dodatna konfiguracija."
+    "45": "Dopuštenost prometa za ovaj poslužitelj uključena je u odabrani paket resursa, tako da nije potrebna dodatna konfiguracija.",
+    "dir": "ltr"
 }

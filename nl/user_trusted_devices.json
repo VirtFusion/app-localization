@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Vertrouwde apparaten",
     "2": "Alles verwijderen",
     "3": "Je hebt nog geen apparaten gemarkeerd als vertrouwd. Je kunt een apparaat de volgende keer dat je je aanmeldt met tweefactorauthenticatie vertrouwen.",
@@ -32,5 +31,6 @@
     "30": "secs",
     "31": "minuten",
     "32": "uren",
-    "33": "dagen"
+    "33": "dagen",
+    "dir": "ltr"
 }

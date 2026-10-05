@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "La verifica dell'indirizzo e-mail è un passaggio fondamentale per garantire la sicurezza e l'accuratezza dei dati dell'account. La mancata verifica dell'indirizzo e-mail può comportare una limitazione delle funzionalità.",
     "2": "Inserire il codice di verifica",
     "3": "Verifica",
@@ -13,5 +12,6 @@
     "11": "Disconnessione",
     "12": "Il seguente indirizzo e-mail richiede una verifica:",
     "13": "Non è stato possibile inviare l'e-mail di verifica. Riprovare più tardi.",
-    "14": "Questa fase cruciale garantisce la sicurezza e l'accuratezza delle informazioni del vostro account. Il vostro account rimarrà limitato fino al completamento del processo di verifica."
+    "14": "Questa fase cruciale garantisce la sicurezza e l'accuratezza delle informazioni del vostro account. Il vostro account rimarrà limitato fino al completamento del processo di verifica.",
+    "dir": "ltr"
 }

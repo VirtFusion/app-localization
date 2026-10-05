@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sunucu Oluştur",
     "2": "Bu sunucuyu oluşturmak için hangi kaynak paketini kullanmak istersiniz?",
     "3": "Bir saatlik sunucu oluşturun veya bir kaynak paketi seçin.",
@@ -44,5 +43,6 @@
     "42": "Aşağıdaki seçeneklerden ihtiyacınız olan CPU çekirdeği sayısını seçin. Çekirdek sayısı, sunucunuzun aynı anda kaç görevi işleyebileceğini belirler ve genel performansı doğrudan etkiler. Çalıştırmayı planladığınız iş yüküne ve uygulamalara en uygun seçeneği seçin.",
     "43": "Aşağıdaki seçeneklerden ihtiyacınız olan depolama miktarını seçin. Depolama boyutu, sunucunuzun ne kadar veri, dosya ve uygulama tutabileceğini belirler. Mevcut ihtiyaçlarınız için yeterli alan sağlayan ve gelecekteki büyüme için yer açan bir seçenek seçin.",
     "44": "İhtiyacınız olan kaynak miktarını seçerek sunucuyu kurun. Bu seçenekler sunucunuzun performansını ve kapasitesini belirleyerek ihtiyaçlarınıza ve kullanım amacınıza uygun bir kurulum oluşturmanıza yardımcı olur.",
-    "45": "Bu sunucu için trafik ödeneği seçilen kaynak paketine dahil edilmiştir, bu nedenle ek yapılandırma gerekmez."
+    "45": "Bu sunucu için trafik ödeneği seçilen kaynak paketine dahil edilmiştir, bu nedenle ek yapılandırma gerekmez.",
+    "dir": "ltr"
 }

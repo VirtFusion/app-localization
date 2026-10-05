@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Stato",
     "2": "Creato",
     "3": "In attesa",
@@ -39,5 +38,6 @@
     "37": "Creare",
     "38": "Server",
     "39": "Tutti i server",
-    "40": "Uno o più server sono contrassegnati come in manutenzione e non sono accessibili. Il sistema su cui risiede il vostro server è attualmente in manutenzione e sarà nuovamente disponibile a breve."
+    "40": "Uno o più server sono contrassegnati come in manutenzione e non sono accessibili. Il sistema su cui risiede il vostro server è attualmente in manutenzione e sarà nuovamente disponibile a breve.",
+    "dir": "ltr"
 }

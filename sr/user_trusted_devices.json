@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pouzdani uređaji",
     "2": "Ukloni sve",
     "3": "Još nemate nijedan uređaj označen kao pouzdan. Možete da verujete uređaju sledeći put kada se prijavite koristeći dvofaktorsku autentifikaciju.",
@@ -32,5 +31,6 @@
     "30": "sekunde",
     "31": "min",
     "32": "sati",
-    "33": "dana"
+    "33": "dana",
+    "dir": "ltr"
 }

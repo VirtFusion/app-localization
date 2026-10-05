@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primär",
     "2": "Sekundär",
     "3": "System Standard",
     "4": "Resolver uppdaterades framgångsrikt. En omstart krävs innan upplösarna kan användas.",
-    "5": "Lösare kunde inte uppdateras. Försök igen senare."
+    "5": "Lösare kunde inte uppdateras. Försök igen senare.",
+    "dir": "ltr"
 }

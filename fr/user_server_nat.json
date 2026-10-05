@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Êtes-vous sûr de vouloir supprimer ce domaine ?",
     "2": "Annuler",
     "3": "Supprimer",
@@ -57,5 +56,6 @@
     "55": "Erreur. Données manquantes trouvées. Veuillez rafraîchir la page.",
     "56": "Les ports ont été mis à jour avec succès. La propagation des modifications peut prendre quelques minutes.",
     "57": "Aucune modification n'a été apportée.",
-    "58": "Mise à jour"
+    "58": "Mise à jour",
+    "dir": "ltr"
 }

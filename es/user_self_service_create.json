@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Crear servidor",
     "2": "¿Qué paquete de recursos desea utilizar para crear este servidor?",
     "3": "Cree un servidor horario o seleccione un paquete de recursos.",
@@ -44,5 +43,6 @@
     "42": "Seleccione el número de núcleos de CPU que necesita entre las opciones siguientes. El número de núcleos determina cuántas tareas puede procesar simultáneamente su servidor y afecta directamente al rendimiento general. Elija la opción que mejor se adapte a la carga de trabajo y a las aplicaciones que tiene previsto ejecutar.",
     "43": "Seleccione la cantidad de almacenamiento que necesita entre las opciones siguientes. El tamaño del almacenamiento determina la cantidad de datos, archivos y aplicaciones que puede contener su servidor. Elija una opción que le proporcione espacio suficiente para sus necesidades actuales y que le permita crecer en el futuro.",
     "44": "Configure el servidor seleccionando la cantidad de recursos que necesita. Estas opciones determinan el rendimiento y la capacidad de su servidor, ayudándole a crear una configuración que se adapte a sus necesidades y al uso previsto.",
-    "45": "La asignación de tráfico para este servidor está incluida en el paquete de recursos seleccionado, por lo que no se requiere ninguna configuración adicional."
+    "45": "La asignación de tráfico para este servidor está incluida en el paquete de recursos seleccionado, por lo que no se requiere ninguna configuración adicional.",
+    "dir": "ltr"
 }

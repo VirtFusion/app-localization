@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Durum",
     "2": "Oluşturuldu",
     "3": "Bekliyorum",
@@ -39,5 +38,6 @@
     "37": "Oluştur",
     "38": "Sunucu",
     "39": "Tüm Sunucular",
-    "40": "Sunucularınızdan biri veya daha fazlası bakım olarak işaretlendi ve erişilemiyor. Sunucunuzun bulunduğu sistem şu anda bakımdan geçmektedir ve kısa süre içinde tekrar kullanıma açılacaktır."
+    "40": "Sunucularınızdan biri veya daha fazlası bakım olarak işaretlendi ve erişilemiyor. Sunucunuzun bulunduğu sistem şu anda bakımdan geçmektedir ve kısa süre içinde tekrar kullanıma açılacaktır.",
+    "dir": "ltr"
 }

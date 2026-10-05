@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Ikhtisar",
     "2": "Sumber daya",
     "3": "Kredit",
@@ -39,5 +38,6 @@
     "37": "Referensi",
     "38": "Diterapkan",
     "39": "Tidak ada kredit yang ditemukan.",
-    "40": "Ketika kredit ditambahkan ke akun Anda, kredit akan muncul di sini."
+    "40": "Ketika kredit ditambahkan ke akun Anda, kredit akan muncul di sini.",
+    "dir": "ltr"
 }

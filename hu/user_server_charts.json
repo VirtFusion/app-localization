@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Statisztikák",
     "2": "Hálózati forgalom (elsődleges)",
     "3": "Hálózati forgalom (másodlagos)",
@@ -11,5 +10,6 @@
     "9": "d",
     "10": "óra",
     "11": "hr",
-    "12": "m"
+    "12": "m",
+    "dir": "ltr"
 }

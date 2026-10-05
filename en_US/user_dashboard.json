@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Greetings,",
     "2": "Dashboard",
     "3": "Sharing",
@@ -71,5 +70,6 @@
     "69": "Traffic used so far this month. All times based on",
     "70": "Wk",
     "71": "Mo",
-    "72": "Account"
+    "72": "Account",
+    "dir": "ltr"
 }

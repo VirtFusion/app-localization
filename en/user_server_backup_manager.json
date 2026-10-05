@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Backups are not available for this server",
     "2": "Last backup",
     "3": "Queued, waiting to start...",
@@ -49,5 +48,18 @@
     "47": "minute",
     "48": "minutes",
     "49": "Please wait",
-    "50": "before trying again."
+    "50": "before trying again.",
+    "53": "year",
+    "54": "years",
+    "55": "month",
+    "56": "months",
+    "57": "week",
+    "58": "weeks",
+    "59": "daily",
+    "60": "weekly",
+    "61": "monthly",
+    "62": "yearly",
+    "63": "minimum",
+    "64": "retained",
+    "dir": "ltr"
 }

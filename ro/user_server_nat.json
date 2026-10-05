@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sigur doriți să ștergeți acest domeniu?",
     "2": "Anulați",
     "3": "Șterge",
@@ -57,5 +56,6 @@
     "55": "Eroare. Lipsesc datele găsite. Vă rugăm să reîmprospătați pagina.",
     "56": "Porturi actualizate cu succes. Este posibil să dureze câteva minute pentru ca modificările să se propage.",
     "57": "Nu s-au făcut modificări.",
-    "58": "Actualizați"
+    "58": "Actualizați",
+    "dir": "ltr"
 }

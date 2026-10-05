@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Datum",
     "2": "Primljeni podaci",
     "3": "Podaci koji se prenose",
@@ -7,5 +6,6 @@
     "5": "Podaci mogu potrajati do 24 sata da postanu dostupni",
     "6": "Mesečna upotreba",
     "7": "Dnevna upotreba",
-    "8": "Kraj meseca"
+    "8": "Kraj meseca",
+    "dir": "ltr"
 }

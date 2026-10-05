@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Er du sikker på, at du vil slette dette domæne?",
     "2": "Annuller",
     "3": "Slet",
@@ -57,5 +56,6 @@
     "55": "Fejl. Manglende data fundet. Opdater venligst siden.",
     "56": "Ports opdateret med succes. Det kan tage et par minutter for ændringerne at sprede sig.",
     "57": "Der blev ikke foretaget nogen ændringer.",
-    "58": "Opdatering"
+    "58": "Opdatering",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Sind Sie sicher, dass Sie diese Domain löschen möchten?",
     "2": "Abbrechen",
     "3": "Löschen",
@@ -57,5 +56,6 @@
     "55": "Fehler: Fehlende Daten gefunden. Bitte aktualisieren Sie die Seite.",
     "56": "Die Ports wurden erfolgreich aktualisiert. Es kann ein paar Minuten dauern, bis die Änderungen übertragen werden.",
     "57": "Es wurden keine Änderungen vorgenommen.",
-    "58": "Update"
+    "58": "Update",
+    "dir": "ltr"
 }

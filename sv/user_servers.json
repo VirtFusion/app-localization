@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Skapat",
     "3": "Väntar",
@@ -39,5 +38,6 @@
     "37": "Skapa",
     "38": "Servern",
     "39": "Alla servrar",
-    "40": "En eller flera av dina servrar är markerade som underhåll och kan inte nås. Systemet som din server är bosatt på genomgår för närvarande underhåll och kommer att finnas tillgängligt igen inom kort."
+    "40": "En eller flera av dina servrar är markerade som underhåll och kan inte nås. Systemet som din server är bosatt på genomgår för närvarande underhåll och kommer att finnas tillgängligt igen inom kort.",
+    "dir": "ltr"
 }

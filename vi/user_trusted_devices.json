@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Thiết bị đáng tin cậy",
     "2": "Xóa tất cả",
     "3": "Bạn chưa có bất kỳ thiết bị nào được đánh dấu là đáng tin cậy. Bạn có thể tin tưởng một thiết bị vào lần đăng nhập tiếp theo bằng xác thực hai yếu tố.",
@@ -32,5 +31,6 @@
     "30": "nguyên chất",
     "31": "phút",
     "32": "giờ",
-    "33": "ngày"
+    "33": "ngày",
+    "dir": "ltr"
 }

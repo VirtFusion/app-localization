@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Aufgabe",
     "2": "Server",
     "3": "Angefordert",
@@ -27,5 +26,6 @@
     "25": "Zu dem Zeitpunkt, an dem diese Aktion angefordert wurde, war eine Systemwartungsaufgabe im Gange. Weitere Anforderungen werden wahrscheinlich abgebrochen, bis die Systemwartungsaufgabe abgeschlossen ist. Versuchen Sie es in fünf Minuten erneut.",
     "26": "Das System hat nicht auf die Aktionsanfrage reagiert. Weitere Versuche werden wahrscheinlich abgebrochen, bis das System normal reagiert. Versuchen Sie es in fünf Minuten erneut.",
     "27": "Die CD\/DVD konnte nicht eingelegt werden. Wenn eine benutzerdefinierte CD\/DVD verwendet wird, ist der Remote-Server möglicherweise nicht für das Streamen von Daten konfiguriert. Es sollte eine andere Ressource versucht werden. Dieser Fehler kann möglicherweise durch einen Neustart des Servers behoben werden.",
-    "28": "Die CD\/DVD konnte nicht ausgeworfen werden. Dieser Fehler kann durch ein Herunterfahren des Servers behoben werden."
+    "28": "Die CD\/DVD konnte nicht ausgeworfen werden. Dieser Fehler kann durch ein Herunterfahren des Servers behoben werden.",
+    "dir": "ltr"
 }

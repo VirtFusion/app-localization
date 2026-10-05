@@ -1,8 +1,8 @@
 {
-    "dir": "ltr",
     "1": "Primær",
     "2": "Sekundær",
     "3": "Systemstandard",
     "4": "Resolver opdateret med succes. En genstart er påkrævet, før resolverne kan bruges.",
-    "5": "Opløsere kunne ikke opdateres. Prøv igen senere."
+    "5": "Opløsere kunne ikke opdateres. Prøv igen senere.",
+    "dir": "ltr"
 }

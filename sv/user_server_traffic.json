@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Datum",
     "2": "Mottagna data",
     "3": "Överförda data",
@@ -7,5 +6,6 @@
     "5": "Data kan ta upp till 24 timmar innan de blir tillgängliga",
     "6": "Månatlig användning",
     "7": "Daglig användning",
-    "8": "Månadens slut"
+    "8": "Månadens slut",
+    "dir": "ltr"
 }

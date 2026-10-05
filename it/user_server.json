@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Eliminazione del backup",
     "2": "Siete sicuri di voler eliminare questo backup?",
     "3": "Annullamento",
@@ -378,5 +377,7 @@
     "379": "Informazioni sulla CPU non disponibili",
     "380": "A seconda del sistema operativo installato e dello stato attivo del server, potrebbe non essere possibile visualizzare l'utilizzo della CPU.",
     "381": "Il traffico di rete generato da questo server è coperto dalla normativa",
-    "382": "traffico del pacchetto di risorse."
+    "382": "traffico del pacchetto di risorse.",
+    "383": "Superamento del limite",
+    "dir": "ltr"
 }

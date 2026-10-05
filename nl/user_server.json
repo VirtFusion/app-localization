@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Back-up verwijderen",
     "2": "Weet je zeker dat je deze back-up wilt verwijderen?",
     "3": "Annuleren",
@@ -378,5 +377,7 @@
     "379": "CPU informatie niet beschikbaar",
     "380": "Afhankelijk van het geïnstalleerde besturingssysteem en de actieve status van de server, is het misschien niet mogelijk om het CPU-gebruik te bekijken.",
     "381": "Netwerkverkeer dat door deze server wordt gegenereerd, valt onder de",
-    "382": "resource pack verkeerstoeslag."
+    "382": "resource pack verkeerstoeslag.",
+    "383": "Boven de limiet",
+    "dir": "ltr"
 }

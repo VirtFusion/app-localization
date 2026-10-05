@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Hapus Cadangan",
     "2": "Apakah Anda yakin ingin menghapus cadangan ini?",
     "3": "Batal",
@@ -378,5 +377,7 @@
     "379": "Informasi CPU Tidak Tersedia",
     "380": "Tergantung pada sistem operasi yang diinstal dan status aktif server, mungkin tidak dapat melihat penggunaan CPU.",
     "381": "Lalu lintas jaringan yang dihasilkan oleh server ini tercakup dalam",
-    "382": "jatah lalu lintas paket sumber daya."
+    "382": "jatah lalu lintas paket sumber daya.",
+    "383": "Melebihi batas",
+    "dir": "ltr"
 }

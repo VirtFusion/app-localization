@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Não há backups disponíveis para este servidor",
     "2": "Último backup",
     "3": "Na fila, aguardando para começar...",
@@ -49,5 +48,18 @@
     "47": "minutos",
     "48": "minutos",
     "49": "Aguarde, por favor",
-    "50": "antes de tentar novamente."
+    "50": "antes de tentar novamente.",
+    "53": "ano",
+    "54": "anos",
+    "55": "mês",
+    "56": "meses",
+    "57": "semana",
+    "58": "semanas",
+    "59": "diariamente",
+    "60": "semanal",
+    "61": "mensal",
+    "62": "anual",
+    "63": "mínimo",
+    "64": "retido",
+    "dir": "ltr"
 }

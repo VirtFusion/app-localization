@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Pridanie kľúča SSH",
     "2": "Názov",
     "3": "Náhodné meno?",
@@ -48,5 +47,6 @@
     "46": "Kľúč bol úspešne vypnutý.",
     "47": "Názov musí mať od 3 do 100 znakov a je to povinné pole.",
     "48": "Verejný kľúč musí byť platný kľúč a je to povinné pole.",
-    "49": "Vy"
+    "49": "Vy",
+    "dir": "ltr"
 }

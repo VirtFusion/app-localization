@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Brisanje varnostne kopije",
     "2": "Ali ste prepričani, da želite izbrisati to varnostno kopijo?",
     "3": "Prekliči",
@@ -378,5 +377,7 @@
     "379": "Informacije o CPU niso na voljo",
     "380": "Glede na nameščeni operacijski sistem in aktivno stanje strežnika morda ne bo mogoče prikazati izkoriščenosti procesorja.",
     "381": "Omrežni promet, ki ga ustvarja ta strežnik, je zajet v",
-    "382": "dovoljenje za promet v paketu virov."
+    "382": "dovoljenje za promet v paketu virov.",
+    "383": "Prekoračitev limita",
+    "dir": "ltr"
 }

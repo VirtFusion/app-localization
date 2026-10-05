@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Haluatko varmasti poistaa tämän verkkotunnuksen?",
     "2": "Peruuta",
     "3": "Poista",
@@ -57,5 +56,6 @@
     "55": "Virhe. Puuttuvat tiedot löydetty. Päivitä sivu.",
     "56": "Portit päivitettiin onnistuneesti. Muutosten leviaminen voi kestää muutaman minuutin.",
     "57": "Muutoksia ei tehty.",
-    "58": "Päivitys"
+    "58": "Päivitys",
+    "dir": "ltr"
 }

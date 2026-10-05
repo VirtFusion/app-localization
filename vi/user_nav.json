@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Bảng điều khiển",
     "2": "Máy chủ",
     "3": "Phím SSH",
@@ -12,5 +11,6 @@
     "10": "Tối (Xám)",
     "11": "Tối (Đen)",
     "12": "Đăng xuất",
-    "13": "Tài khoản"
+    "13": "Tài khoản",
+    "dir": "ltr"
 }

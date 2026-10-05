@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Dôveryhodné zariadenia",
     "2": "Odstrániť všetko",
     "3": "Zatiaľ nemáte žiadne zariadenie označené ako dôveryhodné. Zariadenie môžete dôveryhodne označiť pri ďalšom prihlásení pomocou dvojfaktorového overovania.",
@@ -32,5 +31,6 @@
     "30": "sekúnd",
     "31": "zápisnice",
     "32": "hodiny",
-    "33": "dni"
+    "33": "dni",
+    "dir": "ltr"
 }

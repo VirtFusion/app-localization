@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Zadanie",
     "2": "Serwer",
     "3": "Wymagane",
@@ -27,5 +26,6 @@
     "25": "W momencie żądania tej akcji trwało zadanie konserwacji systemu. Kolejne żądania będą prawdopodobnie anulowane do czasu zakończenia zadania konserwacji systemu. Spróbuj ponownie za pięć minut.",
     "26": "System nie odpowiedział na żądanie akcji. Kolejne próby będą prawdopodobnie anulowane do czasu, aż system zacznie odpowiadać normalnie. Spróbuj ponownie za pięć minut.",
     "27": "Nie można było włożyć płyty CD\/DVD. Jeśli używana jest niestandardowa płyta CD\/DVD, serwer zdalny może nie być skonfigurowany do strumieniowego przesyłania danych. Należy spróbować użyć innego zasobu. Ten błąd można rozwiązać poprzez ponowne uruchomienie serwera.",
-    "28": "Nie można wysunąć płyty CD\/DVD. Ten błąd można rozwiązać poprzez zamknięcie serwera."
+    "28": "Nie można wysunąć płyty CD\/DVD. Ten błąd można rozwiązać poprzez zamknięcie serwera.",
+    "dir": "ltr"
 }

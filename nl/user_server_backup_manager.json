@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Er zijn geen back-ups beschikbaar voor deze server",
     "2": "Laatste back-up",
     "3": "In de wachtrij, klaar om te beginnen...",
@@ -49,5 +48,18 @@
     "47": "minuten",
     "48": "notulen",
     "49": "Even geduld a.u.b.",
-    "50": "voordat je het opnieuw probeert."
+    "50": "voordat je het opnieuw probeert.",
+    "53": "jaar",
+    "54": "jaren",
+    "55": "maand",
+    "56": "maanden",
+    "57": "week",
+    "58": "weken",
+    "59": "dagelijks",
+    "60": "wekelijks",
+    "61": "maandelijks",
+    "62": "jaarlijks",
+    "63": "minimum",
+    "64": "behouden",
+    "dir": "ltr"
 }

@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Hälsningar,",
     "2": "Dashboard",
     "3": "Delning",
@@ -71,5 +70,6 @@
     "69": "Trafiken används hittills denna månad. Alla tider baserade på",
     "70": "Week",
     "71": "Mo",
-    "72": "Konto"
+    "72": "Konto",
+    "dir": "ltr"
 }

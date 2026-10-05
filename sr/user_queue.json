@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Zadatak",
     "2": "Server",
     "3": "Traženo",
@@ -27,5 +26,6 @@
     "25": "Zadatak održavanja sistema je bio u toku u vreme kada je ova akcija tražena. Dalji zahtevi će verovatno biti otkazani dok se zadatak održavanja sistema ne završi. Pokušajte ponovo za pet minuta.",
     "26": "Sistem nije uspeo da odgovori na zahtev za akciju. Dalji pokušaji će verovatno biti otkazani dok sistem ne reaguje normalno. Pokušajte ponovo za pet minuta.",
     "27": "CD\/DVD nije mogao da se ubaci. Ako se koristi prilagođeni CD\/DVD, udaljeni server možda neće biti konfigurisan za strimovanje podataka. Treba pokušati drugačiji resurs. Ova greška se može rešiti ponovnim pokretanjem servera.",
-    "28": "CD\/DVD nije mogao da se izbaci. Ova greška se može rešiti isključivanjem servera."
+    "28": "CD\/DVD nije mogao da se izbaci. Ova greška se može rešiti isključivanjem servera.",
+    "dir": "ltr"
 }

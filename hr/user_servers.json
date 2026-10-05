@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Stvoreno",
     "3": "Čekaju",
@@ -39,5 +38,6 @@
     "37": "Stvorite",
     "38": "Server",
     "39": "Svi serveri",
-    "40": "Jedan ili više vaših poslužitelja označeno je kao održavanje i ne može im se pristupiti. Sustav na kojem se nalazi vaš poslužitelj trenutno se održava i uskoro će biti dostupan ponovno."
+    "40": "Jedan ili više vaših poslužitelja označeno je kao održavanje i ne može im se pristupiti. Sustav na kojem se nalazi vaš poslužitelj trenutno se održava i uskoro će biti dostupan ponovno.",
+    "dir": "ltr"
 }

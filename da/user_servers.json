@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Status",
     "2": "Oprettet",
     "3": "Afventer",
@@ -39,5 +38,6 @@
     "37": "Opret",
     "38": "Server",
     "39": "Alle servere",
-    "40": "En eller flere af dine servere er markeret som værende under vedligeholdelse og kan ikke tilgås. Systemet, som din server befinder sig på, er i øjeblikket under vedligeholdelse og vil snart være tilgængeligt igen."
+    "40": "En eller flere af dine servere er markeret som værende under vedligeholdelse og kan ikke tilgås. Systemet, som din server befinder sig på, er i øjeblikket under vedligeholdelse og vil snart være tilgængeligt igen.",
+    "dir": "ltr"
 }

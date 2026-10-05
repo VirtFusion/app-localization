@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Kiszolgáló létrehozása",
     "2": "Melyik erőforráscsomagot szeretné használni a kiszolgáló létrehozásához?",
     "3": "Hozzon létre egy órakiszolgálót, vagy válasszon ki egy erőforráscsomagot.",
@@ -44,5 +43,6 @@
     "42": "Válassza ki a szükséges CPU-magok számát az alábbi lehetőségek közül. A magok száma határozza meg, hogy a kiszolgáló hány feladatot tud egyszerre feldolgozni, és közvetlenül befolyásolja az általános teljesítményt. Válassza ki a munkaterhelésnek és a futtatni kívánt alkalmazásoknak leginkább megfelelő opciót.",
     "43": "Válassza ki a szükséges tárhely mennyiségét az alábbi lehetőségek közül. A tárhely mérete határozza meg, hogy mennyi adatot, fájlt és alkalmazást tud tárolni a kiszolgálója. Válasszon olyan opciót, amely elegendő helyet biztosít a jelenlegi igényeinek, és helyet biztosít a jövőbeli növekedéshez.",
     "44": "Állítsa be a kiszolgálót a szükséges erőforrások mennyiségének kiválasztásával. Ezek a beállítások határozzák meg a kiszolgáló teljesítményét és kapacitását, segítve az igényeinek és a tervezett felhasználásnak megfelelő beállítás létrehozását.",
-    "45": "A kiszolgáló forgalmi engedélyét a kiválasztott erőforráscsomag tartalmazza, így nincs szükség további konfigurációra."
+    "45": "A kiszolgáló forgalmi engedélyét a kiválasztott erőforráscsomag tartalmazza, így nincs szükség további konfigurációra.",
+    "dir": "ltr"
 }

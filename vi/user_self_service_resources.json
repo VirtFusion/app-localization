@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Tổng quan",
     "2": "Tài nguyên",
     "3": "Tín dụng",
@@ -39,5 +38,6 @@
     "37": "Tài liệu tham khảo",
     "38": "Áp dụng",
     "39": "Không tìm thấy tín dụng.",
-    "40": "Khi các khoản tín dụng được thêm vào tài khoản của bạn, chúng sẽ hiển thị ở đây."
+    "40": "Khi các khoản tín dụng được thêm vào tài khoản của bạn, chúng sẽ hiển thị ở đây.",
+    "dir": "ltr"
 }

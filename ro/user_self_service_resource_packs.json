@@ -1,5 +1,4 @@
 {
-    "dir": "ltr",
     "1": "Editați pachetul de resurse",
     "2": "Anulați",
     "3": "Salvați",
@@ -26,5 +25,6 @@
     "24": "Folosit",
     "25": "de",
     "26": "Utilizarea traficului pentru perioada respectivă",
-    "27": "la"
+    "27": "la",
+    "dir": "ltr"
 }
